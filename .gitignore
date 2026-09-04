@@ -1,0 +1,15 @@
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local scratch; the workflow downloads into a temp folder, never here
+tmp/
+*.tmp
+*.part
+*.log
+
+# Nothing under data/ is ignored. Every mirrored file is meant to be committed.
