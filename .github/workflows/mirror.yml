@@ -1,0 +1,165 @@
+name: Mirror the CarsMultiverse open datasets
+
+# Runs every night at 03:40 UTC and on demand. Downloads every dataset the
+# site lists, plus the register index and the list of changes caught, into a
+# staging folder first. Only when every download has succeeded and parsed is
+# the staging folder copied over data/. A commit is made only if something
+# changed. Partial data is never committed.
+
+on:
+  schedule:
+    - cron: "40 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      BASE: https://carsmultiverse.com
+      UA: cmv-open-data-mirror (GitHub Actions)
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Download everything into a staging folder
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          STAGE="$(mktemp -d)"
+          mkdir -p "$STAGE/data"
+          echo "STAGE=$STAGE" >> "$GITHUB_ENV"
+
+          fetch() {
+            curl --fail --silent --show-error --location \
+              --retry 3 --retry-delay 15 --retry-all-errors \
+              --max-time 180 --user-agent "$UA" \
+              --output "$2" "$1"
+            if [ ! -s "$2" ]; then
+              echo "Empty download: $1" >&2
+              exit 1
+            fi
+          }
+
+          check_json() {
+            jq -e . "$1" > /dev/null || { echo "Not valid JSON: $1" >&2; exit 1; }
+          }
+
+          echo "Reading the dataset index"
+          fetch "$BASE/wp-json/cmvdata/v1/index" "$STAGE/datasets-index.json"
+          check_json "$STAGE/datasets-index.json"
+
+          jq -r '
+            (.datasets // [])
+            | if type == "array" then . else [] end
+            | .[]
+            | select(type == "object")
+            | [ ((.dataset // .id) // empty), (.csv // ""), (.json // "") ]
+            | @tsv
+          ' "$STAGE/datasets-index.json" > "$STAGE/list.tsv"
+
+          if [ ! -s "$STAGE/list.tsv" ]; then
+            echo "The dataset index listed no datasets. Stopping without changes." >&2
+            exit 1
+          fi
+
+          while IFS=$'\t' read -r id csv json; do
+            if ! [[ "$id" =~ ^[A-Za-z0-9._-]+$ ]]; then
+              echo "Refusing dataset id with unexpected characters: $id" >&2
+              exit 1
+            fi
+            if [ -n "$csv" ]; then
+              echo "Dataset $id: csv"
+              fetch "$csv" "$STAGE/data/$id.csv"
+            fi
+            if [ -n "$json" ]; then
+              echo "Dataset $id: json"
+              fetch "$json" "$STAGE/data/$id.json"
+              check_json "$STAGE/data/$id.json"
+            fi
+            if [ -z "$csv" ] && [ -z "$json" ]; then
+              echo "Dataset $id has neither a csv nor a json url. Stopping." >&2
+              exit 1
+            fi
+          done < "$STAGE/list.tsv"
+
+          echo "Register index"
+          fetch "$BASE/wp-json/cmvreg/v1/index" "$STAGE/data/register-index.json"
+          check_json "$STAGE/data/register-index.json"
+
+          echo "Changes caught"
+          fetch "$BASE/wp-json/cmvreg/v1/changes" "$STAGE/data/changes.json"
+          check_json "$STAGE/data/changes.json"
+
+          cp "$STAGE/datasets-index.json" "$STAGE/data/datasets-index.json"
+          echo "All downloads succeeded."
+
+      - name: Copy the staging folder over data/
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p data
+          find data -mindepth 1 -delete
+          cp "$STAGE/data/"* data/
+          ls -l data
+
+      - name: Write the changelog line and commit if anything changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -A data
+          if git diff --cached --quiet -- data; then
+            echo "Nothing changed since the last mirror. No commit."
+            exit 0
+          fi
+
+          today="$(date -u +%Y-%m-%d)"
+          parts=()
+          for f in data/*.csv; do
+            [ -e "$f" ] || continue
+            name="$(basename "$f" .csv)"
+            lines="$(wc -l < "$f")"
+            rows=$(( lines > 0 ? lines - 1 : 0 ))
+            parts+=("$name $rows rows")
+          done
+
+          count_rows() {
+            jq -r '
+              if type == "array" then length
+              elif type == "object" then
+                ( if (.rows | type) == "array" then (.rows | length)
+                  elif (.count | type) == "number" then .count
+                  else 0 end )
+              else 0 end
+            ' "$1"
+          }
+          reg="$(count_rows data/register-index.json)"
+          chg="$(count_rows data/changes.json)"
+          parts+=("register-index $reg rows" "changes $chg rows")
+
+          line="- $today:"
+          sep=" "
+          for p in "${parts[@]}"; do
+            line="$line$sep$p"
+            sep="; "
+          done
+          if [ ! -f CHANGELOG.md ]; then
+            printf '# Changelog\n\nOne line per night on which the mirror changed. Row counts are for the site fields. The notice wording belongs to the registers.\n\n' > CHANGELOG.md
+          fi
+          echo "$line" >> CHANGELOG.md
+          git add CHANGELOG.md
+
+          git config user.name "cmv-mirror[bot]"
+          git config user.email "cmv-mirror@users.noreply.github.com"
+          git commit -m "Nightly mirror $today" -m "$line"
+          git push
