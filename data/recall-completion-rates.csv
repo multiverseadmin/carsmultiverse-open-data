@@ -1,0 +1,634 @@
+campaign,mfg,make,vehicles,rate,unfixed
+23V420,"Ford Motor Company",FORD,691133,39.2,420209
+23V431,"Honda (American Honda Motor Co.)",HONDA,1209673,77.9,267338
+23V158,"Honda (American Honda Motor Co.)",HONDA,448613,47.8,234176
+23V093,"Nissan North America, Inc.",NISSAN,712458,69.7,215875
+22V955,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,348183,45.6,189412
+23V162,"Ford Motor Company",FORD,1280726,86.2,176740
+22V644,"Ford Motor Company",LINCOLN,277040,42.7,158744
+22V903,"General Motors, LLC",CADILLAC,740108,79.3,153202
+22V859,"Ford Motor Company",FORD,521746,77.4,117915
+23V339,"General Motors, LLC",CHEVROLET,668187,83.4,110919
+23V149,"Kia America, Inc.",KIA,188912,41.4,110702
+22V907,"Subaru of America, Inc.",SUBARU,271694,60.2,108134
+22V875,"Nissan North America, Inc.",NISSAN,125215,16.1,105055
+23V163,"Ford Motor Company",FORD,222454,53.7,102996
+22V842,"Ford Motor Company",FORD,483082,79.2,100481
+23V228,"Honda (American Honda Motor Co.)",HONDA,616128,85.7,88106
+22V867,"Honda (American Honda Motor Co.)",HONDA,117445,39.9,70584
+23V342,"Ford Motor Company",LINCOLN,442973,84.4,69104
+22V817,"Daimler Trucks North America, LLC",FREIGHTLINER,219390,68.6,68888
+22V648,"Ford Motor Company",LINCOLN,198482,67.3,64904
+23V594,"Kia America, Inc.",KIA,319436,80.2,63248
+23V654,"Chrysler (FCA US, LLC)",RAM,272911,77.1,62497
+23V181,"Hyundai Motor America",HYUNDAI,584784,90.5,55554
+22V142,"Ford Motor Company",FORD,157306,65.4,54428
+23V060,"Chrysler (FCA US, LLC)",RAM,302067,82,54372
+23V727,"Ford Motor Company",FORD,187922,71.2,54122
+22V594,"Ford Motor Company",FORD,64974,17.1,53863
+22V709,"General Motors, LLC",CADILLAC,95231,43.8,53520
+23V598,"Ford Motor Company",LINCOLN,177402,71.1,51269
+22V337,"Ford Motor Company",FORD,310203,83.5,51183
+23V115,"Chrysler (FCA US, LLC)",DODGE,139019,63.2,51159
+23V358,"Ford Motor Company",FORD,175550,73.4,46696
+23V177,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,61450,31.7,41970
+23V296,"Nissan North America, Inc.",NISSAN,94343,56.7,40851
+23V704,"Honda (American Honda Motor Co.)",HONDA,264567,85,39685
+23V744,"General Motors, LLC",BUICK,60154,35.5,38799
+22V702,"Tesla, Inc.",TESLA,1096762,96.5,38387
+22V796,"Daimler Vans USA, LLC",MERCEDES-BENZ,124305,69.5,37913
+22V315,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,350294,89.3,37481
+23V306,"Ford Motor Company",FORD,231942,85,34791
+23V458,"Honda (American Honda Motor Co.)",HONDA,124077,72.3,34369
+23V265,"Chrysler (FCA US, LLC)",RAM,131700,75.6,32135
+22V640,"General Motors, LLC",CHEVROLET,120688,73.8,31620
+23V576,"Chrysler (FCA US, LLC)",JEEP,181999,83.6,29848
+23V410,"Kia America, Inc.",KIA,98944,71.7,28001
+23V577,"Chrysler (FCA US, LLC)",JEEP,162713,83.4,27010
+22V626,"Kia America, Inc.",KIA,36417,27.1,26548
+23V105,"Daimler Trucks North America, LLC",FREIGHTLINER,60604,56.5,26363
+22V953,"Ford Motor Company",LINCOLN,101001,74.3,25957
+23V370,"Navistar, Inc.",INTERNATIONAL,59684,58.1,25008
+23V191,"Chrysler (FCA US, LLC)",JEEP,35829,32.2,24292
+23V100,"Daimler Vans USA, LLC",MERCEDES-BENZ,52993,57,22787
+23V010,"Chrysler (FCA US, LLC)",CHRYSLER,67117,66.1,22753
+23V775,"Ford Motor Company",FORD,45173,51.6,21864
+23V073,"Daimler Trucks North America, LLC","WESTERN STAR",70167,69.9,21120
+22V767,"Chrysler (FCA US, LLC)",JEEP,60413,66.6,20178
+22V703,"Kia America, Inc.",KIA,70887,71.6,20132
+23V534,"Kia America, Inc.",KIA,121411,83.7,19790
+23V411,"Chrysler (FCA US, LLC)",JEEP,80629,77.1,18464
+22V686,"Ford Motor Company",FORD,86050,78.8,18243
+23V378,"Ford Motor Company",LINCOLN,142734,87.4,17984
+22V954,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,131653,86.4,17905
+23V610,"Kia America, Inc.",KIA,144979,88.5,16673
+22V256,"Ford Motor Company",FORD,23165,28.2,16632
+23V352,"Chrysler (FCA US, LLC)",JEEP,89372,81.9,16176
+23V716,"Chrysler (FCA US, LLC)",JEEP,97066,85.3,14269
+23V445,"Mercedes-Benz USA, LLC",MERCEDES-MAYBACH,143551,90.1,14212
+23V298,"Kia America, Inc.",KIA,108936,87.2,13944
+22V930,"General Motors, LLC",CHEVROLET,111242,88,13349
+23V048,"Nissan North America, Inc.",NISSAN,64732,79.4,13335
+23V799,"Chrysler (FCA US, LLC)",RAM,185251,93.1,12782
+23V444,"Daimler Vans USA, LLC",MERCEDES-BENZ,20500,41.6,11972
+22V624,"Subaru of America, Inc.",SUBARU,188397,93.9,11492
+23V301,"Chrysler (FCA US, LLC)",RAM,165503,93.1,11420
+23V302,"Chrysler (FCA US, LLC)",JEEP,25980,57.6,11016
+23V142,"Toyota Motor Engineering & Manufacturing",TOYOTA,130266,91.6,10942
+23V669,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",20668,48,10747
+23V013,"General Motors, LLC",GMC,23323,55.2,10449
+23V263,"Chrysler (FCA US, LLC)",JEEP,45832,77.4,10358
+23V038,"Hyundai Motor America",HYUNDAI,16104,35.9,10323
+23V595,"Ford Motor Company",FORD,41555,75.4,10223
+22V762,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",17613,43.2,10004
+23V178,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,70225,86.3,9621
+23V480,"Toyota Motor Engineering & Manufacturing",TOYOTA,152927,93.8,9481
+22V155,"Volkswagen Group of America, Inc.",AUDI,47238,80.2,9353
+23V237,"Daimler Trucks North America, LLC",FREIGHTLINER,57504,84.4,8971
+23V579,"Kia America, Inc.",KIA,50517,83.1,8537
+22V880,"Ford Motor Company",FORD,18808,55.9,8294
+23V059,"Chrysler (FCA US, LLC)",RAM,77079,89.4,8170
+23V506,"Ford Motor Company",FORD,38695,79.3,8010
+23V236,"Kia America, Inc.",KIA,51568,84.6,7941
+23V333,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",23590,66.5,7903
+23V634,"Kia America, Inc.",KIA,18224,57.7,7709
+23V511,"Volvo Trucks North America",VOLVO,55012,86.1,7647
+23V180,"Hyundai Motor America",HYUNDAI,167085,95.5,7519
+22V836,"Kia America, Inc.",KIA,27030,72.2,7514
+23V545,"Chrysler (FCA US, LLC)",JEEP,44708,83.2,7511
+23V035,"Kia America, Inc.",KIA,31943,76.7,7443
+23V573,"Ford Motor Company",FORD,18513,60.2,7368
+22V869,"Navistar, Inc.",INTERNATIONAL,25822,72.6,7075
+23V247,"General Motors, LLC",GMC,150830,95.4,6938
+22V544,"Chrysler (FCA US, LLC)",JEEP,99186,93.2,6745
+23V466,"Polaris Industries Inc.",POLARIS,22218,69.7,6732
+23V248,"Navistar, Inc.",INTERNATIONAL,42054,84.7,6434
+23V085,"Tesla, Inc.",TESLA,362758,98.3,6167
+22V883,"Winnebago Towable",WINNEBAGO,6553,6.9,6101
+23V336,"Chrysler (FCA US, LLC)",JEEP,17108,64.9,6005
+23V692,"Kia America, Inc.",KIA,22768,73.7,5988
+23V494,"Nissan North America, Inc.",NISSAN,66159,91,5954
+23V208,"Daimler Trucks North America, LLC","WESTERN STAR",24282,75.5,5949
+23V270,"Winnebago Towable",WINNEBAGO,10492,45.6,5708
+22V746,"Hyundai Motor America",HYUNDAI,56148,90.1,5559
+23V120,"Navistar, Inc.",INTERNATIONAL,27972,81.7,5119
+23V116,"Chrysler (FCA US, LLC)",JEEP,69201,92.7,5052
+23V266,"General Motors, LLC",CHEVROLET,40428,87.6,5013
+23V384,"Toyota Motor Engineering & Manufacturing",TOYOTA,96007,94.9,4896
+23V591,"Harley-Davidson Motor Company",HARLEY-DAVIDSON,65224,92.5,4892
+23V129,"Royal Enfield North America Limited","ROYAL ENFIELD",4891,1.9,4798
+23V233,"Rivian Automotive, LLC",RIVIAN,5030,7.7,4643
+22V099,"Daimler Vans USA, LLC",MERCEDES-BENZ,17093,73.8,4478
+23V195,"Honda (American Honda Motor Co.)",HONDA,15848,72.5,4358
+23V488,"Tesla, Inc.",TESLA,15869,74.3,4078
+23V418,"Ford Motor Company",FORD,16375,75.8,3963
+22V939,"PACCAR Incorporated",PETERBILT,15658,75.5,3836
+22V843,"Tesla, Inc.",TESLA,29348,87.4,3698
+23V189,"Volkswagen Group of America, Inc.",AUDI,5224,30.6,3625
+23V398,"Navistar, Inc.","IC BUS",15398,76.8,3572
+23V065,"Navistar, Inc.","IC BUS",12507,71.8,3527
+23V371,"Navistar, Inc.","IC BUS",19376,82.2,3449
+23V049,"Winnebago Industries, Inc.",WINNEBAGO,9720,64.7,3431
+23V311,"Winnebago Towable",WINNEBAGO,4313,22,3364
+23V687,"Ford Motor Company",FORD,34762,90.6,3268
+23V596,"Ford Motor Company",FORD,8523,62.8,3171
+23V179,"Kia America, Inc.",KIA,3555,10.9,3168
+22V861,"Volkswagen Group of America, Inc.",AUDI,50883,93.9,3104
+23V397,"Navistar, Inc.",INTERNATIONAL,6786,54.3,3101
+23V531,"Kia America, Inc.",KIA,39765,92.3,3062
+23V578,"Trail King Industries, Inc.","TRAIL KING",5641,45.8,3057
+23V526,"Hyundai Motor America",HYUNDAI,52109,94.4,2918
+23V393,"Jaguar Land Rover North America, LLC","LAND ROVER",29861,90.3,2897
+22V844,"Tesla, Inc.",TESLA,321628,99.1,2895
+23V630,"Hyundai Motor America",GENESIS,19272,85.4,2814
+23V412,"Chrysler (FCA US, LLC)",JEEP,12458,77.9,2753
+23V094,"Hyundai Motor America",GENESIS,65517,95.8,2752
+22V945,"Volkswagen Group of America, Inc.",VOLKSWAGEN,37558,92.9,2667
+23V040,"Volkswagen Group of America, Inc.",VOLKSWAGEN,20904,87.5,2613
+23V047,"General Motors, LLC",CHEVROLET,22132,88.6,2523
+23V097,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,26116,90.6,2455
+23V082,"Keystone RV Company",KEYSTONE,5564,56.5,2420
+23V319,"PJ Trailers","PJ TRAILERS",4905,51.1,2399
+22V715,"Corp. Micro Bird, Inc.","MICRO BIRD",2753,13.3,2387
+23V551,"Subaru of America, Inc.",SUBARU,35357,93.5,2298
+22V870,"Navistar, Inc.","IC BUS",5645,60.1,2252
+22V863,"Winnebago Industries, Inc.",WINNEBAGO,4521,51.6,2188
+22V658,"Shyft Group",UTILIMASTER,2139,0,2139
+23V262,"Forest River, Inc.",COACHMEN,2616,21.1,2064
+23V672,"Harley-Davidson Motor Company",HARLEY-DAVIDSON,4014,50,2007
+23V377,"Ducati North America",DUCATI,3315,40.1,1986
+23V109,"Rivian Automotive, LLC",RIVIAN,12716,84.4,1984
+23V369,"Jaguar Land Rover North America, LLC",JAGUAR,6422,69.2,1978
+23V285,"Thor Motor Coach","THOR MOTOR COACH",2919,32.9,1959
+23V583,"Triumph Motorcycles America, Ltd.",TRIUMPH,7541,75.3,1863
+23V113,"Thor Motor Coach","THOR MOTOR COACH",1969,6.1,1849
+23V170,"Navistar, Inc.",INTERNATIONAL,5769,68.2,1835
+22V271,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",2943,38,1825
+23V589,"Hyundai Motor America",HYUNDAI,37997,95.3,1786
+22V634,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",7561,77.4,1709
+23V646,"Wabash National Corporation","WABASH NATIONAL",3711,54.8,1677
+23V490,"Grand Design RV, LLC","GRAND DESIGN",6270,73.6,1655
+23V062,"Shyft Group",SPARTAN,2336,29.3,1652
+23V740,"Gillig, LLC",GILLIG,4286,62.2,1620
+23V750,"Volkswagen Group of America, Inc.",VOLKSWAGEN,24025,93.3,1610
+22V731,"Ford Motor Company",FORD,13455,88.2,1588
+23V172,"General Motors, LLC",CADILLAC,8744,82.1,1565
+23V086,"Volkswagen Group of America, Inc.",AUDI,12100,87.2,1549
+23V033,"Porsche Cars North America, Inc.",PORSCHE,24467,93.7,1541
+23V268,"Nissan North America, Inc.",NISSAN,12400,87.7,1525
+22V417,"Shyft Group",UTILIMASTER,5551,72.8,1510
+23V121,"Thor Motor Coach","THOR MOTOR COACH",1836,20.2,1465
+23V214,"Volkswagen Group of America, Inc.",VOLKSWAGEN,15874,91.8,1302
+23V655,"Diamond C Trailer MFG.","DIAMOND C TRAILERS",2523,48.5,1299
+23V041,"Toyota Motor Engineering & Manufacturing",TOYOTA,16679,92.4,1268
+23V423,"PACCAR Incorporated",PETERBILT,4967,74.7,1257
+23V829,"Indian Motorcycle Company",INDIAN,1215,0,1215
+23V394,"Jaguar Land Rover North America, LLC","LAND ROVER",12922,90.6,1215
+23V068,"Thor Motor Coach","THOR MOTOR COACH",1557,22.8,1202
+23V696,"Chrysler (FCA US, LLC)","ALFA ROMEO",4661,74.3,1198
+23V204,"Daimler Vans USA, LLC",FREIGHTLINER,6857,82.9,1173
+22V923,"General Motors, LLC",CHEVROLET,2108,44.6,1168
+23V221,"Jaguar Land Rover North America, LLC","LAND ROVER",2881,60.6,1135
+23V087,"PACCAR Incorporated",PETERBILT,8008,85.9,1129
+23V724,"Kia America, Inc.",KIA,6262,82.2,1115
+23V478,"Toyota Motor Engineering & Manufacturing",LEXUS,43442,97.5,1086
+23V649,"Kia America, Inc.",KIA,3866,72,1082
+22V868,"General Motors, LLC",CADILLAC,10199,89.8,1040
+23V282,"Navistar, Inc.",INTERNATIONAL,9170,89.3,981
+23V801,"Ford Motor Company",FORD,5118,81.1,967
+23V510,"Ford Motor Company",FORD,5558,83.2,934
+23V275,"Mazda North American Operations",MAZDA,2410,61.8,921
+23V012,"Volvo Car USA, LLC",VOLVO,27457,96.7,906
+22V654,"Daimler Trucks North America, LLC","WESTERN STAR",3498,74.7,885
+22V759,"Chrysler (FCA US, LLC)",RAM,26961,96.9,836
+23V686,"Ford Motor Company",FORD,2866,71.8,808
+22V949,"REV Recreation Group",FLEETWOOD,1540,47.7,805
+23V455,"Grand Design RV, LLC","GRAND DESIGN",1366,41.5,799
+23V601,"Volkswagen Group of America, Inc.",AUDI,7499,89.5,787
+22V909,"Navistar, Inc.","IC BUS",6948,88.7,785
+22V733,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,19968,96.1,779
+23V119,"Navistar, Inc.",INTERNATIONAL,4199,82.1,752
+23V146,"Triumph Motorcycles America, Ltd.",TRIUMPH,988,26.4,727
+23V069,"Ford Motor Company",FORD,3674,80.7,709
+23V745,"Winnebago Towable",WINNEBAGO,856,22.2,666
+23V633,"Toyota Motor Engineering & Manufacturing",TOYOTA,21781,97,653
+23V612,"Forest River, Inc.","EAST TO WEST",2994,78.7,638
+22V246,"General Motors, LLC",BUICK,2687,76.9,621
+22V900,"KTM North America, Inc.",KTM,1040,41.1,613
+23V160,"Ford Motor Company",FORD,2716,77.8,603
+23V325,"Jayco, Inc.",ENTEGRA,1124,51.2,549
+23V549,"General Motors, LLC",CHEVROLET,3893,86,545
+23V657,"Nissan North America, Inc.",NISSAN,9813,94.5,540
+23V365,"Winnebago Industries, Inc.",WINNEBAGO,1328,60.5,525
+23V075,"Gillig, LLC",GILLIG,1335,61.9,509
+23V690,"Volvo Trucks North America",VOLVO,1933,74.2,499
+23V405,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,8281,94,497
+23V231,"Gulf Stream Coach, Inc.","GULF STREAM",557,13.3,483
+23V234,"Winnebago Industries, Inc.",WINNEBAGO,1266,62.4,476
+23V351,"REV Recreation Group","HOLIDAY RAMBLER",1186,60.1,473
+23V218,"Kia America, Inc.",KIA,2689,83.1,454
+22V754,"Shyft Group",UTILIMASTER,451,0,451
+23V722,"New Flyer of America, Inc.","NEW FLYER",2351,82,423
+23V258,"Subaru of America, Inc.",SUBARU,4409,90.4,423
+23V095,"Electra Meccanica Vehicles Corp",ELECTRAMECCANICA,429,4,412
+23V653,"PACCAR Incorporated",PETERBILT,1315,68.9,409
+23V489,"Tesla, Inc.",TESLA,1337,69.4,409
+23V527,"Porsche Cars North America, Inc.",PORSCHE,2934,86.1,408
+22V874,"General Motors, LLC",CHEVROLET,5861,93.2,399
+23V130,"Tesla, Inc.",TESLA,3470,88.7,392
+23V132,"Hyundai Motor America",HYUNDAI,25715,98.5,386
+23V044,"Jaguar Land Rover North America, LLC","LAND ROVER",6724,94.3,383
+23V456,"Hino Motors Sales U.S.A., Inc.",HINO,1865,80.2,369
+23V462,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,8178,95.5,368
+23V643,"Tiffin Motorhomes, Inc.",TIFFIN,1188,70.4,352
+23V496,"Nissan North America, Inc.",NISSAN,11824,97.1,343
+23V730,"Triumph Motorcycles America, Ltd.",TRIUMPH,3557,90.6,334
+22V928,"Ford Motor Company",FORD,1226,73.3,327
+23V515,"Kawasaki Motors Corp., U.S.A.",KAWASAKI,991,67,327
+23V320,"Outback customs,LLC",PLATINUM,317,0,317
+23V623,"Chrysler (FCA US, LLC)",DODGE,4129,92.5,310
+23V586,"Grand Design RV, LLC","GRAND DESIGN",1209,74.6,307
+23V261,"Honda (American Honda Motor Co.)",HONDA,1461,79.5,300
+23V647,"Subaru of America, Inc.",SUBARU,4311,93.1,297
+23V122,"Ford Motor Company",FORD,4804,93.9,293
+23V676,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,5326,94.5,293
+23V084,"Volkswagen Group of America, Inc.",AUDI,1047,73.7,275
+22V951,"Kibbi, LLC",RENEGADE,292,6.4,273
+23V150,"Terex Advance Mixer, Inc.","TEREX ADVANCE",271,0,271
+22V957,"Indian Motorcycle Company",INDIAN,4653,94.2,270
+23V101,"Daimler Vans USA, LLC",MERCEDES-BENZ,350,25,263
+23V283,"Ford Motor Company",FORD,1434,81.9,260
+23V501,"Jaguar Land Rover North America, LLC",JAGUAR,3134,91.7,260
+23V131,"Nissan North America, Inc.",NISSAN,1063,75.7,258
+23V309,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,3828,93.3,256
+23V360,"Mercedes-Benz USA, LLC",MERCEDES-MAYBACH,7558,96.8,242
+23V587,"Navistar, Inc.",INTERNATIONAL,624,61.2,242
+23V324,"Jaguar Land Rover North America, LLC","LAND ROVER",12587,98.1,239
+23V362,"Nissan North America, Inc.",NISSAN,758,70,227
+23V432,"Toyota Motor Engineering & Manufacturing",TOYOTA,298,24.1,226
+21V717,"Volvo Bus Corporation","VOLVO BUS",860,73.7,226
+23V719,"Mazda North American Operations",MAZDA,4252,94.7,225
+23V757,"Southeast Toyota Distributors, LLC",TOYOTA,534,59,219
+23V507,"Ford Motor Company",FORD,1339,83.9,216
+22V893,"Terex South Dakota, Inc.",TEREX,431,50,216
+23V663,"Winnebago Industries, Inc.",WINNEBAGO,4968,95.7,214
+23V560,"Hino Motors Sales U.S.A., Inc.",HINO,8025,97.4,209
+23V500,"Chrysler (FCA US, LLC)",CHRYSLER,967,78.6,207
+23V070,"Ford Motor Company",FORD,1138,82.1,204
+23V376,"Keystone RV Company",KEYSTONE,632,67.8,204
+23V567,"General Motors, LLC",CHEVROLET,317,36.1,203
+22V887,"Proterra Operating Company, Inc.",PROTERRA,300,32.5,203
+22V940,"PACCAR Incorporated",PETERBILT,2565,92.2,200
+23V077,"Lakota Corporation",LAKOTA,445,55.4,198
+23V111,"Toyota Motor Engineering & Manufacturing",TOYOTA,8989,97.8,198
+23V832,"PILOTCAR EV INC.",PILOTCAR,265,26,196
+23V608,"Triple E Recreational Vehicles","TRIPLE E",391,51.6,189
+23V199,"Ford Motor Company",FORD,674,72.5,185
+23V382,"Chrysler (FCA US, LLC)","ALFA ROMEO",719,74.4,184
+23V718,"Mazda North American Operations",MAZDA,11903,98.5,179
+22V771,"General Motors, LLC",GMC,797,77.9,176
+23V553,"Mazda North American Operations",MAZDA,17600,99,176
+22V806,"Volkswagen Group of America, Inc.",AUDI,6076,97.1,176
+23V165,"Ford Motor Company",FORD,1651,89.6,172
+23V056,"Pleasant Valley Teardrop Trailers LLC","PLEASANT VALLEY",640,73.2,172
+23V220,"Navistar, Inc.",INTERNATIONAL,770,78,169
+22V881,"Xos, Inc.",XOS,260,36,166
+23V679,"Tesla, Inc.",TESLA,54676,99.7,164
+23V709,"Jaguar Land Rover North America, LLC",JAGUAR,501,68.9,156
+23V064,"Subaru of America, Inc.",SUBARU,1182,87.1,152
+23V685,"Hyundai Translead","HYUNDAI TRANSLEAD",562,73.1,151
+23V139,"Off Grid Trailers","OFF GRID TRAILERS",150,1.3,148
+23V155,"Ford Motor Company",FORD,343,57.6,145
+23V273,"Nissan North America, Inc.",NISSAN,4249,96.7,140
+22V582,"PACCAR Incorporated",KENWORTH,630,77.8,140
+22V792,"Ford Motor Company",FORD,596,76.7,139
+23V773,"Forest River, Inc.","FOREST RIVER",559,75.2,139
+23V299,"Daimler Trucks North America, LLC",FREIGHTLINER,266,48,138
+23V166,"REV Recreation Group",FLEETWOOD,479,71.4,137
+22V906,"Kia America, Inc.",KIA,939,85.6,135
+23V045,"Jaguar Land Rover North America, LLC",JAGUAR,229,41.6,134
+23V156,"Spartan Fire, LLC","SPARTAN FIRE",166,20,133
+23V286,"Forest River, Inc.",COACHMEN,1027,87.5,128
+23V767,"Pratt Intermodal Chassis","PRATT INTERMODAL CHASSIS",320,60.7,126
+23V089,"Dennis Eagle Inc.","DENNIS EAGLE",140,10.6,125
+23V350,"Nova Bus (US) Inc.","NOVA BUS",166,26.2,123
+23V617,"PACCAR Incorporated",KENWORTH,871,86.5,118
+23V305,"Ford Motor Company",FORD,523,77.6,117
+23V300,"Hyundai Motor America",GENESIS,1790,93.5,116
+23V708,"Lucid USA, Inc.",LUCID,1267,91.1,113
+23V153,"Navistar, Inc.",INTERNATIONAL,660,83,112
+23V303,"Chrysler (FCA US, LLC)",JEEP,2564,95.7,110
+23V071,"Ford Motor Company",FORD,1159,90.8,107
+23V289,"Forest River, Inc.","FOREST RIVER",137,22.1,107
+23V002,"Triple E Recreational Vehicles","TRIPLE E",341,68.6,107
+23V650,"Hyundai Motor America",HYUNDAI,2354,95.5,106
+23V763,"Nova Bus (US) Inc.","NOVA BUS",339,68.8,106
+23V796,"McLaren Automotive Incorporated",MCLAREN,288,63.4,105
+23V138,"Newmar Corporation",NEWMAR,151,30.3,105
+23V346,"Dennis Eagle Inc.","DENNIS EAGLE",286,64.3,102
+23V459,"E-One Incorporated",E-ONE,163,37.5,102
+23V469,"Newmar Corporation",NEWMAR,372,73.5,99
+23V235,"Tesla, Inc.",TESLA,422,76.6,99
+22V854,"Gulf States Toyota, Inc.",TOYOTA,157,37.5,98
+23V030,"Jaguar Land Rover North America, LLC",JAGUAR,1072,90.9,98
+23V363,"ST Engineering Hackney, Inc",KIDRON,120,18.2,98
+23V387,"Triple E Recreational Vehicles","TRIPLE E RV",210,53.3,98
+23V016,"Subaru of America, Inc.",SUBARU,4615,97.9,97
+23V631,"Spartan Fire, LLC","SPARTAN FIRE",660,85.8,94
+23V015,"Forest River, Inc.","FOREST RIVER",296,68.8,92
+23V447,"Thor Motor Coach","THOR MOTOR COACH",213,56.6,92
+22V920,"Forest River, Inc.","FOREST RIVER",262,65.1,91
+22V902,"Nova Bus (US) Inc.","NOVA BUS",519,82.4,91
+23V725,"Nissan North America, Inc.",NISSAN,988,90.9,90
+23V308,"Tiffin Motorhomes, Inc.",TIFFIN,231,62.1,88
+23V017,"Isuzu Motors Limited",CHEVROLET,242,65.4,84
+23V104,"Tiffin Motorhomes, Inc.",TIFFIN,243,65.4,84
+23V603,"Interstate Group, LLC",INTERSTATE,263,68.6,83
+23V521,"Lucid USA, Inc.",LUCID,5523,98.5,83
+22V823,"Volkswagen Group of America, Inc.",AUDI,2607,96.8,83
+23V516,"General Motors, LLC",CHEVROLET,767,89.4,81
+23V364,"Grand Design RV, LLC","GRAND DESIGN",232,65.5,80
+22V899,"Kia America, Inc.",KIA,872,91.2,77
+23V154,"Navistar, Inc.",INTERNATIONAL,791,90.3,77
+23V641,"Chrysler (FCA US, LLC)",JEEP,6298,98.8,76
+23V635,"Gillig, LLC",GILLIG,223,66.8,74
+23V607,"Nova Bus (US) Inc.","NOVA BUS",1189,94,71
+23V151,"Grand Design RV, LLC","GRAND DESIGN",139,50,70
+23V605,"Mack Trucks, Inc.",MACK,395,82.4,70
+23V426,"Stoughton Trailers, LLC",STOUGHTON,1152,93.9,70
+23V463,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,1558,95.6,69
+22V898,"Hino Motors Sales U.S.A., Inc.",HINO,970,93,68
+23V518,"Jaguar Land Rover North America, LLC",JAGUAR,668,90,67
+23V106,"Polaris Inc.",POLARIS,163,58.6,67
+23V615,"Porsche Cars North America, Inc.",PORSCHE,4777,98.6,67
+23V375,"Forest River, Inc.","EAST TO WEST",258,74.5,66
+23V329,"Ferrari North America, Inc.",FERRARI,425,84.6,65
+23V537,"Daimler Trucks North America, LLC",FREIGHTLINER,205,68.8,64
+23V457,"Hino Motors Sales U.S.A., Inc.",HINO,64,0,64
+23V794,"Lode-King Industries, Ltd.","LODE KING",66,2.6,64
+23V063,"Daimler Trucks North America, LLC",FREIGHTLINER,192,67.4,63
+23V021,"Ford Motor Company",FORD,801,92.1,63
+23V169,"Keystone RV Company",KEYSTONE,276,77,63
+23V031,"Jaguar Land Rover North America, LLC","LAND ROVER",868,92.9,62
+23V137,"Jaguar Land Rover North America, LLC","LAND ROVER",812,92.6,60
+23V238,"Daimler Trucks North America, LLC",FCCC,306,80.8,59
+23V735,"Honda (American Honda Motor Co.)",HONDA,519,88.8,58
+22V876,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",151,62,57
+23V450,"ST Engineering Hackney, Inc",KIDRON,243,76.5,57
+22V510,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",1806,96.9,56
+23V467,"Daimler Trucks North America, LLC",FREIGHTLINER,82,31.8,56
+23V523,"Lucid USA, Inc.",LUCID,778,92.9,55
+23V355,"VinFast Auto, LLC",VINFAST,999,94.5,55
+23V173,"Volvo Trucks North America",VOLVO,1007,94.5,55
+23V593,"Volkswagen Group of America, Inc.",VOLKSWAGEN,2018,97.3,54
+23V107,"Par Nado inc","SAFARI CONDO",331,83.9,53
+22V272,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",138,62.3,52
+23V541,"Hino Motors Sales U.S.A., Inc.",HINO,468,89.1,51
+23V752,"Jayco, Inc.","JAYCO TRAVEL TRAILER",168,69.9,51
+23V110,"Lucid USA, Inc.",LUCID,886,94.2,51
+23V493,"Pleasure Way Industries, Ltd.","PLEASURE WAY",514,90.2,50
+23V230,"Great Dane Trailers","GREAT DANE",562,91.3,49
+23V006,"Triumph Motorcycles America, Ltd.",TRIUMPH,1351,96.4,49
+23V660,"Forest River, Inc.",COACHMEN,50,3.7,48
+23V574,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,880,94.5,48
+22V956,"Volkswagen Group of America, Inc.",VOLKSWAGEN,1042,95.4,48
+23V164,"Ford Motor Company",FORD,644,92.9,46
+23V227,"Forest River, Inc.","EAST TO WEST",98,53.3,46
+23V032,"Winnebago Industries, Inc.",WINNEBAGO,504,90.9,46
+22V714,"Corp. Micro Bird, Inc.","MICRO BIRD",45,0,45
+23V698,"Ferrari North America, Inc.",FERRARI,614,92.9,44
+22V850,"Navistar, Inc.","IC BUS",149,70.5,44
+23V620,"Ducati North America",DUCATI,842,94.9,43
+23V229,"Honda (American Honda Motor Co.)",HONDA,640,93.3,43
+22V872,"Navistar, Inc.","IC BUS",196,77.9,43
+23V126,"Prevost Car (US) Inc.",PREVOST,555,92.2,43
+23V401,"Volvo Trucks North America",VOLVO,243,82.1,43
+22V941,"Hyundai Motor America",HYUNDAI,853,95.1,42
+23V080,"Subaru of America, Inc.",SUBARU,8413,99.5,42
+23V279,"Triple E Recreational Vehicles","TRIPLE E RV",154,73,42
+23V621,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",679,94,41
+23V761,"Prevost Car (US) Inc.",PREVOST,204,80,41
+22V849,"Navistar, Inc.",INTERNATIONAL,95,58.3,40
+23V277,"Nova Bus (US) Inc.","NOVA BUS",40,0.7,40
+22V698,"Prevost Car (US) Inc.",PREVOST,255,84.2,40
+23V028,"Hyundai Motor America",HYUNDAI,326,88.1,39
+23V640,"Chrysler (FCA US, LLC)",DODGE,125,69.3,38
+23V742,"Gulf Stream Coach, Inc.","GULF STREAM",90,57.7,38
+23V485,"Gulf States Toyota, Inc.",TOYOTA,195,81.5,36
+23V430,"Honda (American Honda Motor Co.)",HONDA,386,90.8,36
+23V453,"Daimler Trucks North America, LLC",FREIGHTLINER,332,89.8,34
+23V161,"Kibbi, LLC",RENEGADE,63,46.4,34
+23V206,"Vermeer Manufacturing Company",VERMEER,1210,97.2,34
+23V335,"Dennis Eagle Inc.","DENNIS EAGLE",286,88.6,33
+23V127,"Xos, Inc.",XOS,259,87.3,33
+23V421,"Nissan North America, Inc.",NISSAN,230,85.9,32
+23V078,"Proterra Operating Company, Inc.",PROTERRA,252,87.5,32
+23V367,"General Motors, LLC",CADILLAC,33,7.1,31
+23V135,"Mazda North American Operations",MAZDA,560,94.4,31
+23V029,"Kalmar Solutions, LLC",KALMAR,128,76.3,30
+23V128,"Ford Motor Company",FORD,240,87.9,29
+23V254,"Forest River Bus, LLC","STARCRAFT BUS",29,0,29
+23V520,"Lucid USA, Inc.",LUCID,91,69.4,28
+23V278,"Heartland Recreational Vehicles, LLC",HEARTLAND,100,72.7,27
+23V670,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",173,85.1,26
+23V385,"Tesla, Inc.",TESLA,137,80.8,26
+23V157,"Eveland's Inc.",EVELAND,25,0,25
+23V027,"Kia America, Inc.",KIA,34,30.1,24
+23V007,"PACCAR Incorporated",KENWORTH,46,47.6,24
+22V866,"Chrysler (FCA US, LLC)",DODGE,5834,99.6,23
+23V484,"McLaren Automotive Incorporated",MCLAREN,652,96.5,23
+23V482,"Nova Bus (US) Inc.","NOVA BUS",414,94.4,23
+23V250,"Ducati North America",DUCATI,293,92.6,22
+23V404,"Jayco, Inc.",ENTEGRA,103,78.4,22
+23V037,"Lion Electric Company",LION,32,30.8,22
+23V439,"Ford Motor Company",LINCOLN,366,94.2,21
+23V642,"General Motors, LLC",CADILLAC,189,88.7,21
+23V673,"Jayco, Inc.",ENTEGRA,46,55,21
+23V613,"Volkswagen Group of America, Inc.",AUDI,1899,98.9,21
+23V188,"Volvo Car USA, LLC",VOLVO,393,94.6,21
+23V330,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",146,86.6,20
+23V689,"Volvo Trucks North America",VOLVO,29,32.3,20
+22V722,"Daimler Trucks North America, LLC","WESTERN STAR",36,46.9,19
+21V153,"Daimler Vans USA, LLC",MERCEDES-BENZ,56,65.7,19
+23V197,"Shadow Trailer, LLC",SHADOW,270,92.9,19
+23V255,"Volvo Trucks North America",VOLVO,236,91.8,19
+23V025,"Volvo Trucks North America",VOLVO,135,85.6,19
+23V141,"Forest River, Inc.",PALOMINO,272,93.5,18
+23V774,"Forest River, Inc.","FOREST RIVER",19,3.7,18
+23V468,"Toyota Motor Engineering & Manufacturing",TOYOTA,1398,98.7,18
+23V441,"Volvo Trucks North America",VOLVO,224,91.9,18
+23V014,"Forest River Bus, LLC","FOREST RIVER",17,0,17
+23V624,"Midwest Fire Equipment & Repair Company","MIDWEST FIRE",19,8.6,17
+23V348,"Daimler Trucks North America, LLC","WESTERN STAR",47,66.7,16
+23V203,"Jayco, Inc.","JAYCO FIFTH WHEEL",37,56.5,16
+23V091,"Jayco, Inc.",JAYCO,20,18,16
+23V668,"Volvo Bus Corporation","VOLVO BUS",19,15,16
+23V638,"Forest River, Inc.","FOREST RIVER",39,62.2,15
+23V786,"General Motors, LLC",GMC,115,87.1,15
+23V529,"Temp-Air, a division of Sunbelt Rentals","TEMP AIR",16,3.7,15
+22V914,"Daimler Trucks North America, LLC",FCCC,23,39.6,14
+23V746,"Mack Trucks, Inc.",MACK,74,80.9,14
+23V066,"Navistar, Inc.","IC BUS",115,87.8,14
+23V616,"PACCAR Incorporated",KENWORTH,21,33.3,14
+23V474,"Prevost Car (US) Inc.",PREVOST,93,84.6,14
+23V280,"Volvo Trucks North America",VOLVO,125,88.7,14
+23V565,"Chrysler (FCA US, LLC)",JEEP,16,19,13
+23V461,"Mobility Ventures LLC","MOBILITY VENTURES",525,97.5,13
+23V147,"Newell Coach Corp.",NEWELL,28,52.2,13
+23V504,"PACCAR Incorporated",KENWORTH,72,82.6,13
+23V361,"Polestar Automotive USA, Inc.",POLESTAR,66,79.7,13
+23V001,"Volvo Car USA, LLC",VOLVO,74,82.5,13
+23V140,"Winnebago Industries, Inc.",WINNEBAGO,22,40.2,13
+23V145,"Xos, Inc.",XOS,275,95.4,13
+23V058,"Chrysler (FCA US, LLC)",JEEP,90,86.5,12
+22V947,"Chrysler (FCA US, LLC)",RAM,38,68.8,12
+23V288,"Forest River, Inc.","FOREST RIVER",37,66.7,12
+23V557,"Hyundai Motor America",GENESIS,168,92.9,12
+22V901,"Volkswagen Group of America, Inc.",AUDI,297,95.8,12
+22V925,"Ford Motor Company",FORD,11074,99.9,11
+23V726,"Forest River Bus, LLC","STARCRAFT BUS",31,64.8,11
+23V061,"Forest River, Inc.",COACHMEN,12,9.5,11
+23V210,"Hyundai Motor America",GENESIS,575,98.1,11
+23V322,"Navistar, Inc.",INTERNATIONAL,49,78.3,11
+23V446,"Porsche Cars North America, Inc.",PORSCHE,700,98.5,11
+23V437,"Volkswagen Group of America, Inc.",VOLKSWAGEN,59,81.8,11
+23V259,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",48,80,10
+23V171,"Navistar, Inc.",INTERNATIONAL,24,59.9,10
+23V536,"Rosenbauer America",ROSENBAUER,13,20.8,10
+23V542,"Shyft Group",UTILIMASTER,560,98.3,10
+22V919,"Daimler Trucks North America, LLC",FREIGHTLINER,49,82.6,9
+23V648,"Forest River, Inc.","EAST TO WEST",46,80,9
+23V705,"Forest River, Inc.",COACHMEN,33,73.3,9
+23V341,"Forest River, Inc.","FOREST RIVER",63,86.4,9
+23V428,"Grand Design RV, LLC","GRAND DESIGN",24,61.3,9
+23V415,"Hyundai Motor America",HYUNDAI,322,97.2,9
+23V374,"Nissan North America, Inc.",NISSAN,71,87.5,9
+23V715,"Porsche Cars North America, Inc.",PORSCHE,2923,99.7,9
+23V176,"Porsche Cars North America, Inc.",PORSCHE,130,93,9
+23V434,"Tesla, Inc.",TESLA,26,64.6,9
+23V753,"Chrysler (FCA US, LLC)",CHRYSLER,32,76.3,8
+23V072,"Ford Motor Company",FORD,321,97.5,8
+23V834,"Forest River, Inc.","FOREST RIVER",30,75,8
+23V588,"Honda (American Honda Motor Co.)",HONDA,19,60,8
+23V402,"Mack Trucks, Inc.",MACK,47,83.7,8
+23V347,"Porsche Cars North America, Inc.",PORSCHE,71,88.7,8
+23V292,"Subaru of America, Inc.",SUBARU,4030,99.8,8
+23V133,"Forest River, Inc.",COACHMEN,19,63.2,7
+23V429,"Mazda North American Operations",MAZDA,18,62,7
+23V712,"Midwest Automotive Designs, LLC","MIDWEST AUTOMOTIVE DESIGN",70,89.5,7
+23V291,"Nova Bus (US) Inc.","NOVA BUS",7,0,7
+22V897,"Porsche Cars North America, Inc.",PORSCHE,53,86.5,7
+22V895,"Tesla, Inc.",TESLA,26,73.1,7
+23V328,"Triple E Recreational Vehicles","TRIPLE E RV",23,70.8,7
+22V936,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,69,90.6,6
+22V910,"Navistar, Inc.","IC BUS",46,87.5,6
+23V495,"Titan Bus","TITAN BUS",69,90.7,6
+23V766,"Triple E Recreational Vehicles","TRIPLE E RV",37,82.6,6
+23V399,"Triple E Recreational Vehicles","TRIPLE E RV",24,75.3,6
+22V858,"Volkswagen Group of America, Inc.",VOLKSWAGEN,55,89.5,6
+23V597,"Ford Motor Company",FORD,10,50,5
+23V043,"General Motors, LLC",CADILLAC,10,49.9,5
+23V092,"Honda (American Honda Motor Co.)",HONDA,98,94.7,5
+23V481,"Nova Bus (US) Inc.","NOVA BUS",196,97.6,5
+23V749,"PACCAR Incorporated",PETERBILT,9,45.9,5
+23V183,"Prevost Car (US) Inc.",PREVOST,26,81.8,5
+23V389,"Spartan Fire, LLC","SPARTAN FIRE",5,0,5
+23V148,"Terex Advance Mixer, Inc.","TEREX ADVANCE",20,74.5,5
+22V927,"Volkswagen Group of America, Inc.",AUDI,96,94.9,5
+23V559,"Forest River, Inc.","FOREST RIVER",40,89.7,4
+22V882,"Holiday House, LLC","HOLIDAY HOUSE",26,84,4
+22V848,"Lamborghini (Automobili Lamborghini)",LAMBORGHINI,9,56.3,4
+23V143,"Mack Trucks, Inc.",MACK,17,79,4
+23V554,"Mercedes-Benz USA, LLC",MERCEDES-MAYBACH,73,94.2,4
+23V555,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,10,63.6,4
+23V539,"Provan Industries, LLC",TIGER,8,47.8,4
+23V192,"Spartan Fire, LLC","SPARTAN FIRE",12,65,4
+23V392,"Subaru of America, Inc.",SUBARU,5,13.3,4
+23V619,"Volkswagen Group of America, Inc.",VOLKSWAGEN,8,50,4
+23V800,"Ford Motor Company",FORD,66,94.7,3
+23V344,"Ford Motor Company",FORD,19,84.2,3
+23V198,"Ford Motor Company",FORD,19,84.6,3
+23V739,"Forest River, Inc.","FOREST RIVER",24,89.5,3
+23V706,"Forest River, Inc.",COACHMEN,18,84.2,3
+23V575,"Forest River, Inc.",COACHMEN,16,83.3,3
+23V201,"Forest River, Inc.","FOREST RIVER",12,75,3
+23V681,"General Motors, LLC",GMC,42,93.9,3
+23V310,"Mack Trucks, Inc.",MACK,5,50,3
+23V662,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,32,90,3
+23V187,"Nissan North America, Inc.",INFINITI,48,94.1,3
+23V436,"Volkswagen Group of America, Inc.",VOLKSWAGEN,4,25,3
+23V209,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",380,99.4,2
+22V840,"Daimler Trucks North America, LLC","THOMAS BUILT BUSES",20,90.9,2
+22V877,"Daimler Trucks North America, LLC",FCCC,11,79.3,2
+23V546,"Ford Motor Company",FORD,2,0,2
+23V349,"Foretravel, Inc.",FORETRAVEL,67,96.7,2
+23V483,"Industrial Video & Control Co",MVT-900A,4,54.8,2
+23V252,"Jaguar Land Rover North America, LLC","LAND ROVER",500,99.6,2
+23V009,"Lode-King Industries, Ltd.","LODE KING",38,93.9,2
+23V108,"Nissan North America, Inc.",INFINITI,17,88.7,2
+23V816,"Volvo Trucks North America",VOLVO,53,96.6,2
+22V884,"Winnebago Towable",WINNEBAGO,63,97.1,2
+23V264,"Chrysler (FCA US, LLC)",RAM,37,96.9,1
+23V606,"Corp. Micro Bird, Inc.","MICRO BIRD",6,79.1,1
+23V332,"E-One Incorporated",E-ONE,24,95.6,1
+23V758,"Ford Motor Company",FORD,13,90,1
+23V202,"Forest River, Inc.","FOREST RIVER",19,94.4,1
+23V042,"General Motors, LLC",CHEVROLET,10,90,1
+23V548,"Highland Ridge RV","HIGHLAND RIDGE TT",11,91.7,1
+22V950,"Honda (American Honda Motor Co.)",ACURA,19,94.7,1
+23V524,"Honda (American Honda Motor Co.)",HONDA,5,85,1
+23V556,"Hyundai Motor America",HYUNDAI,30,95.9,1
+23V281,"Mack Trucks, Inc.",MACK,4,83.9,1
+22V938,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,11,87.5,1
+23V232,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,3,66.7,1
+23V677,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,1,30,1
+23V321,"Outback customs,LLC",ELITE,5,89.6,1
+23V443,"Porsche Cars North America, Inc.",PORSCHE,37,96.4,1
+23V665,"REV Recreation Group",FLEETWOOD,14,95.1,1
+23V671,"Volkswagen Group of America, Inc.",VOLKSWAGEN,2,51.9,1
+23V403,"Volvo Trucks North America",VOLVO,29,96.6,1
+22V723,"Chrysler (FCA US, LLC)",DODGE,83453,100,0
+23V561,"Explorer Van Company","EXPLORER VAN COMPANY",8,98.9,0
+23V136,"Ferrari North America, Inc.",FERRARI,13,99.1,0
+23V682,"General Motors, LLC",CADILLAC,62,100,0
+22V463,"General Motors, LLC",GMC,242,100,0
+23V008,"Gratimax, LLC","MCELRATH TRAILERS",31,100,0
+22V777,"HD Trailer MFG. LLC","HD TRAILER",15,98,0
+23V550,"Lakota Corporation",LAKOTA,65,100,0
+22V952,"Lion Electric Company",LION,13,100,0
+23V465,"Mack Trucks, Inc.",MACK,204,100,0
+23V024,"Mack Trucks, Inc.",MACK,43,100,0
+23V513,"Mack Trucks, Inc.",MACK,19,100,0
+23V691,"Mack Trucks, Inc.",MACK,13,100,0
+23V057,"Maintainer Corporation of Iowa, Inc.",MAINTAINER,1120,100,0
+23V570,"Maserati North America, Inc.",MASERATI,59,100,0
+23V242,"Maserati North America, Inc.",MASERATI,11,99.1,0
+23V733,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,8,100,0
+23V741,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,7,100,0
+23V200,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,6,100,0
+23V464,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,6,100,0
+23V074,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,3,100,0
+22V935,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,1,100,0
+23V098,"Mercedes-Benz USA, LLC",MERCEDES-BENZ,1,100,0
+22V943,"New Flyer of America, Inc.","NEW FLYER",746,100,0
+23V628,"Nissan North America, Inc.",NISSAN,153376,100,0
+23V067,"Nissan North America, Inc.",NISSAN,404690,100,0
+23V762,"Nova Bus (US) Inc.","NOVA BUS",718,100,0
+23V714,"Nova Bus (US) Inc.","NOVA BUS",514,100,0
+23V054,"Nova Bus (US) Inc.","NOVA BUS",17,100,0
+23V540,"Nova Bus (US) Inc.","NOVA BUS",13,100,0
+23V239,"Nova Bus (US) Inc.","NOVA BUS",10,100,0
+23V572,"Piaggio Group Americas, Inc.","MOTO GUZZI",260,100,0
+23V825,"PILOTCAR EV INC.",PILOTCAR,265,100,0
+23V831,"PILOTCAR EV INC.",PILOTCAR,265,100,0
+22V921,"Porsche Cars North America, Inc.",PORSCHE,28,98.4,0
+22V918,"Prevost Car (US) Inc.",PREVOST,22,100,0
+23V184,"Prevost Car (US) Inc.",PREVOST,1,54.7,0
+23V287,"Shred-Tech Corporation",SHRED-TECH,14,100,0
+23V547,"Starcraft RV","STARCRAFT RV TT",17,99.8,0
+23V076,"Subaru of America, Inc.",SUBARU,130,100,0
+23V723,"Subaru of America, Inc.",SUBARU,49,100,0
+23V396,"Terex South Dakota, Inc.",TEREX,8,99.3,0
+23V297,"Tiffin Motorhomes, Inc.",TIFFIN,203,100,0
+23V212,"Volkswagen Group of America, Inc.",AUDI,19,100,0
+22V917,"Volvo Bus Corporation","VOLVO BUS",20,99.5,0

@@ -1,0 +1,32 @@
+producer,recalls,median_days,p90_days,worst_days,same_day
+"N.V. Subaru Benelux",29,96,280,388,2
+"Honda Motor Europe Benelux Branche",87,78,262,1299,3
+"Klintberg and Way Parts AB",24,70,192,402,0
+"Jaguar Land Rover Nederland B.V.",137,54,561,1438,8
+"Daimler Trucks Nederland B.V.",134,43,92,265,6
+"Mazda Motor Nederland",71,42,154,327,5
+"Kia Nederland B.V.",59,40,133,562,3
+"Mercedes-Benz Nederland B.V. (Cars)",321,38,130,1184,11
+"Mercedes-Benz Nederland B.V. (Vans)",145,37,119,890,2
+"B.V. Nimag",71,31,60,1051,9
+"Nissan Nederland",91,28,119,303,23
+"Hyundai Motor Netherlands b.v.",77,27,75,448,9
+"Mitsubishi Motor Sales Nederland B.V.",59,26,52,1209,9
+"Harley-Davidson Benelux BV",35,20,43,293,5
+"Volvo Cars Nederland B.V.",88,18,57,1225,4
+"Pon's Automobielhandel B.V. (Luxury Cars)",86,17,76,1150,15
+"Ford Nederland B.V.",207,17,70,495,27
+"Yamaha Motor Nederland B.V.",49,16,30,381,2
+"Stellantis Nederland B.V.",780,14,106,708,163
+"JeeGee Motors B.V.",31,14,148,1233,4
+"Triumph Motorcycles B.V.",36,13,32,158,9
+"Tesla Motors Netherlands BV",19,13,53,59,4
+"Renault Nederland N.V.",139,10,53,516,26
+"Pon's Automobielhandel B.V.",347,7,33,1970,34
+"KTM Sportmotorcycle Nederland B.V.",40,7,23,248,6
+"Ducati North Europe",32,7,31,111,4
+"Piaggio Vespa B.V.",34,6,14,379,3
+"BMW Nederland B.V.",210,6,40,514,69
+"Aston Martin Lagonda Ltd",17,4,21,49,3
+"Kawasaki Motors Europe N.V.",26,2,4,14,11
+"Louwman & Parqui B.V.",173,0,35,3652,131

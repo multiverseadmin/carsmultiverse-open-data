@@ -1,0 +1,5078 @@
+{
+    "dataset": "recall-completion-rates",
+    "title": "How many recalled vehicles were actually repaired",
+    "what": "One row per campaign in the authority's annual completion-rate list: vehicles recalled, and the share repaired by the eighth quarterly report. Every row is cross-checked against the bulk file and any that disagrees is excluded and counted.",
+    "rows": 633,
+    "last_built": "2026-09-04T07:17:30+00:00",
+    "downloaded": "2026-09-04T07:17:30+00:00",
+    "source": "NHTSA annual list of recall completion rates, read from the PDF itself",
+    "page": "https://carsmultiverse.com/how-many-were-actually-fixed/",
+    "licence": "CC BY 4.0",
+    "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
+    "data": [
+        {
+            "campaign": "23V420",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 691133,
+            "rate": 39.2,
+            "unfixed": 420209
+        },
+        {
+            "campaign": "23V431",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 1209673,
+            "rate": 77.9,
+            "unfixed": 267338
+        },
+        {
+            "campaign": "23V158",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 448613,
+            "rate": 47.8,
+            "unfixed": 234176
+        },
+        {
+            "campaign": "23V093",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 712458,
+            "rate": 69.7,
+            "unfixed": 215875
+        },
+        {
+            "campaign": "22V955",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 348183,
+            "rate": 45.6,
+            "unfixed": 189412
+        },
+        {
+            "campaign": "23V162",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 1280726,
+            "rate": 86.2,
+            "unfixed": 176740
+        },
+        {
+            "campaign": "22V644",
+            "mfg": "Ford Motor Company",
+            "make": "LINCOLN",
+            "vehicles": 277040,
+            "rate": 42.7,
+            "unfixed": 158744
+        },
+        {
+            "campaign": "22V903",
+            "mfg": "General Motors, LLC",
+            "make": "CADILLAC",
+            "vehicles": 740108,
+            "rate": 79.3,
+            "unfixed": 153202
+        },
+        {
+            "campaign": "22V859",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 521746,
+            "rate": 77.4,
+            "unfixed": 117915
+        },
+        {
+            "campaign": "23V339",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 668187,
+            "rate": 83.4,
+            "unfixed": 110919
+        },
+        {
+            "campaign": "23V149",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 188912,
+            "rate": 41.4,
+            "unfixed": 110702
+        },
+        {
+            "campaign": "22V907",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 271694,
+            "rate": 60.2,
+            "unfixed": 108134
+        },
+        {
+            "campaign": "22V875",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 125215,
+            "rate": 16.1,
+            "unfixed": 105055
+        },
+        {
+            "campaign": "23V163",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 222454,
+            "rate": 53.7,
+            "unfixed": 102996
+        },
+        {
+            "campaign": "22V842",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 483082,
+            "rate": 79.2,
+            "unfixed": 100481
+        },
+        {
+            "campaign": "23V228",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 616128,
+            "rate": 85.7,
+            "unfixed": 88106
+        },
+        {
+            "campaign": "22V867",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 117445,
+            "rate": 39.9,
+            "unfixed": 70584
+        },
+        {
+            "campaign": "23V342",
+            "mfg": "Ford Motor Company",
+            "make": "LINCOLN",
+            "vehicles": 442973,
+            "rate": 84.4,
+            "unfixed": 69104
+        },
+        {
+            "campaign": "22V817",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 219390,
+            "rate": 68.6,
+            "unfixed": 68888
+        },
+        {
+            "campaign": "22V648",
+            "mfg": "Ford Motor Company",
+            "make": "LINCOLN",
+            "vehicles": 198482,
+            "rate": 67.3,
+            "unfixed": 64904
+        },
+        {
+            "campaign": "23V594",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 319436,
+            "rate": 80.2,
+            "unfixed": 63248
+        },
+        {
+            "campaign": "23V654",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 272911,
+            "rate": 77.1,
+            "unfixed": 62497
+        },
+        {
+            "campaign": "23V181",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 584784,
+            "rate": 90.5,
+            "unfixed": 55554
+        },
+        {
+            "campaign": "22V142",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 157306,
+            "rate": 65.4,
+            "unfixed": 54428
+        },
+        {
+            "campaign": "23V060",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 302067,
+            "rate": 82,
+            "unfixed": 54372
+        },
+        {
+            "campaign": "23V727",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 187922,
+            "rate": 71.2,
+            "unfixed": 54122
+        },
+        {
+            "campaign": "22V594",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 64974,
+            "rate": 17.1,
+            "unfixed": 53863
+        },
+        {
+            "campaign": "22V709",
+            "mfg": "General Motors, LLC",
+            "make": "CADILLAC",
+            "vehicles": 95231,
+            "rate": 43.8,
+            "unfixed": 53520
+        },
+        {
+            "campaign": "23V598",
+            "mfg": "Ford Motor Company",
+            "make": "LINCOLN",
+            "vehicles": 177402,
+            "rate": 71.1,
+            "unfixed": 51269
+        },
+        {
+            "campaign": "22V337",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 310203,
+            "rate": 83.5,
+            "unfixed": 51183
+        },
+        {
+            "campaign": "23V115",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "DODGE",
+            "vehicles": 139019,
+            "rate": 63.2,
+            "unfixed": 51159
+        },
+        {
+            "campaign": "23V358",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 175550,
+            "rate": 73.4,
+            "unfixed": 46696
+        },
+        {
+            "campaign": "23V177",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 61450,
+            "rate": 31.7,
+            "unfixed": 41970
+        },
+        {
+            "campaign": "23V296",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 94343,
+            "rate": 56.7,
+            "unfixed": 40851
+        },
+        {
+            "campaign": "23V704",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 264567,
+            "rate": 85,
+            "unfixed": 39685
+        },
+        {
+            "campaign": "23V744",
+            "mfg": "General Motors, LLC",
+            "make": "BUICK",
+            "vehicles": 60154,
+            "rate": 35.5,
+            "unfixed": 38799
+        },
+        {
+            "campaign": "22V702",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 1096762,
+            "rate": 96.5,
+            "unfixed": 38387
+        },
+        {
+            "campaign": "22V796",
+            "mfg": "Daimler Vans USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 124305,
+            "rate": 69.5,
+            "unfixed": 37913
+        },
+        {
+            "campaign": "22V315",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 350294,
+            "rate": 89.3,
+            "unfixed": 37481
+        },
+        {
+            "campaign": "23V306",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 231942,
+            "rate": 85,
+            "unfixed": 34791
+        },
+        {
+            "campaign": "23V458",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 124077,
+            "rate": 72.3,
+            "unfixed": 34369
+        },
+        {
+            "campaign": "23V265",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 131700,
+            "rate": 75.6,
+            "unfixed": 32135
+        },
+        {
+            "campaign": "22V640",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 120688,
+            "rate": 73.8,
+            "unfixed": 31620
+        },
+        {
+            "campaign": "23V576",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 181999,
+            "rate": 83.6,
+            "unfixed": 29848
+        },
+        {
+            "campaign": "23V410",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 98944,
+            "rate": 71.7,
+            "unfixed": 28001
+        },
+        {
+            "campaign": "23V577",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 162713,
+            "rate": 83.4,
+            "unfixed": 27010
+        },
+        {
+            "campaign": "22V626",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 36417,
+            "rate": 27.1,
+            "unfixed": 26548
+        },
+        {
+            "campaign": "23V105",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 60604,
+            "rate": 56.5,
+            "unfixed": 26363
+        },
+        {
+            "campaign": "22V953",
+            "mfg": "Ford Motor Company",
+            "make": "LINCOLN",
+            "vehicles": 101001,
+            "rate": 74.3,
+            "unfixed": 25957
+        },
+        {
+            "campaign": "23V370",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 59684,
+            "rate": 58.1,
+            "unfixed": 25008
+        },
+        {
+            "campaign": "23V191",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 35829,
+            "rate": 32.2,
+            "unfixed": 24292
+        },
+        {
+            "campaign": "23V100",
+            "mfg": "Daimler Vans USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 52993,
+            "rate": 57,
+            "unfixed": 22787
+        },
+        {
+            "campaign": "23V010",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "CHRYSLER",
+            "vehicles": 67117,
+            "rate": 66.1,
+            "unfixed": 22753
+        },
+        {
+            "campaign": "23V775",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 45173,
+            "rate": 51.6,
+            "unfixed": 21864
+        },
+        {
+            "campaign": "23V073",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "WESTERN STAR",
+            "vehicles": 70167,
+            "rate": 69.9,
+            "unfixed": 21120
+        },
+        {
+            "campaign": "22V767",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 60413,
+            "rate": 66.6,
+            "unfixed": 20178
+        },
+        {
+            "campaign": "22V703",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 70887,
+            "rate": 71.6,
+            "unfixed": 20132
+        },
+        {
+            "campaign": "23V534",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 121411,
+            "rate": 83.7,
+            "unfixed": 19790
+        },
+        {
+            "campaign": "23V411",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 80629,
+            "rate": 77.1,
+            "unfixed": 18464
+        },
+        {
+            "campaign": "22V686",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 86050,
+            "rate": 78.8,
+            "unfixed": 18243
+        },
+        {
+            "campaign": "23V378",
+            "mfg": "Ford Motor Company",
+            "make": "LINCOLN",
+            "vehicles": 142734,
+            "rate": 87.4,
+            "unfixed": 17984
+        },
+        {
+            "campaign": "22V954",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 131653,
+            "rate": 86.4,
+            "unfixed": 17905
+        },
+        {
+            "campaign": "23V610",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 144979,
+            "rate": 88.5,
+            "unfixed": 16673
+        },
+        {
+            "campaign": "22V256",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 23165,
+            "rate": 28.2,
+            "unfixed": 16632
+        },
+        {
+            "campaign": "23V352",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 89372,
+            "rate": 81.9,
+            "unfixed": 16176
+        },
+        {
+            "campaign": "23V716",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 97066,
+            "rate": 85.3,
+            "unfixed": 14269
+        },
+        {
+            "campaign": "23V445",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-MAYBACH",
+            "vehicles": 143551,
+            "rate": 90.1,
+            "unfixed": 14212
+        },
+        {
+            "campaign": "23V298",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 108936,
+            "rate": 87.2,
+            "unfixed": 13944
+        },
+        {
+            "campaign": "22V930",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 111242,
+            "rate": 88,
+            "unfixed": 13349
+        },
+        {
+            "campaign": "23V048",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 64732,
+            "rate": 79.4,
+            "unfixed": 13335
+        },
+        {
+            "campaign": "23V799",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 185251,
+            "rate": 93.1,
+            "unfixed": 12782
+        },
+        {
+            "campaign": "23V444",
+            "mfg": "Daimler Vans USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 20500,
+            "rate": 41.6,
+            "unfixed": 11972
+        },
+        {
+            "campaign": "22V624",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 188397,
+            "rate": 93.9,
+            "unfixed": 11492
+        },
+        {
+            "campaign": "23V301",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 165503,
+            "rate": 93.1,
+            "unfixed": 11420
+        },
+        {
+            "campaign": "23V302",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 25980,
+            "rate": 57.6,
+            "unfixed": 11016
+        },
+        {
+            "campaign": "23V142",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "TOYOTA",
+            "vehicles": 130266,
+            "rate": 91.6,
+            "unfixed": 10942
+        },
+        {
+            "campaign": "23V669",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 20668,
+            "rate": 48,
+            "unfixed": 10747
+        },
+        {
+            "campaign": "23V013",
+            "mfg": "General Motors, LLC",
+            "make": "GMC",
+            "vehicles": 23323,
+            "rate": 55.2,
+            "unfixed": 10449
+        },
+        {
+            "campaign": "23V263",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 45832,
+            "rate": 77.4,
+            "unfixed": 10358
+        },
+        {
+            "campaign": "23V038",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 16104,
+            "rate": 35.9,
+            "unfixed": 10323
+        },
+        {
+            "campaign": "23V595",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 41555,
+            "rate": 75.4,
+            "unfixed": 10223
+        },
+        {
+            "campaign": "22V762",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 17613,
+            "rate": 43.2,
+            "unfixed": 10004
+        },
+        {
+            "campaign": "23V178",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 70225,
+            "rate": 86.3,
+            "unfixed": 9621
+        },
+        {
+            "campaign": "23V480",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "TOYOTA",
+            "vehicles": 152927,
+            "rate": 93.8,
+            "unfixed": 9481
+        },
+        {
+            "campaign": "22V155",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 47238,
+            "rate": 80.2,
+            "unfixed": 9353
+        },
+        {
+            "campaign": "23V237",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 57504,
+            "rate": 84.4,
+            "unfixed": 8971
+        },
+        {
+            "campaign": "23V579",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 50517,
+            "rate": 83.1,
+            "unfixed": 8537
+        },
+        {
+            "campaign": "22V880",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 18808,
+            "rate": 55.9,
+            "unfixed": 8294
+        },
+        {
+            "campaign": "23V059",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 77079,
+            "rate": 89.4,
+            "unfixed": 8170
+        },
+        {
+            "campaign": "23V506",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 38695,
+            "rate": 79.3,
+            "unfixed": 8010
+        },
+        {
+            "campaign": "23V236",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 51568,
+            "rate": 84.6,
+            "unfixed": 7941
+        },
+        {
+            "campaign": "23V333",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 23590,
+            "rate": 66.5,
+            "unfixed": 7903
+        },
+        {
+            "campaign": "23V634",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 18224,
+            "rate": 57.7,
+            "unfixed": 7709
+        },
+        {
+            "campaign": "23V511",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 55012,
+            "rate": 86.1,
+            "unfixed": 7647
+        },
+        {
+            "campaign": "23V180",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 167085,
+            "rate": 95.5,
+            "unfixed": 7519
+        },
+        {
+            "campaign": "22V836",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 27030,
+            "rate": 72.2,
+            "unfixed": 7514
+        },
+        {
+            "campaign": "23V545",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 44708,
+            "rate": 83.2,
+            "unfixed": 7511
+        },
+        {
+            "campaign": "23V035",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 31943,
+            "rate": 76.7,
+            "unfixed": 7443
+        },
+        {
+            "campaign": "23V573",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 18513,
+            "rate": 60.2,
+            "unfixed": 7368
+        },
+        {
+            "campaign": "22V869",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 25822,
+            "rate": 72.6,
+            "unfixed": 7075
+        },
+        {
+            "campaign": "23V247",
+            "mfg": "General Motors, LLC",
+            "make": "GMC",
+            "vehicles": 150830,
+            "rate": 95.4,
+            "unfixed": 6938
+        },
+        {
+            "campaign": "22V544",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 99186,
+            "rate": 93.2,
+            "unfixed": 6745
+        },
+        {
+            "campaign": "23V466",
+            "mfg": "Polaris Industries Inc.",
+            "make": "POLARIS",
+            "vehicles": 22218,
+            "rate": 69.7,
+            "unfixed": 6732
+        },
+        {
+            "campaign": "23V248",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 42054,
+            "rate": 84.7,
+            "unfixed": 6434
+        },
+        {
+            "campaign": "23V085",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 362758,
+            "rate": 98.3,
+            "unfixed": 6167
+        },
+        {
+            "campaign": "22V883",
+            "mfg": "Winnebago Towable",
+            "make": "WINNEBAGO",
+            "vehicles": 6553,
+            "rate": 6.9,
+            "unfixed": 6101
+        },
+        {
+            "campaign": "23V336",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 17108,
+            "rate": 64.9,
+            "unfixed": 6005
+        },
+        {
+            "campaign": "23V692",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 22768,
+            "rate": 73.7,
+            "unfixed": 5988
+        },
+        {
+            "campaign": "23V494",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 66159,
+            "rate": 91,
+            "unfixed": 5954
+        },
+        {
+            "campaign": "23V208",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "WESTERN STAR",
+            "vehicles": 24282,
+            "rate": 75.5,
+            "unfixed": 5949
+        },
+        {
+            "campaign": "23V270",
+            "mfg": "Winnebago Towable",
+            "make": "WINNEBAGO",
+            "vehicles": 10492,
+            "rate": 45.6,
+            "unfixed": 5708
+        },
+        {
+            "campaign": "22V746",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 56148,
+            "rate": 90.1,
+            "unfixed": 5559
+        },
+        {
+            "campaign": "23V120",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 27972,
+            "rate": 81.7,
+            "unfixed": 5119
+        },
+        {
+            "campaign": "23V116",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 69201,
+            "rate": 92.7,
+            "unfixed": 5052
+        },
+        {
+            "campaign": "23V266",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 40428,
+            "rate": 87.6,
+            "unfixed": 5013
+        },
+        {
+            "campaign": "23V384",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "TOYOTA",
+            "vehicles": 96007,
+            "rate": 94.9,
+            "unfixed": 4896
+        },
+        {
+            "campaign": "23V591",
+            "mfg": "Harley-Davidson Motor Company",
+            "make": "HARLEY-DAVIDSON",
+            "vehicles": 65224,
+            "rate": 92.5,
+            "unfixed": 4892
+        },
+        {
+            "campaign": "23V129",
+            "mfg": "Royal Enfield North America Limited",
+            "make": "ROYAL ENFIELD",
+            "vehicles": 4891,
+            "rate": 1.9,
+            "unfixed": 4798
+        },
+        {
+            "campaign": "23V233",
+            "mfg": "Rivian Automotive, LLC",
+            "make": "RIVIAN",
+            "vehicles": 5030,
+            "rate": 7.7,
+            "unfixed": 4643
+        },
+        {
+            "campaign": "22V099",
+            "mfg": "Daimler Vans USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 17093,
+            "rate": 73.8,
+            "unfixed": 4478
+        },
+        {
+            "campaign": "23V195",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 15848,
+            "rate": 72.5,
+            "unfixed": 4358
+        },
+        {
+            "campaign": "23V488",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 15869,
+            "rate": 74.3,
+            "unfixed": 4078
+        },
+        {
+            "campaign": "23V418",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 16375,
+            "rate": 75.8,
+            "unfixed": 3963
+        },
+        {
+            "campaign": "22V939",
+            "mfg": "PACCAR Incorporated",
+            "make": "PETERBILT",
+            "vehicles": 15658,
+            "rate": 75.5,
+            "unfixed": 3836
+        },
+        {
+            "campaign": "22V843",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 29348,
+            "rate": 87.4,
+            "unfixed": 3698
+        },
+        {
+            "campaign": "23V189",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 5224,
+            "rate": 30.6,
+            "unfixed": 3625
+        },
+        {
+            "campaign": "23V398",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 15398,
+            "rate": 76.8,
+            "unfixed": 3572
+        },
+        {
+            "campaign": "23V065",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 12507,
+            "rate": 71.8,
+            "unfixed": 3527
+        },
+        {
+            "campaign": "23V371",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 19376,
+            "rate": 82.2,
+            "unfixed": 3449
+        },
+        {
+            "campaign": "23V049",
+            "mfg": "Winnebago Industries, Inc.",
+            "make": "WINNEBAGO",
+            "vehicles": 9720,
+            "rate": 64.7,
+            "unfixed": 3431
+        },
+        {
+            "campaign": "23V311",
+            "mfg": "Winnebago Towable",
+            "make": "WINNEBAGO",
+            "vehicles": 4313,
+            "rate": 22,
+            "unfixed": 3364
+        },
+        {
+            "campaign": "23V687",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 34762,
+            "rate": 90.6,
+            "unfixed": 3268
+        },
+        {
+            "campaign": "23V596",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 8523,
+            "rate": 62.8,
+            "unfixed": 3171
+        },
+        {
+            "campaign": "23V179",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 3555,
+            "rate": 10.9,
+            "unfixed": 3168
+        },
+        {
+            "campaign": "22V861",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 50883,
+            "rate": 93.9,
+            "unfixed": 3104
+        },
+        {
+            "campaign": "23V397",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 6786,
+            "rate": 54.3,
+            "unfixed": 3101
+        },
+        {
+            "campaign": "23V531",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 39765,
+            "rate": 92.3,
+            "unfixed": 3062
+        },
+        {
+            "campaign": "23V578",
+            "mfg": "Trail King Industries, Inc.",
+            "make": "TRAIL KING",
+            "vehicles": 5641,
+            "rate": 45.8,
+            "unfixed": 3057
+        },
+        {
+            "campaign": "23V526",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 52109,
+            "rate": 94.4,
+            "unfixed": 2918
+        },
+        {
+            "campaign": "23V393",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "LAND ROVER",
+            "vehicles": 29861,
+            "rate": 90.3,
+            "unfixed": 2897
+        },
+        {
+            "campaign": "22V844",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 321628,
+            "rate": 99.1,
+            "unfixed": 2895
+        },
+        {
+            "campaign": "23V630",
+            "mfg": "Hyundai Motor America",
+            "make": "GENESIS",
+            "vehicles": 19272,
+            "rate": 85.4,
+            "unfixed": 2814
+        },
+        {
+            "campaign": "23V412",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 12458,
+            "rate": 77.9,
+            "unfixed": 2753
+        },
+        {
+            "campaign": "23V094",
+            "mfg": "Hyundai Motor America",
+            "make": "GENESIS",
+            "vehicles": 65517,
+            "rate": 95.8,
+            "unfixed": 2752
+        },
+        {
+            "campaign": "22V945",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 37558,
+            "rate": 92.9,
+            "unfixed": 2667
+        },
+        {
+            "campaign": "23V040",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 20904,
+            "rate": 87.5,
+            "unfixed": 2613
+        },
+        {
+            "campaign": "23V047",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 22132,
+            "rate": 88.6,
+            "unfixed": 2523
+        },
+        {
+            "campaign": "23V097",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 26116,
+            "rate": 90.6,
+            "unfixed": 2455
+        },
+        {
+            "campaign": "23V082",
+            "mfg": "Keystone RV Company",
+            "make": "KEYSTONE",
+            "vehicles": 5564,
+            "rate": 56.5,
+            "unfixed": 2420
+        },
+        {
+            "campaign": "23V319",
+            "mfg": "PJ Trailers",
+            "make": "PJ TRAILERS",
+            "vehicles": 4905,
+            "rate": 51.1,
+            "unfixed": 2399
+        },
+        {
+            "campaign": "22V715",
+            "mfg": "Corp. Micro Bird, Inc.",
+            "make": "MICRO BIRD",
+            "vehicles": 2753,
+            "rate": 13.3,
+            "unfixed": 2387
+        },
+        {
+            "campaign": "23V551",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 35357,
+            "rate": 93.5,
+            "unfixed": 2298
+        },
+        {
+            "campaign": "22V870",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 5645,
+            "rate": 60.1,
+            "unfixed": 2252
+        },
+        {
+            "campaign": "22V863",
+            "mfg": "Winnebago Industries, Inc.",
+            "make": "WINNEBAGO",
+            "vehicles": 4521,
+            "rate": 51.6,
+            "unfixed": 2188
+        },
+        {
+            "campaign": "22V658",
+            "mfg": "Shyft Group",
+            "make": "UTILIMASTER",
+            "vehicles": 2139,
+            "rate": 0,
+            "unfixed": 2139
+        },
+        {
+            "campaign": "23V262",
+            "mfg": "Forest River, Inc.",
+            "make": "COACHMEN",
+            "vehicles": 2616,
+            "rate": 21.1,
+            "unfixed": 2064
+        },
+        {
+            "campaign": "23V672",
+            "mfg": "Harley-Davidson Motor Company",
+            "make": "HARLEY-DAVIDSON",
+            "vehicles": 4014,
+            "rate": 50,
+            "unfixed": 2007
+        },
+        {
+            "campaign": "23V377",
+            "mfg": "Ducati North America",
+            "make": "DUCATI",
+            "vehicles": 3315,
+            "rate": 40.1,
+            "unfixed": 1986
+        },
+        {
+            "campaign": "23V109",
+            "mfg": "Rivian Automotive, LLC",
+            "make": "RIVIAN",
+            "vehicles": 12716,
+            "rate": 84.4,
+            "unfixed": 1984
+        },
+        {
+            "campaign": "23V369",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "JAGUAR",
+            "vehicles": 6422,
+            "rate": 69.2,
+            "unfixed": 1978
+        },
+        {
+            "campaign": "23V285",
+            "mfg": "Thor Motor Coach",
+            "make": "THOR MOTOR COACH",
+            "vehicles": 2919,
+            "rate": 32.9,
+            "unfixed": 1959
+        },
+        {
+            "campaign": "23V583",
+            "mfg": "Triumph Motorcycles America, Ltd.",
+            "make": "TRIUMPH",
+            "vehicles": 7541,
+            "rate": 75.3,
+            "unfixed": 1863
+        },
+        {
+            "campaign": "23V113",
+            "mfg": "Thor Motor Coach",
+            "make": "THOR MOTOR COACH",
+            "vehicles": 1969,
+            "rate": 6.1,
+            "unfixed": 1849
+        },
+        {
+            "campaign": "23V170",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 5769,
+            "rate": 68.2,
+            "unfixed": 1835
+        },
+        {
+            "campaign": "22V271",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 2943,
+            "rate": 38,
+            "unfixed": 1825
+        },
+        {
+            "campaign": "23V589",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 37997,
+            "rate": 95.3,
+            "unfixed": 1786
+        },
+        {
+            "campaign": "22V634",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 7561,
+            "rate": 77.4,
+            "unfixed": 1709
+        },
+        {
+            "campaign": "23V646",
+            "mfg": "Wabash National Corporation",
+            "make": "WABASH NATIONAL",
+            "vehicles": 3711,
+            "rate": 54.8,
+            "unfixed": 1677
+        },
+        {
+            "campaign": "23V490",
+            "mfg": "Grand Design RV, LLC",
+            "make": "GRAND DESIGN",
+            "vehicles": 6270,
+            "rate": 73.6,
+            "unfixed": 1655
+        },
+        {
+            "campaign": "23V062",
+            "mfg": "Shyft Group",
+            "make": "SPARTAN",
+            "vehicles": 2336,
+            "rate": 29.3,
+            "unfixed": 1652
+        },
+        {
+            "campaign": "23V740",
+            "mfg": "Gillig, LLC",
+            "make": "GILLIG",
+            "vehicles": 4286,
+            "rate": 62.2,
+            "unfixed": 1620
+        },
+        {
+            "campaign": "23V750",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 24025,
+            "rate": 93.3,
+            "unfixed": 1610
+        },
+        {
+            "campaign": "22V731",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 13455,
+            "rate": 88.2,
+            "unfixed": 1588
+        },
+        {
+            "campaign": "23V172",
+            "mfg": "General Motors, LLC",
+            "make": "CADILLAC",
+            "vehicles": 8744,
+            "rate": 82.1,
+            "unfixed": 1565
+        },
+        {
+            "campaign": "23V086",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 12100,
+            "rate": 87.2,
+            "unfixed": 1549
+        },
+        {
+            "campaign": "23V033",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 24467,
+            "rate": 93.7,
+            "unfixed": 1541
+        },
+        {
+            "campaign": "23V268",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 12400,
+            "rate": 87.7,
+            "unfixed": 1525
+        },
+        {
+            "campaign": "22V417",
+            "mfg": "Shyft Group",
+            "make": "UTILIMASTER",
+            "vehicles": 5551,
+            "rate": 72.8,
+            "unfixed": 1510
+        },
+        {
+            "campaign": "23V121",
+            "mfg": "Thor Motor Coach",
+            "make": "THOR MOTOR COACH",
+            "vehicles": 1836,
+            "rate": 20.2,
+            "unfixed": 1465
+        },
+        {
+            "campaign": "23V214",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 15874,
+            "rate": 91.8,
+            "unfixed": 1302
+        },
+        {
+            "campaign": "23V655",
+            "mfg": "Diamond C Trailer MFG.",
+            "make": "DIAMOND C TRAILERS",
+            "vehicles": 2523,
+            "rate": 48.5,
+            "unfixed": 1299
+        },
+        {
+            "campaign": "23V041",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "TOYOTA",
+            "vehicles": 16679,
+            "rate": 92.4,
+            "unfixed": 1268
+        },
+        {
+            "campaign": "23V423",
+            "mfg": "PACCAR Incorporated",
+            "make": "PETERBILT",
+            "vehicles": 4967,
+            "rate": 74.7,
+            "unfixed": 1257
+        },
+        {
+            "campaign": "23V829",
+            "mfg": "Indian Motorcycle Company",
+            "make": "INDIAN",
+            "vehicles": 1215,
+            "rate": 0,
+            "unfixed": 1215
+        },
+        {
+            "campaign": "23V394",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "LAND ROVER",
+            "vehicles": 12922,
+            "rate": 90.6,
+            "unfixed": 1215
+        },
+        {
+            "campaign": "23V068",
+            "mfg": "Thor Motor Coach",
+            "make": "THOR MOTOR COACH",
+            "vehicles": 1557,
+            "rate": 22.8,
+            "unfixed": 1202
+        },
+        {
+            "campaign": "23V696",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "ALFA ROMEO",
+            "vehicles": 4661,
+            "rate": 74.3,
+            "unfixed": 1198
+        },
+        {
+            "campaign": "23V204",
+            "mfg": "Daimler Vans USA, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 6857,
+            "rate": 82.9,
+            "unfixed": 1173
+        },
+        {
+            "campaign": "22V923",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 2108,
+            "rate": 44.6,
+            "unfixed": 1168
+        },
+        {
+            "campaign": "23V221",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "LAND ROVER",
+            "vehicles": 2881,
+            "rate": 60.6,
+            "unfixed": 1135
+        },
+        {
+            "campaign": "23V087",
+            "mfg": "PACCAR Incorporated",
+            "make": "PETERBILT",
+            "vehicles": 8008,
+            "rate": 85.9,
+            "unfixed": 1129
+        },
+        {
+            "campaign": "23V724",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 6262,
+            "rate": 82.2,
+            "unfixed": 1115
+        },
+        {
+            "campaign": "23V478",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "LEXUS",
+            "vehicles": 43442,
+            "rate": 97.5,
+            "unfixed": 1086
+        },
+        {
+            "campaign": "23V649",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 3866,
+            "rate": 72,
+            "unfixed": 1082
+        },
+        {
+            "campaign": "22V868",
+            "mfg": "General Motors, LLC",
+            "make": "CADILLAC",
+            "vehicles": 10199,
+            "rate": 89.8,
+            "unfixed": 1040
+        },
+        {
+            "campaign": "23V282",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 9170,
+            "rate": 89.3,
+            "unfixed": 981
+        },
+        {
+            "campaign": "23V801",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 5118,
+            "rate": 81.1,
+            "unfixed": 967
+        },
+        {
+            "campaign": "23V510",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 5558,
+            "rate": 83.2,
+            "unfixed": 934
+        },
+        {
+            "campaign": "23V275",
+            "mfg": "Mazda North American Operations",
+            "make": "MAZDA",
+            "vehicles": 2410,
+            "rate": 61.8,
+            "unfixed": 921
+        },
+        {
+            "campaign": "23V012",
+            "mfg": "Volvo Car USA, LLC",
+            "make": "VOLVO",
+            "vehicles": 27457,
+            "rate": 96.7,
+            "unfixed": 906
+        },
+        {
+            "campaign": "22V654",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "WESTERN STAR",
+            "vehicles": 3498,
+            "rate": 74.7,
+            "unfixed": 885
+        },
+        {
+            "campaign": "22V759",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 26961,
+            "rate": 96.9,
+            "unfixed": 836
+        },
+        {
+            "campaign": "23V686",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 2866,
+            "rate": 71.8,
+            "unfixed": 808
+        },
+        {
+            "campaign": "22V949",
+            "mfg": "REV Recreation Group",
+            "make": "FLEETWOOD",
+            "vehicles": 1540,
+            "rate": 47.7,
+            "unfixed": 805
+        },
+        {
+            "campaign": "23V455",
+            "mfg": "Grand Design RV, LLC",
+            "make": "GRAND DESIGN",
+            "vehicles": 1366,
+            "rate": 41.5,
+            "unfixed": 799
+        },
+        {
+            "campaign": "23V601",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 7499,
+            "rate": 89.5,
+            "unfixed": 787
+        },
+        {
+            "campaign": "22V909",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 6948,
+            "rate": 88.7,
+            "unfixed": 785
+        },
+        {
+            "campaign": "22V733",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 19968,
+            "rate": 96.1,
+            "unfixed": 779
+        },
+        {
+            "campaign": "23V119",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 4199,
+            "rate": 82.1,
+            "unfixed": 752
+        },
+        {
+            "campaign": "23V146",
+            "mfg": "Triumph Motorcycles America, Ltd.",
+            "make": "TRIUMPH",
+            "vehicles": 988,
+            "rate": 26.4,
+            "unfixed": 727
+        },
+        {
+            "campaign": "23V069",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 3674,
+            "rate": 80.7,
+            "unfixed": 709
+        },
+        {
+            "campaign": "23V745",
+            "mfg": "Winnebago Towable",
+            "make": "WINNEBAGO",
+            "vehicles": 856,
+            "rate": 22.2,
+            "unfixed": 666
+        },
+        {
+            "campaign": "23V633",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "TOYOTA",
+            "vehicles": 21781,
+            "rate": 97,
+            "unfixed": 653
+        },
+        {
+            "campaign": "23V612",
+            "mfg": "Forest River, Inc.",
+            "make": "EAST TO WEST",
+            "vehicles": 2994,
+            "rate": 78.7,
+            "unfixed": 638
+        },
+        {
+            "campaign": "22V246",
+            "mfg": "General Motors, LLC",
+            "make": "BUICK",
+            "vehicles": 2687,
+            "rate": 76.9,
+            "unfixed": 621
+        },
+        {
+            "campaign": "22V900",
+            "mfg": "KTM North America, Inc.",
+            "make": "KTM",
+            "vehicles": 1040,
+            "rate": 41.1,
+            "unfixed": 613
+        },
+        {
+            "campaign": "23V160",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 2716,
+            "rate": 77.8,
+            "unfixed": 603
+        },
+        {
+            "campaign": "23V325",
+            "mfg": "Jayco, Inc.",
+            "make": "ENTEGRA",
+            "vehicles": 1124,
+            "rate": 51.2,
+            "unfixed": 549
+        },
+        {
+            "campaign": "23V549",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 3893,
+            "rate": 86,
+            "unfixed": 545
+        },
+        {
+            "campaign": "23V657",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 9813,
+            "rate": 94.5,
+            "unfixed": 540
+        },
+        {
+            "campaign": "23V365",
+            "mfg": "Winnebago Industries, Inc.",
+            "make": "WINNEBAGO",
+            "vehicles": 1328,
+            "rate": 60.5,
+            "unfixed": 525
+        },
+        {
+            "campaign": "23V075",
+            "mfg": "Gillig, LLC",
+            "make": "GILLIG",
+            "vehicles": 1335,
+            "rate": 61.9,
+            "unfixed": 509
+        },
+        {
+            "campaign": "23V690",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 1933,
+            "rate": 74.2,
+            "unfixed": 499
+        },
+        {
+            "campaign": "23V405",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 8281,
+            "rate": 94,
+            "unfixed": 497
+        },
+        {
+            "campaign": "23V231",
+            "mfg": "Gulf Stream Coach, Inc.",
+            "make": "GULF STREAM",
+            "vehicles": 557,
+            "rate": 13.3,
+            "unfixed": 483
+        },
+        {
+            "campaign": "23V234",
+            "mfg": "Winnebago Industries, Inc.",
+            "make": "WINNEBAGO",
+            "vehicles": 1266,
+            "rate": 62.4,
+            "unfixed": 476
+        },
+        {
+            "campaign": "23V351",
+            "mfg": "REV Recreation Group",
+            "make": "HOLIDAY RAMBLER",
+            "vehicles": 1186,
+            "rate": 60.1,
+            "unfixed": 473
+        },
+        {
+            "campaign": "23V218",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 2689,
+            "rate": 83.1,
+            "unfixed": 454
+        },
+        {
+            "campaign": "22V754",
+            "mfg": "Shyft Group",
+            "make": "UTILIMASTER",
+            "vehicles": 451,
+            "rate": 0,
+            "unfixed": 451
+        },
+        {
+            "campaign": "23V722",
+            "mfg": "New Flyer of America, Inc.",
+            "make": "NEW FLYER",
+            "vehicles": 2351,
+            "rate": 82,
+            "unfixed": 423
+        },
+        {
+            "campaign": "23V258",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 4409,
+            "rate": 90.4,
+            "unfixed": 423
+        },
+        {
+            "campaign": "23V095",
+            "mfg": "Electra Meccanica Vehicles Corp",
+            "make": "ELECTRAMECCANICA",
+            "vehicles": 429,
+            "rate": 4,
+            "unfixed": 412
+        },
+        {
+            "campaign": "23V653",
+            "mfg": "PACCAR Incorporated",
+            "make": "PETERBILT",
+            "vehicles": 1315,
+            "rate": 68.9,
+            "unfixed": 409
+        },
+        {
+            "campaign": "23V489",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 1337,
+            "rate": 69.4,
+            "unfixed": 409
+        },
+        {
+            "campaign": "23V527",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 2934,
+            "rate": 86.1,
+            "unfixed": 408
+        },
+        {
+            "campaign": "22V874",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 5861,
+            "rate": 93.2,
+            "unfixed": 399
+        },
+        {
+            "campaign": "23V130",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 3470,
+            "rate": 88.7,
+            "unfixed": 392
+        },
+        {
+            "campaign": "23V132",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 25715,
+            "rate": 98.5,
+            "unfixed": 386
+        },
+        {
+            "campaign": "23V044",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "LAND ROVER",
+            "vehicles": 6724,
+            "rate": 94.3,
+            "unfixed": 383
+        },
+        {
+            "campaign": "23V456",
+            "mfg": "Hino Motors Sales U.S.A., Inc.",
+            "make": "HINO",
+            "vehicles": 1865,
+            "rate": 80.2,
+            "unfixed": 369
+        },
+        {
+            "campaign": "23V462",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 8178,
+            "rate": 95.5,
+            "unfixed": 368
+        },
+        {
+            "campaign": "23V643",
+            "mfg": "Tiffin Motorhomes, Inc.",
+            "make": "TIFFIN",
+            "vehicles": 1188,
+            "rate": 70.4,
+            "unfixed": 352
+        },
+        {
+            "campaign": "23V496",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 11824,
+            "rate": 97.1,
+            "unfixed": 343
+        },
+        {
+            "campaign": "23V730",
+            "mfg": "Triumph Motorcycles America, Ltd.",
+            "make": "TRIUMPH",
+            "vehicles": 3557,
+            "rate": 90.6,
+            "unfixed": 334
+        },
+        {
+            "campaign": "22V928",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 1226,
+            "rate": 73.3,
+            "unfixed": 327
+        },
+        {
+            "campaign": "23V515",
+            "mfg": "Kawasaki Motors Corp., U.S.A.",
+            "make": "KAWASAKI",
+            "vehicles": 991,
+            "rate": 67,
+            "unfixed": 327
+        },
+        {
+            "campaign": "23V320",
+            "mfg": "Outback customs,LLC",
+            "make": "PLATINUM",
+            "vehicles": 317,
+            "rate": 0,
+            "unfixed": 317
+        },
+        {
+            "campaign": "23V623",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "DODGE",
+            "vehicles": 4129,
+            "rate": 92.5,
+            "unfixed": 310
+        },
+        {
+            "campaign": "23V586",
+            "mfg": "Grand Design RV, LLC",
+            "make": "GRAND DESIGN",
+            "vehicles": 1209,
+            "rate": 74.6,
+            "unfixed": 307
+        },
+        {
+            "campaign": "23V261",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 1461,
+            "rate": 79.5,
+            "unfixed": 300
+        },
+        {
+            "campaign": "23V647",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 4311,
+            "rate": 93.1,
+            "unfixed": 297
+        },
+        {
+            "campaign": "23V122",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 4804,
+            "rate": 93.9,
+            "unfixed": 293
+        },
+        {
+            "campaign": "23V676",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 5326,
+            "rate": 94.5,
+            "unfixed": 293
+        },
+        {
+            "campaign": "23V084",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 1047,
+            "rate": 73.7,
+            "unfixed": 275
+        },
+        {
+            "campaign": "22V951",
+            "mfg": "Kibbi, LLC",
+            "make": "RENEGADE",
+            "vehicles": 292,
+            "rate": 6.4,
+            "unfixed": 273
+        },
+        {
+            "campaign": "23V150",
+            "mfg": "Terex Advance Mixer, Inc.",
+            "make": "TEREX ADVANCE",
+            "vehicles": 271,
+            "rate": 0,
+            "unfixed": 271
+        },
+        {
+            "campaign": "22V957",
+            "mfg": "Indian Motorcycle Company",
+            "make": "INDIAN",
+            "vehicles": 4653,
+            "rate": 94.2,
+            "unfixed": 270
+        },
+        {
+            "campaign": "23V101",
+            "mfg": "Daimler Vans USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 350,
+            "rate": 25,
+            "unfixed": 263
+        },
+        {
+            "campaign": "23V283",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 1434,
+            "rate": 81.9,
+            "unfixed": 260
+        },
+        {
+            "campaign": "23V501",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "JAGUAR",
+            "vehicles": 3134,
+            "rate": 91.7,
+            "unfixed": 260
+        },
+        {
+            "campaign": "23V131",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 1063,
+            "rate": 75.7,
+            "unfixed": 258
+        },
+        {
+            "campaign": "23V309",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 3828,
+            "rate": 93.3,
+            "unfixed": 256
+        },
+        {
+            "campaign": "23V360",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-MAYBACH",
+            "vehicles": 7558,
+            "rate": 96.8,
+            "unfixed": 242
+        },
+        {
+            "campaign": "23V587",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 624,
+            "rate": 61.2,
+            "unfixed": 242
+        },
+        {
+            "campaign": "23V324",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "LAND ROVER",
+            "vehicles": 12587,
+            "rate": 98.1,
+            "unfixed": 239
+        },
+        {
+            "campaign": "23V362",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 758,
+            "rate": 70,
+            "unfixed": 227
+        },
+        {
+            "campaign": "23V432",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "TOYOTA",
+            "vehicles": 298,
+            "rate": 24.1,
+            "unfixed": 226
+        },
+        {
+            "campaign": "21V717",
+            "mfg": "Volvo Bus Corporation",
+            "make": "VOLVO BUS",
+            "vehicles": 860,
+            "rate": 73.7,
+            "unfixed": 226
+        },
+        {
+            "campaign": "23V719",
+            "mfg": "Mazda North American Operations",
+            "make": "MAZDA",
+            "vehicles": 4252,
+            "rate": 94.7,
+            "unfixed": 225
+        },
+        {
+            "campaign": "23V757",
+            "mfg": "Southeast Toyota Distributors, LLC",
+            "make": "TOYOTA",
+            "vehicles": 534,
+            "rate": 59,
+            "unfixed": 219
+        },
+        {
+            "campaign": "23V507",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 1339,
+            "rate": 83.9,
+            "unfixed": 216
+        },
+        {
+            "campaign": "22V893",
+            "mfg": "Terex South Dakota, Inc.",
+            "make": "TEREX",
+            "vehicles": 431,
+            "rate": 50,
+            "unfixed": 216
+        },
+        {
+            "campaign": "23V663",
+            "mfg": "Winnebago Industries, Inc.",
+            "make": "WINNEBAGO",
+            "vehicles": 4968,
+            "rate": 95.7,
+            "unfixed": 214
+        },
+        {
+            "campaign": "23V560",
+            "mfg": "Hino Motors Sales U.S.A., Inc.",
+            "make": "HINO",
+            "vehicles": 8025,
+            "rate": 97.4,
+            "unfixed": 209
+        },
+        {
+            "campaign": "23V500",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "CHRYSLER",
+            "vehicles": 967,
+            "rate": 78.6,
+            "unfixed": 207
+        },
+        {
+            "campaign": "23V070",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 1138,
+            "rate": 82.1,
+            "unfixed": 204
+        },
+        {
+            "campaign": "23V376",
+            "mfg": "Keystone RV Company",
+            "make": "KEYSTONE",
+            "vehicles": 632,
+            "rate": 67.8,
+            "unfixed": 204
+        },
+        {
+            "campaign": "23V567",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 317,
+            "rate": 36.1,
+            "unfixed": 203
+        },
+        {
+            "campaign": "22V887",
+            "mfg": "Proterra Operating Company, Inc.",
+            "make": "PROTERRA",
+            "vehicles": 300,
+            "rate": 32.5,
+            "unfixed": 203
+        },
+        {
+            "campaign": "22V940",
+            "mfg": "PACCAR Incorporated",
+            "make": "PETERBILT",
+            "vehicles": 2565,
+            "rate": 92.2,
+            "unfixed": 200
+        },
+        {
+            "campaign": "23V077",
+            "mfg": "Lakota Corporation",
+            "make": "LAKOTA",
+            "vehicles": 445,
+            "rate": 55.4,
+            "unfixed": 198
+        },
+        {
+            "campaign": "23V111",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "TOYOTA",
+            "vehicles": 8989,
+            "rate": 97.8,
+            "unfixed": 198
+        },
+        {
+            "campaign": "23V832",
+            "mfg": "PILOTCAR EV INC.",
+            "make": "PILOTCAR",
+            "vehicles": 265,
+            "rate": 26,
+            "unfixed": 196
+        },
+        {
+            "campaign": "23V608",
+            "mfg": "Triple E Recreational Vehicles",
+            "make": "TRIPLE E",
+            "vehicles": 391,
+            "rate": 51.6,
+            "unfixed": 189
+        },
+        {
+            "campaign": "23V199",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 674,
+            "rate": 72.5,
+            "unfixed": 185
+        },
+        {
+            "campaign": "23V382",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "ALFA ROMEO",
+            "vehicles": 719,
+            "rate": 74.4,
+            "unfixed": 184
+        },
+        {
+            "campaign": "23V718",
+            "mfg": "Mazda North American Operations",
+            "make": "MAZDA",
+            "vehicles": 11903,
+            "rate": 98.5,
+            "unfixed": 179
+        },
+        {
+            "campaign": "22V771",
+            "mfg": "General Motors, LLC",
+            "make": "GMC",
+            "vehicles": 797,
+            "rate": 77.9,
+            "unfixed": 176
+        },
+        {
+            "campaign": "23V553",
+            "mfg": "Mazda North American Operations",
+            "make": "MAZDA",
+            "vehicles": 17600,
+            "rate": 99,
+            "unfixed": 176
+        },
+        {
+            "campaign": "22V806",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 6076,
+            "rate": 97.1,
+            "unfixed": 176
+        },
+        {
+            "campaign": "23V165",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 1651,
+            "rate": 89.6,
+            "unfixed": 172
+        },
+        {
+            "campaign": "23V056",
+            "mfg": "Pleasant Valley Teardrop Trailers LLC",
+            "make": "PLEASANT VALLEY",
+            "vehicles": 640,
+            "rate": 73.2,
+            "unfixed": 172
+        },
+        {
+            "campaign": "23V220",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 770,
+            "rate": 78,
+            "unfixed": 169
+        },
+        {
+            "campaign": "22V881",
+            "mfg": "Xos, Inc.",
+            "make": "XOS",
+            "vehicles": 260,
+            "rate": 36,
+            "unfixed": 166
+        },
+        {
+            "campaign": "23V679",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 54676,
+            "rate": 99.7,
+            "unfixed": 164
+        },
+        {
+            "campaign": "23V709",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "JAGUAR",
+            "vehicles": 501,
+            "rate": 68.9,
+            "unfixed": 156
+        },
+        {
+            "campaign": "23V064",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 1182,
+            "rate": 87.1,
+            "unfixed": 152
+        },
+        {
+            "campaign": "23V685",
+            "mfg": "Hyundai Translead",
+            "make": "HYUNDAI TRANSLEAD",
+            "vehicles": 562,
+            "rate": 73.1,
+            "unfixed": 151
+        },
+        {
+            "campaign": "23V139",
+            "mfg": "Off Grid Trailers",
+            "make": "OFF GRID TRAILERS",
+            "vehicles": 150,
+            "rate": 1.3,
+            "unfixed": 148
+        },
+        {
+            "campaign": "23V155",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 343,
+            "rate": 57.6,
+            "unfixed": 145
+        },
+        {
+            "campaign": "23V273",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 4249,
+            "rate": 96.7,
+            "unfixed": 140
+        },
+        {
+            "campaign": "22V582",
+            "mfg": "PACCAR Incorporated",
+            "make": "KENWORTH",
+            "vehicles": 630,
+            "rate": 77.8,
+            "unfixed": 140
+        },
+        {
+            "campaign": "22V792",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 596,
+            "rate": 76.7,
+            "unfixed": 139
+        },
+        {
+            "campaign": "23V773",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 559,
+            "rate": 75.2,
+            "unfixed": 139
+        },
+        {
+            "campaign": "23V299",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 266,
+            "rate": 48,
+            "unfixed": 138
+        },
+        {
+            "campaign": "23V166",
+            "mfg": "REV Recreation Group",
+            "make": "FLEETWOOD",
+            "vehicles": 479,
+            "rate": 71.4,
+            "unfixed": 137
+        },
+        {
+            "campaign": "22V906",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 939,
+            "rate": 85.6,
+            "unfixed": 135
+        },
+        {
+            "campaign": "23V045",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "JAGUAR",
+            "vehicles": 229,
+            "rate": 41.6,
+            "unfixed": 134
+        },
+        {
+            "campaign": "23V156",
+            "mfg": "Spartan Fire, LLC",
+            "make": "SPARTAN FIRE",
+            "vehicles": 166,
+            "rate": 20,
+            "unfixed": 133
+        },
+        {
+            "campaign": "23V286",
+            "mfg": "Forest River, Inc.",
+            "make": "COACHMEN",
+            "vehicles": 1027,
+            "rate": 87.5,
+            "unfixed": 128
+        },
+        {
+            "campaign": "23V767",
+            "mfg": "Pratt Intermodal Chassis",
+            "make": "PRATT INTERMODAL CHASSIS",
+            "vehicles": 320,
+            "rate": 60.7,
+            "unfixed": 126
+        },
+        {
+            "campaign": "23V089",
+            "mfg": "Dennis Eagle Inc.",
+            "make": "DENNIS EAGLE",
+            "vehicles": 140,
+            "rate": 10.6,
+            "unfixed": 125
+        },
+        {
+            "campaign": "23V350",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 166,
+            "rate": 26.2,
+            "unfixed": 123
+        },
+        {
+            "campaign": "23V617",
+            "mfg": "PACCAR Incorporated",
+            "make": "KENWORTH",
+            "vehicles": 871,
+            "rate": 86.5,
+            "unfixed": 118
+        },
+        {
+            "campaign": "23V305",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 523,
+            "rate": 77.6,
+            "unfixed": 117
+        },
+        {
+            "campaign": "23V300",
+            "mfg": "Hyundai Motor America",
+            "make": "GENESIS",
+            "vehicles": 1790,
+            "rate": 93.5,
+            "unfixed": 116
+        },
+        {
+            "campaign": "23V708",
+            "mfg": "Lucid USA, Inc.",
+            "make": "LUCID",
+            "vehicles": 1267,
+            "rate": 91.1,
+            "unfixed": 113
+        },
+        {
+            "campaign": "23V153",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 660,
+            "rate": 83,
+            "unfixed": 112
+        },
+        {
+            "campaign": "23V303",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 2564,
+            "rate": 95.7,
+            "unfixed": 110
+        },
+        {
+            "campaign": "23V071",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 1159,
+            "rate": 90.8,
+            "unfixed": 107
+        },
+        {
+            "campaign": "23V289",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 137,
+            "rate": 22.1,
+            "unfixed": 107
+        },
+        {
+            "campaign": "23V002",
+            "mfg": "Triple E Recreational Vehicles",
+            "make": "TRIPLE E",
+            "vehicles": 341,
+            "rate": 68.6,
+            "unfixed": 107
+        },
+        {
+            "campaign": "23V650",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 2354,
+            "rate": 95.5,
+            "unfixed": 106
+        },
+        {
+            "campaign": "23V763",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 339,
+            "rate": 68.8,
+            "unfixed": 106
+        },
+        {
+            "campaign": "23V796",
+            "mfg": "McLaren Automotive Incorporated",
+            "make": "MCLAREN",
+            "vehicles": 288,
+            "rate": 63.4,
+            "unfixed": 105
+        },
+        {
+            "campaign": "23V138",
+            "mfg": "Newmar Corporation",
+            "make": "NEWMAR",
+            "vehicles": 151,
+            "rate": 30.3,
+            "unfixed": 105
+        },
+        {
+            "campaign": "23V346",
+            "mfg": "Dennis Eagle Inc.",
+            "make": "DENNIS EAGLE",
+            "vehicles": 286,
+            "rate": 64.3,
+            "unfixed": 102
+        },
+        {
+            "campaign": "23V459",
+            "mfg": "E-One Incorporated",
+            "make": "E-ONE",
+            "vehicles": 163,
+            "rate": 37.5,
+            "unfixed": 102
+        },
+        {
+            "campaign": "23V469",
+            "mfg": "Newmar Corporation",
+            "make": "NEWMAR",
+            "vehicles": 372,
+            "rate": 73.5,
+            "unfixed": 99
+        },
+        {
+            "campaign": "23V235",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 422,
+            "rate": 76.6,
+            "unfixed": 99
+        },
+        {
+            "campaign": "22V854",
+            "mfg": "Gulf States Toyota, Inc.",
+            "make": "TOYOTA",
+            "vehicles": 157,
+            "rate": 37.5,
+            "unfixed": 98
+        },
+        {
+            "campaign": "23V030",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "JAGUAR",
+            "vehicles": 1072,
+            "rate": 90.9,
+            "unfixed": 98
+        },
+        {
+            "campaign": "23V363",
+            "mfg": "ST Engineering Hackney, Inc",
+            "make": "KIDRON",
+            "vehicles": 120,
+            "rate": 18.2,
+            "unfixed": 98
+        },
+        {
+            "campaign": "23V387",
+            "mfg": "Triple E Recreational Vehicles",
+            "make": "TRIPLE E RV",
+            "vehicles": 210,
+            "rate": 53.3,
+            "unfixed": 98
+        },
+        {
+            "campaign": "23V016",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 4615,
+            "rate": 97.9,
+            "unfixed": 97
+        },
+        {
+            "campaign": "23V631",
+            "mfg": "Spartan Fire, LLC",
+            "make": "SPARTAN FIRE",
+            "vehicles": 660,
+            "rate": 85.8,
+            "unfixed": 94
+        },
+        {
+            "campaign": "23V015",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 296,
+            "rate": 68.8,
+            "unfixed": 92
+        },
+        {
+            "campaign": "23V447",
+            "mfg": "Thor Motor Coach",
+            "make": "THOR MOTOR COACH",
+            "vehicles": 213,
+            "rate": 56.6,
+            "unfixed": 92
+        },
+        {
+            "campaign": "22V920",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 262,
+            "rate": 65.1,
+            "unfixed": 91
+        },
+        {
+            "campaign": "22V902",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 519,
+            "rate": 82.4,
+            "unfixed": 91
+        },
+        {
+            "campaign": "23V725",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 988,
+            "rate": 90.9,
+            "unfixed": 90
+        },
+        {
+            "campaign": "23V308",
+            "mfg": "Tiffin Motorhomes, Inc.",
+            "make": "TIFFIN",
+            "vehicles": 231,
+            "rate": 62.1,
+            "unfixed": 88
+        },
+        {
+            "campaign": "23V017",
+            "mfg": "Isuzu Motors Limited",
+            "make": "CHEVROLET",
+            "vehicles": 242,
+            "rate": 65.4,
+            "unfixed": 84
+        },
+        {
+            "campaign": "23V104",
+            "mfg": "Tiffin Motorhomes, Inc.",
+            "make": "TIFFIN",
+            "vehicles": 243,
+            "rate": 65.4,
+            "unfixed": 84
+        },
+        {
+            "campaign": "23V603",
+            "mfg": "Interstate Group, LLC",
+            "make": "INTERSTATE",
+            "vehicles": 263,
+            "rate": 68.6,
+            "unfixed": 83
+        },
+        {
+            "campaign": "23V521",
+            "mfg": "Lucid USA, Inc.",
+            "make": "LUCID",
+            "vehicles": 5523,
+            "rate": 98.5,
+            "unfixed": 83
+        },
+        {
+            "campaign": "22V823",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 2607,
+            "rate": 96.8,
+            "unfixed": 83
+        },
+        {
+            "campaign": "23V516",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 767,
+            "rate": 89.4,
+            "unfixed": 81
+        },
+        {
+            "campaign": "23V364",
+            "mfg": "Grand Design RV, LLC",
+            "make": "GRAND DESIGN",
+            "vehicles": 232,
+            "rate": 65.5,
+            "unfixed": 80
+        },
+        {
+            "campaign": "22V899",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 872,
+            "rate": 91.2,
+            "unfixed": 77
+        },
+        {
+            "campaign": "23V154",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 791,
+            "rate": 90.3,
+            "unfixed": 77
+        },
+        {
+            "campaign": "23V641",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 6298,
+            "rate": 98.8,
+            "unfixed": 76
+        },
+        {
+            "campaign": "23V635",
+            "mfg": "Gillig, LLC",
+            "make": "GILLIG",
+            "vehicles": 223,
+            "rate": 66.8,
+            "unfixed": 74
+        },
+        {
+            "campaign": "23V607",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 1189,
+            "rate": 94,
+            "unfixed": 71
+        },
+        {
+            "campaign": "23V151",
+            "mfg": "Grand Design RV, LLC",
+            "make": "GRAND DESIGN",
+            "vehicles": 139,
+            "rate": 50,
+            "unfixed": 70
+        },
+        {
+            "campaign": "23V605",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 395,
+            "rate": 82.4,
+            "unfixed": 70
+        },
+        {
+            "campaign": "23V426",
+            "mfg": "Stoughton Trailers, LLC",
+            "make": "STOUGHTON",
+            "vehicles": 1152,
+            "rate": 93.9,
+            "unfixed": 70
+        },
+        {
+            "campaign": "23V463",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 1558,
+            "rate": 95.6,
+            "unfixed": 69
+        },
+        {
+            "campaign": "22V898",
+            "mfg": "Hino Motors Sales U.S.A., Inc.",
+            "make": "HINO",
+            "vehicles": 970,
+            "rate": 93,
+            "unfixed": 68
+        },
+        {
+            "campaign": "23V518",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "JAGUAR",
+            "vehicles": 668,
+            "rate": 90,
+            "unfixed": 67
+        },
+        {
+            "campaign": "23V106",
+            "mfg": "Polaris Inc.",
+            "make": "POLARIS",
+            "vehicles": 163,
+            "rate": 58.6,
+            "unfixed": 67
+        },
+        {
+            "campaign": "23V615",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 4777,
+            "rate": 98.6,
+            "unfixed": 67
+        },
+        {
+            "campaign": "23V375",
+            "mfg": "Forest River, Inc.",
+            "make": "EAST TO WEST",
+            "vehicles": 258,
+            "rate": 74.5,
+            "unfixed": 66
+        },
+        {
+            "campaign": "23V329",
+            "mfg": "Ferrari North America, Inc.",
+            "make": "FERRARI",
+            "vehicles": 425,
+            "rate": 84.6,
+            "unfixed": 65
+        },
+        {
+            "campaign": "23V537",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 205,
+            "rate": 68.8,
+            "unfixed": 64
+        },
+        {
+            "campaign": "23V457",
+            "mfg": "Hino Motors Sales U.S.A., Inc.",
+            "make": "HINO",
+            "vehicles": 64,
+            "rate": 0,
+            "unfixed": 64
+        },
+        {
+            "campaign": "23V794",
+            "mfg": "Lode-King Industries, Ltd.",
+            "make": "LODE KING",
+            "vehicles": 66,
+            "rate": 2.6,
+            "unfixed": 64
+        },
+        {
+            "campaign": "23V063",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 192,
+            "rate": 67.4,
+            "unfixed": 63
+        },
+        {
+            "campaign": "23V021",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 801,
+            "rate": 92.1,
+            "unfixed": 63
+        },
+        {
+            "campaign": "23V169",
+            "mfg": "Keystone RV Company",
+            "make": "KEYSTONE",
+            "vehicles": 276,
+            "rate": 77,
+            "unfixed": 63
+        },
+        {
+            "campaign": "23V031",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "LAND ROVER",
+            "vehicles": 868,
+            "rate": 92.9,
+            "unfixed": 62
+        },
+        {
+            "campaign": "23V137",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "LAND ROVER",
+            "vehicles": 812,
+            "rate": 92.6,
+            "unfixed": 60
+        },
+        {
+            "campaign": "23V238",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FCCC",
+            "vehicles": 306,
+            "rate": 80.8,
+            "unfixed": 59
+        },
+        {
+            "campaign": "23V735",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 519,
+            "rate": 88.8,
+            "unfixed": 58
+        },
+        {
+            "campaign": "22V876",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 151,
+            "rate": 62,
+            "unfixed": 57
+        },
+        {
+            "campaign": "23V450",
+            "mfg": "ST Engineering Hackney, Inc",
+            "make": "KIDRON",
+            "vehicles": 243,
+            "rate": 76.5,
+            "unfixed": 57
+        },
+        {
+            "campaign": "22V510",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 1806,
+            "rate": 96.9,
+            "unfixed": 56
+        },
+        {
+            "campaign": "23V467",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 82,
+            "rate": 31.8,
+            "unfixed": 56
+        },
+        {
+            "campaign": "23V523",
+            "mfg": "Lucid USA, Inc.",
+            "make": "LUCID",
+            "vehicles": 778,
+            "rate": 92.9,
+            "unfixed": 55
+        },
+        {
+            "campaign": "23V355",
+            "mfg": "VinFast Auto, LLC",
+            "make": "VINFAST",
+            "vehicles": 999,
+            "rate": 94.5,
+            "unfixed": 55
+        },
+        {
+            "campaign": "23V173",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 1007,
+            "rate": 94.5,
+            "unfixed": 55
+        },
+        {
+            "campaign": "23V593",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 2018,
+            "rate": 97.3,
+            "unfixed": 54
+        },
+        {
+            "campaign": "23V107",
+            "mfg": "Par Nado inc",
+            "make": "SAFARI CONDO",
+            "vehicles": 331,
+            "rate": 83.9,
+            "unfixed": 53
+        },
+        {
+            "campaign": "22V272",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 138,
+            "rate": 62.3,
+            "unfixed": 52
+        },
+        {
+            "campaign": "23V541",
+            "mfg": "Hino Motors Sales U.S.A., Inc.",
+            "make": "HINO",
+            "vehicles": 468,
+            "rate": 89.1,
+            "unfixed": 51
+        },
+        {
+            "campaign": "23V752",
+            "mfg": "Jayco, Inc.",
+            "make": "JAYCO TRAVEL TRAILER",
+            "vehicles": 168,
+            "rate": 69.9,
+            "unfixed": 51
+        },
+        {
+            "campaign": "23V110",
+            "mfg": "Lucid USA, Inc.",
+            "make": "LUCID",
+            "vehicles": 886,
+            "rate": 94.2,
+            "unfixed": 51
+        },
+        {
+            "campaign": "23V493",
+            "mfg": "Pleasure Way Industries, Ltd.",
+            "make": "PLEASURE WAY",
+            "vehicles": 514,
+            "rate": 90.2,
+            "unfixed": 50
+        },
+        {
+            "campaign": "23V230",
+            "mfg": "Great Dane Trailers",
+            "make": "GREAT DANE",
+            "vehicles": 562,
+            "rate": 91.3,
+            "unfixed": 49
+        },
+        {
+            "campaign": "23V006",
+            "mfg": "Triumph Motorcycles America, Ltd.",
+            "make": "TRIUMPH",
+            "vehicles": 1351,
+            "rate": 96.4,
+            "unfixed": 49
+        },
+        {
+            "campaign": "23V660",
+            "mfg": "Forest River, Inc.",
+            "make": "COACHMEN",
+            "vehicles": 50,
+            "rate": 3.7,
+            "unfixed": 48
+        },
+        {
+            "campaign": "23V574",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 880,
+            "rate": 94.5,
+            "unfixed": 48
+        },
+        {
+            "campaign": "22V956",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 1042,
+            "rate": 95.4,
+            "unfixed": 48
+        },
+        {
+            "campaign": "23V164",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 644,
+            "rate": 92.9,
+            "unfixed": 46
+        },
+        {
+            "campaign": "23V227",
+            "mfg": "Forest River, Inc.",
+            "make": "EAST TO WEST",
+            "vehicles": 98,
+            "rate": 53.3,
+            "unfixed": 46
+        },
+        {
+            "campaign": "23V032",
+            "mfg": "Winnebago Industries, Inc.",
+            "make": "WINNEBAGO",
+            "vehicles": 504,
+            "rate": 90.9,
+            "unfixed": 46
+        },
+        {
+            "campaign": "22V714",
+            "mfg": "Corp. Micro Bird, Inc.",
+            "make": "MICRO BIRD",
+            "vehicles": 45,
+            "rate": 0,
+            "unfixed": 45
+        },
+        {
+            "campaign": "23V698",
+            "mfg": "Ferrari North America, Inc.",
+            "make": "FERRARI",
+            "vehicles": 614,
+            "rate": 92.9,
+            "unfixed": 44
+        },
+        {
+            "campaign": "22V850",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 149,
+            "rate": 70.5,
+            "unfixed": 44
+        },
+        {
+            "campaign": "23V620",
+            "mfg": "Ducati North America",
+            "make": "DUCATI",
+            "vehicles": 842,
+            "rate": 94.9,
+            "unfixed": 43
+        },
+        {
+            "campaign": "23V229",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 640,
+            "rate": 93.3,
+            "unfixed": 43
+        },
+        {
+            "campaign": "22V872",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 196,
+            "rate": 77.9,
+            "unfixed": 43
+        },
+        {
+            "campaign": "23V126",
+            "mfg": "Prevost Car (US) Inc.",
+            "make": "PREVOST",
+            "vehicles": 555,
+            "rate": 92.2,
+            "unfixed": 43
+        },
+        {
+            "campaign": "23V401",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 243,
+            "rate": 82.1,
+            "unfixed": 43
+        },
+        {
+            "campaign": "22V941",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 853,
+            "rate": 95.1,
+            "unfixed": 42
+        },
+        {
+            "campaign": "23V080",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 8413,
+            "rate": 99.5,
+            "unfixed": 42
+        },
+        {
+            "campaign": "23V279",
+            "mfg": "Triple E Recreational Vehicles",
+            "make": "TRIPLE E RV",
+            "vehicles": 154,
+            "rate": 73,
+            "unfixed": 42
+        },
+        {
+            "campaign": "23V621",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 679,
+            "rate": 94,
+            "unfixed": 41
+        },
+        {
+            "campaign": "23V761",
+            "mfg": "Prevost Car (US) Inc.",
+            "make": "PREVOST",
+            "vehicles": 204,
+            "rate": 80,
+            "unfixed": 41
+        },
+        {
+            "campaign": "22V849",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 95,
+            "rate": 58.3,
+            "unfixed": 40
+        },
+        {
+            "campaign": "23V277",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 40,
+            "rate": 0.7,
+            "unfixed": 40
+        },
+        {
+            "campaign": "22V698",
+            "mfg": "Prevost Car (US) Inc.",
+            "make": "PREVOST",
+            "vehicles": 255,
+            "rate": 84.2,
+            "unfixed": 40
+        },
+        {
+            "campaign": "23V028",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 326,
+            "rate": 88.1,
+            "unfixed": 39
+        },
+        {
+            "campaign": "23V640",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "DODGE",
+            "vehicles": 125,
+            "rate": 69.3,
+            "unfixed": 38
+        },
+        {
+            "campaign": "23V742",
+            "mfg": "Gulf Stream Coach, Inc.",
+            "make": "GULF STREAM",
+            "vehicles": 90,
+            "rate": 57.7,
+            "unfixed": 38
+        },
+        {
+            "campaign": "23V485",
+            "mfg": "Gulf States Toyota, Inc.",
+            "make": "TOYOTA",
+            "vehicles": 195,
+            "rate": 81.5,
+            "unfixed": 36
+        },
+        {
+            "campaign": "23V430",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 386,
+            "rate": 90.8,
+            "unfixed": 36
+        },
+        {
+            "campaign": "23V453",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 332,
+            "rate": 89.8,
+            "unfixed": 34
+        },
+        {
+            "campaign": "23V161",
+            "mfg": "Kibbi, LLC",
+            "make": "RENEGADE",
+            "vehicles": 63,
+            "rate": 46.4,
+            "unfixed": 34
+        },
+        {
+            "campaign": "23V206",
+            "mfg": "Vermeer Manufacturing Company",
+            "make": "VERMEER",
+            "vehicles": 1210,
+            "rate": 97.2,
+            "unfixed": 34
+        },
+        {
+            "campaign": "23V335",
+            "mfg": "Dennis Eagle Inc.",
+            "make": "DENNIS EAGLE",
+            "vehicles": 286,
+            "rate": 88.6,
+            "unfixed": 33
+        },
+        {
+            "campaign": "23V127",
+            "mfg": "Xos, Inc.",
+            "make": "XOS",
+            "vehicles": 259,
+            "rate": 87.3,
+            "unfixed": 33
+        },
+        {
+            "campaign": "23V421",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 230,
+            "rate": 85.9,
+            "unfixed": 32
+        },
+        {
+            "campaign": "23V078",
+            "mfg": "Proterra Operating Company, Inc.",
+            "make": "PROTERRA",
+            "vehicles": 252,
+            "rate": 87.5,
+            "unfixed": 32
+        },
+        {
+            "campaign": "23V367",
+            "mfg": "General Motors, LLC",
+            "make": "CADILLAC",
+            "vehicles": 33,
+            "rate": 7.1,
+            "unfixed": 31
+        },
+        {
+            "campaign": "23V135",
+            "mfg": "Mazda North American Operations",
+            "make": "MAZDA",
+            "vehicles": 560,
+            "rate": 94.4,
+            "unfixed": 31
+        },
+        {
+            "campaign": "23V029",
+            "mfg": "Kalmar Solutions, LLC",
+            "make": "KALMAR",
+            "vehicles": 128,
+            "rate": 76.3,
+            "unfixed": 30
+        },
+        {
+            "campaign": "23V128",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 240,
+            "rate": 87.9,
+            "unfixed": 29
+        },
+        {
+            "campaign": "23V254",
+            "mfg": "Forest River Bus, LLC",
+            "make": "STARCRAFT BUS",
+            "vehicles": 29,
+            "rate": 0,
+            "unfixed": 29
+        },
+        {
+            "campaign": "23V520",
+            "mfg": "Lucid USA, Inc.",
+            "make": "LUCID",
+            "vehicles": 91,
+            "rate": 69.4,
+            "unfixed": 28
+        },
+        {
+            "campaign": "23V278",
+            "mfg": "Heartland Recreational Vehicles, LLC",
+            "make": "HEARTLAND",
+            "vehicles": 100,
+            "rate": 72.7,
+            "unfixed": 27
+        },
+        {
+            "campaign": "23V670",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 173,
+            "rate": 85.1,
+            "unfixed": 26
+        },
+        {
+            "campaign": "23V385",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 137,
+            "rate": 80.8,
+            "unfixed": 26
+        },
+        {
+            "campaign": "23V157",
+            "mfg": "Eveland's Inc.",
+            "make": "EVELAND",
+            "vehicles": 25,
+            "rate": 0,
+            "unfixed": 25
+        },
+        {
+            "campaign": "23V027",
+            "mfg": "Kia America, Inc.",
+            "make": "KIA",
+            "vehicles": 34,
+            "rate": 30.1,
+            "unfixed": 24
+        },
+        {
+            "campaign": "23V007",
+            "mfg": "PACCAR Incorporated",
+            "make": "KENWORTH",
+            "vehicles": 46,
+            "rate": 47.6,
+            "unfixed": 24
+        },
+        {
+            "campaign": "22V866",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "DODGE",
+            "vehicles": 5834,
+            "rate": 99.6,
+            "unfixed": 23
+        },
+        {
+            "campaign": "23V484",
+            "mfg": "McLaren Automotive Incorporated",
+            "make": "MCLAREN",
+            "vehicles": 652,
+            "rate": 96.5,
+            "unfixed": 23
+        },
+        {
+            "campaign": "23V482",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 414,
+            "rate": 94.4,
+            "unfixed": 23
+        },
+        {
+            "campaign": "23V250",
+            "mfg": "Ducati North America",
+            "make": "DUCATI",
+            "vehicles": 293,
+            "rate": 92.6,
+            "unfixed": 22
+        },
+        {
+            "campaign": "23V404",
+            "mfg": "Jayco, Inc.",
+            "make": "ENTEGRA",
+            "vehicles": 103,
+            "rate": 78.4,
+            "unfixed": 22
+        },
+        {
+            "campaign": "23V037",
+            "mfg": "Lion Electric Company",
+            "make": "LION",
+            "vehicles": 32,
+            "rate": 30.8,
+            "unfixed": 22
+        },
+        {
+            "campaign": "23V439",
+            "mfg": "Ford Motor Company",
+            "make": "LINCOLN",
+            "vehicles": 366,
+            "rate": 94.2,
+            "unfixed": 21
+        },
+        {
+            "campaign": "23V642",
+            "mfg": "General Motors, LLC",
+            "make": "CADILLAC",
+            "vehicles": 189,
+            "rate": 88.7,
+            "unfixed": 21
+        },
+        {
+            "campaign": "23V673",
+            "mfg": "Jayco, Inc.",
+            "make": "ENTEGRA",
+            "vehicles": 46,
+            "rate": 55,
+            "unfixed": 21
+        },
+        {
+            "campaign": "23V613",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 1899,
+            "rate": 98.9,
+            "unfixed": 21
+        },
+        {
+            "campaign": "23V188",
+            "mfg": "Volvo Car USA, LLC",
+            "make": "VOLVO",
+            "vehicles": 393,
+            "rate": 94.6,
+            "unfixed": 21
+        },
+        {
+            "campaign": "23V330",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 146,
+            "rate": 86.6,
+            "unfixed": 20
+        },
+        {
+            "campaign": "23V689",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 29,
+            "rate": 32.3,
+            "unfixed": 20
+        },
+        {
+            "campaign": "22V722",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "WESTERN STAR",
+            "vehicles": 36,
+            "rate": 46.9,
+            "unfixed": 19
+        },
+        {
+            "campaign": "21V153",
+            "mfg": "Daimler Vans USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 56,
+            "rate": 65.7,
+            "unfixed": 19
+        },
+        {
+            "campaign": "23V197",
+            "mfg": "Shadow Trailer, LLC",
+            "make": "SHADOW",
+            "vehicles": 270,
+            "rate": 92.9,
+            "unfixed": 19
+        },
+        {
+            "campaign": "23V255",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 236,
+            "rate": 91.8,
+            "unfixed": 19
+        },
+        {
+            "campaign": "23V025",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 135,
+            "rate": 85.6,
+            "unfixed": 19
+        },
+        {
+            "campaign": "23V141",
+            "mfg": "Forest River, Inc.",
+            "make": "PALOMINO",
+            "vehicles": 272,
+            "rate": 93.5,
+            "unfixed": 18
+        },
+        {
+            "campaign": "23V774",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 19,
+            "rate": 3.7,
+            "unfixed": 18
+        },
+        {
+            "campaign": "23V468",
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "make": "TOYOTA",
+            "vehicles": 1398,
+            "rate": 98.7,
+            "unfixed": 18
+        },
+        {
+            "campaign": "23V441",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 224,
+            "rate": 91.9,
+            "unfixed": 18
+        },
+        {
+            "campaign": "23V014",
+            "mfg": "Forest River Bus, LLC",
+            "make": "FOREST RIVER",
+            "vehicles": 17,
+            "rate": 0,
+            "unfixed": 17
+        },
+        {
+            "campaign": "23V624",
+            "mfg": "Midwest Fire Equipment & Repair Company",
+            "make": "MIDWEST FIRE",
+            "vehicles": 19,
+            "rate": 8.6,
+            "unfixed": 17
+        },
+        {
+            "campaign": "23V348",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "WESTERN STAR",
+            "vehicles": 47,
+            "rate": 66.7,
+            "unfixed": 16
+        },
+        {
+            "campaign": "23V203",
+            "mfg": "Jayco, Inc.",
+            "make": "JAYCO FIFTH WHEEL",
+            "vehicles": 37,
+            "rate": 56.5,
+            "unfixed": 16
+        },
+        {
+            "campaign": "23V091",
+            "mfg": "Jayco, Inc.",
+            "make": "JAYCO",
+            "vehicles": 20,
+            "rate": 18,
+            "unfixed": 16
+        },
+        {
+            "campaign": "23V668",
+            "mfg": "Volvo Bus Corporation",
+            "make": "VOLVO BUS",
+            "vehicles": 19,
+            "rate": 15,
+            "unfixed": 16
+        },
+        {
+            "campaign": "23V638",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 39,
+            "rate": 62.2,
+            "unfixed": 15
+        },
+        {
+            "campaign": "23V786",
+            "mfg": "General Motors, LLC",
+            "make": "GMC",
+            "vehicles": 115,
+            "rate": 87.1,
+            "unfixed": 15
+        },
+        {
+            "campaign": "23V529",
+            "mfg": "Temp-Air, a division of Sunbelt Rentals",
+            "make": "TEMP AIR",
+            "vehicles": 16,
+            "rate": 3.7,
+            "unfixed": 15
+        },
+        {
+            "campaign": "22V914",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FCCC",
+            "vehicles": 23,
+            "rate": 39.6,
+            "unfixed": 14
+        },
+        {
+            "campaign": "23V746",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 74,
+            "rate": 80.9,
+            "unfixed": 14
+        },
+        {
+            "campaign": "23V066",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 115,
+            "rate": 87.8,
+            "unfixed": 14
+        },
+        {
+            "campaign": "23V616",
+            "mfg": "PACCAR Incorporated",
+            "make": "KENWORTH",
+            "vehicles": 21,
+            "rate": 33.3,
+            "unfixed": 14
+        },
+        {
+            "campaign": "23V474",
+            "mfg": "Prevost Car (US) Inc.",
+            "make": "PREVOST",
+            "vehicles": 93,
+            "rate": 84.6,
+            "unfixed": 14
+        },
+        {
+            "campaign": "23V280",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 125,
+            "rate": 88.7,
+            "unfixed": 14
+        },
+        {
+            "campaign": "23V565",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 16,
+            "rate": 19,
+            "unfixed": 13
+        },
+        {
+            "campaign": "23V461",
+            "mfg": "Mobility Ventures LLC",
+            "make": "MOBILITY VENTURES",
+            "vehicles": 525,
+            "rate": 97.5,
+            "unfixed": 13
+        },
+        {
+            "campaign": "23V147",
+            "mfg": "Newell Coach Corp.",
+            "make": "NEWELL",
+            "vehicles": 28,
+            "rate": 52.2,
+            "unfixed": 13
+        },
+        {
+            "campaign": "23V504",
+            "mfg": "PACCAR Incorporated",
+            "make": "KENWORTH",
+            "vehicles": 72,
+            "rate": 82.6,
+            "unfixed": 13
+        },
+        {
+            "campaign": "23V361",
+            "mfg": "Polestar Automotive USA, Inc.",
+            "make": "POLESTAR",
+            "vehicles": 66,
+            "rate": 79.7,
+            "unfixed": 13
+        },
+        {
+            "campaign": "23V001",
+            "mfg": "Volvo Car USA, LLC",
+            "make": "VOLVO",
+            "vehicles": 74,
+            "rate": 82.5,
+            "unfixed": 13
+        },
+        {
+            "campaign": "23V140",
+            "mfg": "Winnebago Industries, Inc.",
+            "make": "WINNEBAGO",
+            "vehicles": 22,
+            "rate": 40.2,
+            "unfixed": 13
+        },
+        {
+            "campaign": "23V145",
+            "mfg": "Xos, Inc.",
+            "make": "XOS",
+            "vehicles": 275,
+            "rate": 95.4,
+            "unfixed": 13
+        },
+        {
+            "campaign": "23V058",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "JEEP",
+            "vehicles": 90,
+            "rate": 86.5,
+            "unfixed": 12
+        },
+        {
+            "campaign": "22V947",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 38,
+            "rate": 68.8,
+            "unfixed": 12
+        },
+        {
+            "campaign": "23V288",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 37,
+            "rate": 66.7,
+            "unfixed": 12
+        },
+        {
+            "campaign": "23V557",
+            "mfg": "Hyundai Motor America",
+            "make": "GENESIS",
+            "vehicles": 168,
+            "rate": 92.9,
+            "unfixed": 12
+        },
+        {
+            "campaign": "22V901",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 297,
+            "rate": 95.8,
+            "unfixed": 12
+        },
+        {
+            "campaign": "22V925",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 11074,
+            "rate": 99.9,
+            "unfixed": 11
+        },
+        {
+            "campaign": "23V726",
+            "mfg": "Forest River Bus, LLC",
+            "make": "STARCRAFT BUS",
+            "vehicles": 31,
+            "rate": 64.8,
+            "unfixed": 11
+        },
+        {
+            "campaign": "23V061",
+            "mfg": "Forest River, Inc.",
+            "make": "COACHMEN",
+            "vehicles": 12,
+            "rate": 9.5,
+            "unfixed": 11
+        },
+        {
+            "campaign": "23V210",
+            "mfg": "Hyundai Motor America",
+            "make": "GENESIS",
+            "vehicles": 575,
+            "rate": 98.1,
+            "unfixed": 11
+        },
+        {
+            "campaign": "23V322",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 49,
+            "rate": 78.3,
+            "unfixed": 11
+        },
+        {
+            "campaign": "23V446",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 700,
+            "rate": 98.5,
+            "unfixed": 11
+        },
+        {
+            "campaign": "23V437",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 59,
+            "rate": 81.8,
+            "unfixed": 11
+        },
+        {
+            "campaign": "23V259",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 48,
+            "rate": 80,
+            "unfixed": 10
+        },
+        {
+            "campaign": "23V171",
+            "mfg": "Navistar, Inc.",
+            "make": "INTERNATIONAL",
+            "vehicles": 24,
+            "rate": 59.9,
+            "unfixed": 10
+        },
+        {
+            "campaign": "23V536",
+            "mfg": "Rosenbauer America",
+            "make": "ROSENBAUER",
+            "vehicles": 13,
+            "rate": 20.8,
+            "unfixed": 10
+        },
+        {
+            "campaign": "23V542",
+            "mfg": "Shyft Group",
+            "make": "UTILIMASTER",
+            "vehicles": 560,
+            "rate": 98.3,
+            "unfixed": 10
+        },
+        {
+            "campaign": "22V919",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FREIGHTLINER",
+            "vehicles": 49,
+            "rate": 82.6,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V648",
+            "mfg": "Forest River, Inc.",
+            "make": "EAST TO WEST",
+            "vehicles": 46,
+            "rate": 80,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V705",
+            "mfg": "Forest River, Inc.",
+            "make": "COACHMEN",
+            "vehicles": 33,
+            "rate": 73.3,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V341",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 63,
+            "rate": 86.4,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V428",
+            "mfg": "Grand Design RV, LLC",
+            "make": "GRAND DESIGN",
+            "vehicles": 24,
+            "rate": 61.3,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V415",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 322,
+            "rate": 97.2,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V374",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 71,
+            "rate": 87.5,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V715",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 2923,
+            "rate": 99.7,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V176",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 130,
+            "rate": 93,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V434",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 26,
+            "rate": 64.6,
+            "unfixed": 9
+        },
+        {
+            "campaign": "23V753",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "CHRYSLER",
+            "vehicles": 32,
+            "rate": 76.3,
+            "unfixed": 8
+        },
+        {
+            "campaign": "23V072",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 321,
+            "rate": 97.5,
+            "unfixed": 8
+        },
+        {
+            "campaign": "23V834",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 30,
+            "rate": 75,
+            "unfixed": 8
+        },
+        {
+            "campaign": "23V588",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 19,
+            "rate": 60,
+            "unfixed": 8
+        },
+        {
+            "campaign": "23V402",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 47,
+            "rate": 83.7,
+            "unfixed": 8
+        },
+        {
+            "campaign": "23V347",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 71,
+            "rate": 88.7,
+            "unfixed": 8
+        },
+        {
+            "campaign": "23V292",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 4030,
+            "rate": 99.8,
+            "unfixed": 8
+        },
+        {
+            "campaign": "23V133",
+            "mfg": "Forest River, Inc.",
+            "make": "COACHMEN",
+            "vehicles": 19,
+            "rate": 63.2,
+            "unfixed": 7
+        },
+        {
+            "campaign": "23V429",
+            "mfg": "Mazda North American Operations",
+            "make": "MAZDA",
+            "vehicles": 18,
+            "rate": 62,
+            "unfixed": 7
+        },
+        {
+            "campaign": "23V712",
+            "mfg": "Midwest Automotive Designs, LLC",
+            "make": "MIDWEST AUTOMOTIVE DESIGN",
+            "vehicles": 70,
+            "rate": 89.5,
+            "unfixed": 7
+        },
+        {
+            "campaign": "23V291",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 7,
+            "rate": 0,
+            "unfixed": 7
+        },
+        {
+            "campaign": "22V897",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 53,
+            "rate": 86.5,
+            "unfixed": 7
+        },
+        {
+            "campaign": "22V895",
+            "mfg": "Tesla, Inc.",
+            "make": "TESLA",
+            "vehicles": 26,
+            "rate": 73.1,
+            "unfixed": 7
+        },
+        {
+            "campaign": "23V328",
+            "mfg": "Triple E Recreational Vehicles",
+            "make": "TRIPLE E RV",
+            "vehicles": 23,
+            "rate": 70.8,
+            "unfixed": 7
+        },
+        {
+            "campaign": "22V936",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 69,
+            "rate": 90.6,
+            "unfixed": 6
+        },
+        {
+            "campaign": "22V910",
+            "mfg": "Navistar, Inc.",
+            "make": "IC BUS",
+            "vehicles": 46,
+            "rate": 87.5,
+            "unfixed": 6
+        },
+        {
+            "campaign": "23V495",
+            "mfg": "Titan Bus",
+            "make": "TITAN BUS",
+            "vehicles": 69,
+            "rate": 90.7,
+            "unfixed": 6
+        },
+        {
+            "campaign": "23V766",
+            "mfg": "Triple E Recreational Vehicles",
+            "make": "TRIPLE E RV",
+            "vehicles": 37,
+            "rate": 82.6,
+            "unfixed": 6
+        },
+        {
+            "campaign": "23V399",
+            "mfg": "Triple E Recreational Vehicles",
+            "make": "TRIPLE E RV",
+            "vehicles": 24,
+            "rate": 75.3,
+            "unfixed": 6
+        },
+        {
+            "campaign": "22V858",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 55,
+            "rate": 89.5,
+            "unfixed": 6
+        },
+        {
+            "campaign": "23V597",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 10,
+            "rate": 50,
+            "unfixed": 5
+        },
+        {
+            "campaign": "23V043",
+            "mfg": "General Motors, LLC",
+            "make": "CADILLAC",
+            "vehicles": 10,
+            "rate": 49.9,
+            "unfixed": 5
+        },
+        {
+            "campaign": "23V092",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 98,
+            "rate": 94.7,
+            "unfixed": 5
+        },
+        {
+            "campaign": "23V481",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 196,
+            "rate": 97.6,
+            "unfixed": 5
+        },
+        {
+            "campaign": "23V749",
+            "mfg": "PACCAR Incorporated",
+            "make": "PETERBILT",
+            "vehicles": 9,
+            "rate": 45.9,
+            "unfixed": 5
+        },
+        {
+            "campaign": "23V183",
+            "mfg": "Prevost Car (US) Inc.",
+            "make": "PREVOST",
+            "vehicles": 26,
+            "rate": 81.8,
+            "unfixed": 5
+        },
+        {
+            "campaign": "23V389",
+            "mfg": "Spartan Fire, LLC",
+            "make": "SPARTAN FIRE",
+            "vehicles": 5,
+            "rate": 0,
+            "unfixed": 5
+        },
+        {
+            "campaign": "23V148",
+            "mfg": "Terex Advance Mixer, Inc.",
+            "make": "TEREX ADVANCE",
+            "vehicles": 20,
+            "rate": 74.5,
+            "unfixed": 5
+        },
+        {
+            "campaign": "22V927",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 96,
+            "rate": 94.9,
+            "unfixed": 5
+        },
+        {
+            "campaign": "23V559",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 40,
+            "rate": 89.7,
+            "unfixed": 4
+        },
+        {
+            "campaign": "22V882",
+            "mfg": "Holiday House, LLC",
+            "make": "HOLIDAY HOUSE",
+            "vehicles": 26,
+            "rate": 84,
+            "unfixed": 4
+        },
+        {
+            "campaign": "22V848",
+            "mfg": "Lamborghini (Automobili Lamborghini)",
+            "make": "LAMBORGHINI",
+            "vehicles": 9,
+            "rate": 56.3,
+            "unfixed": 4
+        },
+        {
+            "campaign": "23V143",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 17,
+            "rate": 79,
+            "unfixed": 4
+        },
+        {
+            "campaign": "23V554",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-MAYBACH",
+            "vehicles": 73,
+            "rate": 94.2,
+            "unfixed": 4
+        },
+        {
+            "campaign": "23V555",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 10,
+            "rate": 63.6,
+            "unfixed": 4
+        },
+        {
+            "campaign": "23V539",
+            "mfg": "Provan Industries, LLC",
+            "make": "TIGER",
+            "vehicles": 8,
+            "rate": 47.8,
+            "unfixed": 4
+        },
+        {
+            "campaign": "23V192",
+            "mfg": "Spartan Fire, LLC",
+            "make": "SPARTAN FIRE",
+            "vehicles": 12,
+            "rate": 65,
+            "unfixed": 4
+        },
+        {
+            "campaign": "23V392",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 5,
+            "rate": 13.3,
+            "unfixed": 4
+        },
+        {
+            "campaign": "23V619",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 8,
+            "rate": 50,
+            "unfixed": 4
+        },
+        {
+            "campaign": "23V800",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 66,
+            "rate": 94.7,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V344",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 19,
+            "rate": 84.2,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V198",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 19,
+            "rate": 84.6,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V739",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 24,
+            "rate": 89.5,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V706",
+            "mfg": "Forest River, Inc.",
+            "make": "COACHMEN",
+            "vehicles": 18,
+            "rate": 84.2,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V575",
+            "mfg": "Forest River, Inc.",
+            "make": "COACHMEN",
+            "vehicles": 16,
+            "rate": 83.3,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V201",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 12,
+            "rate": 75,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V681",
+            "mfg": "General Motors, LLC",
+            "make": "GMC",
+            "vehicles": 42,
+            "rate": 93.9,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V310",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 5,
+            "rate": 50,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V662",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 32,
+            "rate": 90,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V187",
+            "mfg": "Nissan North America, Inc.",
+            "make": "INFINITI",
+            "vehicles": 48,
+            "rate": 94.1,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V436",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 4,
+            "rate": 25,
+            "unfixed": 3
+        },
+        {
+            "campaign": "23V209",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 380,
+            "rate": 99.4,
+            "unfixed": 2
+        },
+        {
+            "campaign": "22V840",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "THOMAS BUILT BUSES",
+            "vehicles": 20,
+            "rate": 90.9,
+            "unfixed": 2
+        },
+        {
+            "campaign": "22V877",
+            "mfg": "Daimler Trucks North America, LLC",
+            "make": "FCCC",
+            "vehicles": 11,
+            "rate": 79.3,
+            "unfixed": 2
+        },
+        {
+            "campaign": "23V546",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 2,
+            "rate": 0,
+            "unfixed": 2
+        },
+        {
+            "campaign": "23V349",
+            "mfg": "Foretravel, Inc.",
+            "make": "FORETRAVEL",
+            "vehicles": 67,
+            "rate": 96.7,
+            "unfixed": 2
+        },
+        {
+            "campaign": "23V483",
+            "mfg": "Industrial Video & Control Co",
+            "make": "MVT-900A",
+            "vehicles": 4,
+            "rate": 54.8,
+            "unfixed": 2
+        },
+        {
+            "campaign": "23V252",
+            "mfg": "Jaguar Land Rover North America, LLC",
+            "make": "LAND ROVER",
+            "vehicles": 500,
+            "rate": 99.6,
+            "unfixed": 2
+        },
+        {
+            "campaign": "23V009",
+            "mfg": "Lode-King Industries, Ltd.",
+            "make": "LODE KING",
+            "vehicles": 38,
+            "rate": 93.9,
+            "unfixed": 2
+        },
+        {
+            "campaign": "23V108",
+            "mfg": "Nissan North America, Inc.",
+            "make": "INFINITI",
+            "vehicles": 17,
+            "rate": 88.7,
+            "unfixed": 2
+        },
+        {
+            "campaign": "23V816",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 53,
+            "rate": 96.6,
+            "unfixed": 2
+        },
+        {
+            "campaign": "22V884",
+            "mfg": "Winnebago Towable",
+            "make": "WINNEBAGO",
+            "vehicles": 63,
+            "rate": 97.1,
+            "unfixed": 2
+        },
+        {
+            "campaign": "23V264",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "RAM",
+            "vehicles": 37,
+            "rate": 96.9,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V606",
+            "mfg": "Corp. Micro Bird, Inc.",
+            "make": "MICRO BIRD",
+            "vehicles": 6,
+            "rate": 79.1,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V332",
+            "mfg": "E-One Incorporated",
+            "make": "E-ONE",
+            "vehicles": 24,
+            "rate": 95.6,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V758",
+            "mfg": "Ford Motor Company",
+            "make": "FORD",
+            "vehicles": 13,
+            "rate": 90,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V202",
+            "mfg": "Forest River, Inc.",
+            "make": "FOREST RIVER",
+            "vehicles": 19,
+            "rate": 94.4,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V042",
+            "mfg": "General Motors, LLC",
+            "make": "CHEVROLET",
+            "vehicles": 10,
+            "rate": 90,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V548",
+            "mfg": "Highland Ridge RV",
+            "make": "HIGHLAND RIDGE TT",
+            "vehicles": 11,
+            "rate": 91.7,
+            "unfixed": 1
+        },
+        {
+            "campaign": "22V950",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "ACURA",
+            "vehicles": 19,
+            "rate": 94.7,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V524",
+            "mfg": "Honda (American Honda Motor Co.)",
+            "make": "HONDA",
+            "vehicles": 5,
+            "rate": 85,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V556",
+            "mfg": "Hyundai Motor America",
+            "make": "HYUNDAI",
+            "vehicles": 30,
+            "rate": 95.9,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V281",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 4,
+            "rate": 83.9,
+            "unfixed": 1
+        },
+        {
+            "campaign": "22V938",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 11,
+            "rate": 87.5,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V232",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 3,
+            "rate": 66.7,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V677",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 1,
+            "rate": 30,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V321",
+            "mfg": "Outback customs,LLC",
+            "make": "ELITE",
+            "vehicles": 5,
+            "rate": 89.6,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V443",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 37,
+            "rate": 96.4,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V665",
+            "mfg": "REV Recreation Group",
+            "make": "FLEETWOOD",
+            "vehicles": 14,
+            "rate": 95.1,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V671",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "VOLKSWAGEN",
+            "vehicles": 2,
+            "rate": 51.9,
+            "unfixed": 1
+        },
+        {
+            "campaign": "23V403",
+            "mfg": "Volvo Trucks North America",
+            "make": "VOLVO",
+            "vehicles": 29,
+            "rate": 96.6,
+            "unfixed": 1
+        },
+        {
+            "campaign": "22V723",
+            "mfg": "Chrysler (FCA US, LLC)",
+            "make": "DODGE",
+            "vehicles": 83453,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V561",
+            "mfg": "Explorer Van Company",
+            "make": "EXPLORER VAN COMPANY",
+            "vehicles": 8,
+            "rate": 98.9,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V136",
+            "mfg": "Ferrari North America, Inc.",
+            "make": "FERRARI",
+            "vehicles": 13,
+            "rate": 99.1,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V682",
+            "mfg": "General Motors, LLC",
+            "make": "CADILLAC",
+            "vehicles": 62,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "22V463",
+            "mfg": "General Motors, LLC",
+            "make": "GMC",
+            "vehicles": 242,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V008",
+            "mfg": "Gratimax, LLC",
+            "make": "MCELRATH TRAILERS",
+            "vehicles": 31,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "22V777",
+            "mfg": "HD Trailer MFG. LLC",
+            "make": "HD TRAILER",
+            "vehicles": 15,
+            "rate": 98,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V550",
+            "mfg": "Lakota Corporation",
+            "make": "LAKOTA",
+            "vehicles": 65,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "22V952",
+            "mfg": "Lion Electric Company",
+            "make": "LION",
+            "vehicles": 13,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V465",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 204,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V024",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 43,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V513",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 19,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V691",
+            "mfg": "Mack Trucks, Inc.",
+            "make": "MACK",
+            "vehicles": 13,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V057",
+            "mfg": "Maintainer Corporation of Iowa, Inc.",
+            "make": "MAINTAINER",
+            "vehicles": 1120,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V570",
+            "mfg": "Maserati North America, Inc.",
+            "make": "MASERATI",
+            "vehicles": 59,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V242",
+            "mfg": "Maserati North America, Inc.",
+            "make": "MASERATI",
+            "vehicles": 11,
+            "rate": 99.1,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V733",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 8,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V741",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 7,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V200",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 6,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V464",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 6,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V074",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 3,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "22V935",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 1,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V098",
+            "mfg": "Mercedes-Benz USA, LLC",
+            "make": "MERCEDES-BENZ",
+            "vehicles": 1,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "22V943",
+            "mfg": "New Flyer of America, Inc.",
+            "make": "NEW FLYER",
+            "vehicles": 746,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V628",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 153376,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V067",
+            "mfg": "Nissan North America, Inc.",
+            "make": "NISSAN",
+            "vehicles": 404690,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V762",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 718,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V714",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 514,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V054",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 17,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V540",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 13,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V239",
+            "mfg": "Nova Bus (US) Inc.",
+            "make": "NOVA BUS",
+            "vehicles": 10,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V572",
+            "mfg": "Piaggio Group Americas, Inc.",
+            "make": "MOTO GUZZI",
+            "vehicles": 260,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V825",
+            "mfg": "PILOTCAR EV INC.",
+            "make": "PILOTCAR",
+            "vehicles": 265,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V831",
+            "mfg": "PILOTCAR EV INC.",
+            "make": "PILOTCAR",
+            "vehicles": 265,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "22V921",
+            "mfg": "Porsche Cars North America, Inc.",
+            "make": "PORSCHE",
+            "vehicles": 28,
+            "rate": 98.4,
+            "unfixed": 0
+        },
+        {
+            "campaign": "22V918",
+            "mfg": "Prevost Car (US) Inc.",
+            "make": "PREVOST",
+            "vehicles": 22,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V184",
+            "mfg": "Prevost Car (US) Inc.",
+            "make": "PREVOST",
+            "vehicles": 1,
+            "rate": 54.7,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V287",
+            "mfg": "Shred-Tech Corporation",
+            "make": "SHRED-TECH",
+            "vehicles": 14,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V547",
+            "mfg": "Starcraft RV",
+            "make": "STARCRAFT RV TT",
+            "vehicles": 17,
+            "rate": 99.8,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V076",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 130,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V723",
+            "mfg": "Subaru of America, Inc.",
+            "make": "SUBARU",
+            "vehicles": 49,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V396",
+            "mfg": "Terex South Dakota, Inc.",
+            "make": "TEREX",
+            "vehicles": 8,
+            "rate": 99.3,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V297",
+            "mfg": "Tiffin Motorhomes, Inc.",
+            "make": "TIFFIN",
+            "vehicles": 203,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "23V212",
+            "mfg": "Volkswagen Group of America, Inc.",
+            "make": "AUDI",
+            "vehicles": 19,
+            "rate": 100,
+            "unfixed": 0
+        },
+        {
+            "campaign": "22V917",
+            "mfg": "Volvo Bus Corporation",
+            "make": "VOLVO BUS",
+            "vehicles": 20,
+            "rate": 99.5,
+            "unfixed": 0
+        }
+    ]
+}

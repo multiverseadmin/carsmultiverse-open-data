@@ -1,0 +1,689 @@
+{
+    "dataset": "severity-index",
+    "title": "The same defect, scored in two languages",
+    "what": "Campaigns matched across the American and Dutch registers, with a severity score for each country&rsquo;s wording of the same defect and the gap between them.",
+    "rows": 40,
+    "last_built": "2026-09-03T17:40:35+00:00",
+    "downloaded": "2026-09-04T07:17:36+00:00",
+    "source": "NHTSA and the Netherlands vehicle register, matched on manufacturer code and year",
+    "page": "https://carsmultiverse.com/recall-severity-index/",
+    "licence": "CC BY 4.0",
+    "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
+    "data": [
+        {
+            "maker_code": "SRVRCL26001",
+            "us_campaign": "26V050",
+            "nl_reference": "MGP260038",
+            "reported_by": "Ducati North Europe",
+            "us_score": 3,
+            "nl_score": 0,
+            "us_flags": [
+                "crash",
+                "injury",
+                "no_warning"
+            ],
+            "nl_flags": [],
+            "gap": 3,
+            "us_text": "A sudden loss of rear brake function increases the risk of a crash or injury.",
+            "nl_text": "De achterremmen kunnen remdruk verliezen."
+        },
+        {
+            "maker_code": "21S32",
+            "us_campaign": "21V537",
+            "nl_reference": "MGP220161",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 0,
+            "us_flags": [
+                "crash",
+                "loss_of_control"
+            ],
+            "nl_flags": [],
+            "gap": 2,
+            "us_text": "A rear toe-link fracture can result in a loss of steering control, increasing the risk of a crash.",
+            "nl_text": "Hierdoor kan het buitenste deel van de reactiestang van de achterwielophanging barsten, waardoor het voertuig moeilijk te besturen is."
+        },
+        {
+            "maker_code": "RP1063",
+            "us_campaign": "25V453",
+            "nl_reference": "MGP250233",
+            "reported_by": "Volvo Cars Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 0,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [],
+            "gap": 2,
+            "us_text": "Damage to harnesses can cause various electrical malfunctions, such as a loss of power steering assist, increasing the risk of a crash or injury.",
+            "nl_text": "Verschillende electronische storingen waaronder verlies van de stuurbekrachtiging."
+        },
+        {
+            "maker_code": "25SD9",
+            "us_campaign": "25V860",
+            "nl_reference": "MGP260085",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 0,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [],
+            "gap": 2,
+            "us_text": "A loss of drive power increases the risk of a crash. In addition, a half shaft that is not fully engaged to the primary drive unit can result in a vehicle rollaway if the parking brake is not applied, increasing the risk of a crash or injury.",
+            "nl_text": "Hierdoor kan lekkage en uiteindelijk verlies van aandrijfkracht optreden. Ook kan het voertuig onbedoeld bewegen in de parkeerstand."
+        },
+        {
+            "maker_code": "R10365",
+            "us_campaign": "26V136",
+            "nl_reference": "MGP260093",
+            "reported_by": "Volvo Cars Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 0,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [],
+            "gap": 2,
+            "us_text": "An audible warning chime that does not properly alert of an unbelted seat belt can increase the risk of injury during a crash.",
+            "nl_text": "De bestuurder krijgt geen waarschuwing als de inzittenden geen veiligheidsgordel dragen."
+        },
+        {
+            "maker_code": "18S07",
+            "us_campaign": "18V169",
+            "nl_reference": "MGP180340",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "fire"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "A transmission fluid leak in the presence of an ignition source such as hot engine or exhaust components can increase the risk of a fire.",
+            "nl_text": "De koppeling kan slippen. Hierdoor is de rijsnelheid gereduceerd, zijn de voertuigprestaties beperkt en verspreidt de koppeling een geur. In extreme gevallen komen fragmenten van de koppeling/transmissie los en raken deze de componenten onder de motorkap."
+        },
+        {
+            "maker_code": "23S27",
+            "us_campaign": "23V380",
+            "nl_reference": "MGP230240",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "fire",
+                "injury"
+            ],
+            "nl_flags": [
+                "fire"
+            ],
+            "gap": 1,
+            "us_text": "An engine compartment fire increases the risk of injury.",
+            "nl_text": "Hierdoor is het mogelijk dat olie ontsnapt, waardoor in combinatie met de hitte in de motorruimte, brand onder de motorkap kan ontstaan."
+        },
+        {
+            "maker_code": "23C35",
+            "us_campaign": "23V727",
+            "nl_reference": "MGP230470",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "Without a low brake fluid warning light, the vehicle may be driven with low brake fluid, reducing braking performance and increasing the risk of a crash.",
+            "nl_text": "Verliezen van remcapaciteit, niet kunnen remmen."
+        },
+        {
+            "maker_code": "23S48",
+            "us_campaign": "25V273",
+            "nl_reference": "MGP240003",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "Loss of the rearview camera image can reduce the driver's view of what is behind the vehicle, increasing the risk of a crash.",
+            "nl_text": "De bestuurder heeft minder zicht tijdens het achteruitrijden dan verwacht."
+        },
+        {
+            "maker_code": "CR285",
+            "us_campaign": "25V013",
+            "nl_reference": "MGP250024",
+            "reported_by": "Ducati North Europe",
+            "us_score": 3,
+            "nl_score": 2,
+            "us_flags": [
+                "crash",
+                "injury",
+                "no_warning"
+            ],
+            "nl_flags": [
+                "crash",
+                "no_warning"
+            ],
+            "gap": 1,
+            "us_text": "A sudden loss of the rear brakes increases the risk of a crash or injury.",
+            "nl_text": "Dit kan leiden tot een plotseling verlies van remkracht in de achterwielrem. Dit vergroot de kans op een ongeval."
+        },
+        {
+            "maker_code": "SB2500004",
+            "us_campaign": "25V092",
+            "nl_reference": "MGP250054",
+            "reported_by": "Tesla Motors Netherlands BV",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "A loss of power steering assist can require greater steering effort, especially at low speeds, increasing the risk of a crash.",
+            "nl_text": "De stuurbekrachtiging kan uitvallen."
+        },
+        {
+            "maker_code": "25S01",
+            "us_campaign": "25V025",
+            "nl_reference": "MGP250059",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "An external reservoir that detaches from a vehicle can create a road hazard, increasing the risk of a crash.",
+            "nl_text": "Dit kan leiden tot vloeistoflekkages bij de achterwielen, delen van de schokdemper kunnen in het verkeer terechtkomen en een potentieel gevaar vormen voor andere weggebruikers en het heeft een negatieve invloed op het weggedrag."
+        },
+        {
+            "maker_code": "25S11",
+            "us_campaign": "25V096",
+            "nl_reference": "MGP250090",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 2,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "crash",
+                "no_warning"
+            ],
+            "gap": -1,
+            "us_text": "A steering wheel that turns unintentionally can cause a loss of vehicle control and increase the risk of a crash.",
+            "nl_text": "Het stuurwiel kan zonder waarschuwing beginnen te trillen (afwisselend rechtsom/linksom) wanneer de bestuurder probeert te sturen, waardoor het risico op een ongeval toeneemt."
+        },
+        {
+            "maker_code": "SB2520001",
+            "us_campaign": "25V172",
+            "nl_reference": "MGP250103",
+            "reported_by": "Tesla Motors Netherlands BV",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "An inoperative horn may prevent the driver from alerting other drivers, increasing the risk of a crash.",
+            "nl_text": "Indien de verkeerde airbag is gemonteerd werkt de claxon niet meer. De werking van de airbag blijft onaangetast."
+        },
+        {
+            "maker_code": "MC2506",
+            "us_campaign": "25V363",
+            "nl_reference": "MGP250129",
+            "reported_by": "Yamaha Motor Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [
+                "injury"
+            ],
+            "gap": 1,
+            "us_text": "An engine stall increases the risk of a crash or injury.",
+            "nl_text": "Hier kunnen personen zich mogelijk aan verwonden."
+        },
+        {
+            "maker_code": "25S16",
+            "us_campaign": "25V133",
+            "nl_reference": "MGP250152",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "A loss of drive power increases the risk of a crash.",
+            "nl_text": "Hierdoor kan de auto tijdens het rijden gedwongen naar neutraal schakelen en bij stilstand naar de “Parkeerstand”, waarna de auto langzaam rijdt met weinig kracht (max. 50 km/u)."
+        },
+        {
+            "maker_code": "25S22",
+            "us_campaign": "25V166",
+            "nl_reference": "MGP250154",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "A disconnected driveshaft can result in vehicle rollaway when the vehicle is placed in park without the parking brake applied. A disconnected driveshaft can also result in a loss of drive power. Either of these scenarios can increase the risk of a crash.",
+            "nl_text": "Hierdoor kan een bevestigingsbout van de achteras breken tijdens het accelereren, wat leidt tot verlies van aandrijfvermogen. Het voertuig kan dan ook gaan rollen in de parkeerstand."
+        },
+        {
+            "maker_code": "25S27",
+            "us_campaign": "25V159",
+            "nl_reference": "MGP250156",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "Loss of the rearview camera image can reduce the driver's rear visibility, increasing the risk of a crash.",
+            "nl_text": "De bestuurder heeft minder zicht tijdens het achteruitrijden dan verwacht."
+        },
+        {
+            "maker_code": "25S38",
+            "us_campaign": "25V242",
+            "nl_reference": "MGP250185",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "Loss of the rearview camera image can reduce the driver's rear visibility, increasing the risk of a crash.",
+            "nl_text": "De bestuurder heeft minder zicht tijdens het achteruitrijden dan verwacht."
+        },
+        {
+            "maker_code": "25S51",
+            "us_campaign": "25V439",
+            "nl_reference": "MGP250244",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 3,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [
+                "crash",
+                "injury",
+                "death"
+            ],
+            "gap": -1,
+            "us_text": "An air bag that deploys with excessive force can increase the risk of injury during a crash.",
+            "nl_text": "Bij een botsing waarbij de airbag wordt geactiveerd, kan de slang van de gasgenerator echter scheuren. Deze breuk kan leiden tot metaalsplinters, schade aan het kussen van de airbag, volledig verlies van de werking van de airbag en een verhoogd risico op al dan niet dodelijke verwondingen."
+        },
+        {
+            "maker_code": "25S54",
+            "us_campaign": "25V345",
+            "nl_reference": "MGP250246",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "fire",
+                "injury"
+            ],
+            "nl_flags": [
+                "fire"
+            ],
+            "gap": 1,
+            "us_text": "An engine compartment fire increases the risk of injury.",
+            "nl_text": "Hierdoor is het mogelijk dat olie ontsnapt, waardoor in combinatie met de hitte in de motorruimte, brand onder de motorkap kan ontstaan."
+        },
+        {
+            "maker_code": "RP1064",
+            "us_campaign": "25V555",
+            "nl_reference": "MGP250312",
+            "reported_by": "Volvo Cars Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "A detached bumper can become a road hazard, increasing the risk of a crash.",
+            "nl_text": "Hierdoor kan deze in het ergste geval loskomen en in het verkeer terecht komen."
+        },
+        {
+            "maker_code": "SRVRCL25002",
+            "us_campaign": "25V570",
+            "nl_reference": "MGP250338",
+            "reported_by": "Ducati North Europe",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [
+                "crash"
+            ],
+            "gap": 1,
+            "us_text": "A rear wheel axle that breaks while riding can result in a loss of motorcycle control, increasing the risk of a crash or injury.",
+            "nl_text": "Dit kan leiden tot verlies van de controle over het voertuig met een ongeval als gevolg."
+        },
+        {
+            "maker_code": "SVRCL025018",
+            "us_campaign": "25V587",
+            "nl_reference": "MGP250351",
+            "reported_by": "Zero Motorcycles Inc.",
+            "us_score": 1,
+            "nl_score": 2,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "crash",
+                "no_warning"
+            ],
+            "gap": -1,
+            "us_text": "A loss of drive power increases the risk of a crash.",
+            "nl_text": "Dit kan tijdens het rijden leiden tot een plotseling verlies van aandrijving, wat het risico op een ongeval vergroot."
+        },
+        {
+            "maker_code": "25S19",
+            "us_campaign": "25V164",
+            "nl_reference": "MGP250356",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "crash",
+                "no_warning"
+            ],
+            "nl_flags": [
+                "crash"
+            ],
+            "gap": 1,
+            "us_text": "Unexpected vehicle movement increases the risk of a crash.",
+            "nl_text": "Hierdoor kan het voertuig onbedoeld vooruit rollen terwijl de keuzehendel op achteruit staat, wat het risico op een ongeval vergroot."
+        },
+        {
+            "maker_code": "SB2517011",
+            "us_campaign": "25V658",
+            "nl_reference": "MGP250375",
+            "reported_by": "Tesla Motors Netherlands BV",
+            "us_score": 1,
+            "nl_score": 2,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "crash",
+                "fire"
+            ],
+            "gap": -1,
+            "us_text": "Reverse lights that fail to illuminate reduce visibility and may not alert pedestrians or other drivers that the vehicle is backing up, increasing the risk of a crash.",
+            "nl_text": "Achteruitrijlichten die niet branden wanneer de auto in de achteruitversnelling staat, kunnen het risico op een botsing vergroten."
+        },
+        {
+            "maker_code": "25S89",
+            "us_campaign": "25V572",
+            "nl_reference": "MGP250429",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 0,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [],
+            "gap": 1,
+            "us_text": "A rearview camera that displays an inverted, distorted, or blank image can reduce the driver’s view behind the vehicle, increasing the risk of a crash.",
+            "nl_text": "Dit kan het risico vergroten dat personen of obstakels achter het voertuig over het hoofd worden gezien bij het achteruitrijden, wanneer het beeld van de achteruitkijkcamera wegvalt of vervormd is."
+        },
+        {
+            "maker_code": "R10345",
+            "us_campaign": "25V818",
+            "nl_reference": "MGP250433",
+            "reported_by": "Volvo Cars Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [
+                "crash"
+            ],
+            "gap": 1,
+            "us_text": "A seat with loose bolts may not properly restrain an occupant during a crash, increasing the risk of injury.",
+            "nl_text": "Hierdoor neemt de stevigheid van de stoel af waardoor inzittenden bij een aanrijding mogelijk minder goed beschermd zijn."
+        },
+        {
+            "maker_code": "SVRCL025021",
+            "us_campaign": "25V834",
+            "nl_reference": "MGP250453",
+            "reported_by": "Zero Motorcycles Inc.",
+            "us_score": 1,
+            "nl_score": 2,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "crash",
+                "no_warning"
+            ],
+            "gap": -1,
+            "us_text": "A loss of drive power increases the risk of a crash.",
+            "nl_text": "Hierdoor kan het aandrijfvermogen onverwacht verloren gaan, wat het risico op een ongeval vergroot."
+        },
+        {
+            "maker_code": "SRVRCL25004",
+            "us_campaign": "25V838",
+            "nl_reference": "MGP250457",
+            "reported_by": "Ducati North Europe",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [
+                "crash"
+            ],
+            "gap": 1,
+            "us_text": "Front or rear wheel lockup can cause a loss of motorcycle control, increasing the risk of a crash or injury.",
+            "nl_text": "Als de zekering doorsmelt, valt het ABS-systeem uit, waardoor de wielen onbedoeld kunnen blokkeren tijdens het remmen. Dit verhoogt het risico op een ongeval."
+        },
+        {
+            "maker_code": "26S10",
+            "us_campaign": "26V122",
+            "nl_reference": "MGP260128",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "crash",
+                "no_warning"
+            ],
+            "nl_flags": [
+                "crash"
+            ],
+            "gap": 1,
+            "us_text": "An unexpected loss of drive power increases the risk of a crash.",
+            "nl_text": "De aandrijving kan wegvallen wat het risico op een ongeval vergroot."
+        },
+        {
+            "maker_code": "SR26030",
+            "us_campaign": "26V193",
+            "nl_reference": "MGP260131",
+            "reported_by": "Lucid Europe B.V.",
+            "us_score": 1,
+            "nl_score": 2,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "crash",
+                "no_warning"
+            ],
+            "gap": -1,
+            "us_text": "A disconnected half shaft can result in a loss of drive power, increasing the risk of a crash.",
+            "nl_text": "Dit kan leiden tot onverwacht verlies van de aandrijving en vergroot de kans op een ongeval."
+        },
+        {
+            "maker_code": "20261",
+            "us_campaign": "26V098",
+            "nl_reference": "MGP260135",
+            "reported_by": "BRP European Distribution SA",
+            "us_score": 2,
+            "nl_score": 1,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [
+                "crash"
+            ],
+            "gap": 1,
+            "us_text": "Structural failure may prevent the seat from properly restraining an occupant during a crash, increasing the risk of injury.",
+            "nl_text": "Als de steun breekt, zal de werking van de voorrem verloren gaan, wat het risico op een ongeval vergroot."
+        },
+        {
+            "maker_code": "26S50",
+            "us_campaign": "26V417",
+            "nl_reference": "MGP260304",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 2,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "crash",
+                "no_warning"
+            ],
+            "gap": -1,
+            "us_text": "Differential pinion shaft fracture may result in a loss of drive power, or unintended vehicle movement if the vehicle is in park without the parking brake applied, increasing the risk of a crash.",
+            "nl_text": "De aandrijving valt plotseling weg of het voertuig kan onbedoeld gaan rollen in de parkeerstand wat het risico op een ongeval vergroot."
+        },
+        {
+            "maker_code": "18S29",
+            "us_campaign": "18V707",
+            "nl_reference": "MGP180515",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 1,
+            "us_flags": [
+                "fire"
+            ],
+            "nl_flags": [
+                "fire"
+            ],
+            "gap": 0,
+            "us_text": "A hydraulic fluid leak in the presence of an ignition source can increase the risk of a fire.",
+            "nl_text": "Brand in de motorruimte."
+        },
+        {
+            "maker_code": "23S53",
+            "us_campaign": "23V626",
+            "nl_reference": "MGP230381",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 2,
+            "us_flags": [
+                "crash",
+                "fire"
+            ],
+            "nl_flags": [
+                "crash",
+                "fire"
+            ],
+            "gap": 0,
+            "us_text": "Battery failure can cause a loss of drive power, increasing the risk of a crash. Battery failure can also increase the risk of a fire.",
+            "nl_text": "Het motorstoringlampje gaat branden in geval van interne kortsluiting. Mogelijk verlies van aandrijfkracht waardoor het risico op een aanrijding toeneemt. Er kan  thermische ontluchting van de accu plaatsvinden, wat kan leiden tot een voertuigbrand."
+        },
+        {
+            "maker_code": "23S56",
+            "us_campaign": "25V441",
+            "nl_reference": "MGP230419",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 1,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "no_warning"
+            ],
+            "gap": 0,
+            "us_text": "An overheated high voltage battery contactor can result in a loss of drive power, increasing the risk of a crash.",
+            "nl_text": "Het voertuig kan bij een volgende keer gebruik niet meer gaan rijden, of, de aandrijving van het voertuig valt tijdens het rijden onverwacht uit."
+        },
+        {
+            "maker_code": "24S33",
+            "us_campaign": "25V881",
+            "nl_reference": "MGP240197",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 1,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "no_warning"
+            ],
+            "gap": 0,
+            "us_text": "A loss of drive power increases the risk of a crash.",
+            "nl_text": "De aandrijving van het rijdende voertuig kan overschakelen op parkeer-/kruipsnelheid. Als gevolg zal het voertuig onverwacht vertragen."
+        },
+        {
+            "maker_code": "SB2500001",
+            "us_campaign": "25V002",
+            "nl_reference": "MGP250053",
+            "reported_by": "Tesla Motors Netherlands BV",
+            "us_score": 1,
+            "nl_score": 1,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "crash"
+            ],
+            "gap": 0,
+            "us_text": "A rearview camera that does not display an image reduces the driver's rear view, increasing the risk of a crash.",
+            "nl_text": "Als het display van de achteruitrijcamera niet werkt, kan dat het zicht naar achteren van de bestuurder beïnvloeden en het risico op een botsing bij achteruitrijden vergroten."
+        },
+        {
+            "maker_code": "R10298",
+            "us_campaign": "25V071",
+            "nl_reference": "MGP250078",
+            "reported_by": "Volvo Cars Nederland B.V.",
+            "us_score": 1,
+            "nl_score": 1,
+            "us_flags": [
+                "crash"
+            ],
+            "nl_flags": [
+                "crash"
+            ],
+            "gap": 0,
+            "us_text": "A loss of headlight function while driving can reduce visibility and increase the risk of a crash.",
+            "nl_text": "Als de koplampen uitvallen tijdens het rijden, vermindert het zicht, wat het risico op een ongeval vergroot."
+        }
+    ]
+}

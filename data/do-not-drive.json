@@ -1,0 +1,1044 @@
+{
+    "dataset": "do-not-drive",
+    "title": "Recalls that tell owners to stop driving",
+    "what": "Campaigns whose own remedy text tells owners not to drive the vehicle, or to park it away from buildings, until it is repaired.",
+    "rows": 68,
+    "last_built": "2026-09-04T07:01:29+00:00",
+    "downloaded": "2026-09-04T07:17:35+00:00",
+    "source": "NHTSA recalls API, swept by campaign-ID prefix",
+    "page": "https://carsmultiverse.com/do-not-drive-and-park-outside-recalls/",
+    "licence": "CC BY 4.0",
+    "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
+    "data": [
+        {
+            "campaign": "25V798",
+            "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+            "units": 19823,
+            "years": "2024-2026",
+            "vehicles": [
+                "KAWASAKI NINJA ZX-6R"
+            ],
+            "report_date": "18/11/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V376",
+            "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+            "units": 17792,
+            "years": "2024-2025",
+            "vehicles": [
+                "KAWASAKI NINJA ZX-6R"
+            ],
+            "report_date": "07/07/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V090",
+            "manufacturer": "Ford Motor Company",
+            "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+            "units": 15965,
+            "years": "2025-2025",
+            "vehicles": [
+                "FORD TRANSIT"
+            ],
+            "report_date": "17/02/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V748",
+            "manufacturer": "BMW of North America, LLC",
+            "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+            "units": 5361,
+            "years": "2000-2001",
+            "vehicles": [
+                "BMW X5"
+            ],
+            "report_date": "31/10/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V340",
+            "manufacturer": "Ford Motor Company",
+            "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER BALL JOINT",
+            "units": 4653,
+            "years": "2021-2026",
+            "vehicles": [
+                "FORD BRONCO SPORT",
+                "FORD MAVERICK"
+            ],
+            "report_date": "27/05/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V367",
+            "manufacturer": "Yamaha Motor Corporation, USA",
+            "component": "EXTERIOR LIGHTING:TURN SIGNAL",
+            "units": 4173,
+            "years": "2025-2025",
+            "vehicles": [
+                "YAMAHA XTZ690"
+            ],
+            "report_date": "05/06/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V778",
+            "manufacturer": "Yamaha Motor Corporation, USA",
+            "component": "ENGINE AND ENGINE COOLING:CRITICAL FASTENERS",
+            "units": 2715,
+            "years": "2018-2022",
+            "vehicles": [
+                "YAMAHA XMAX"
+            ],
+            "report_date": "13/11/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V401",
+            "manufacturer": "Ford Motor Company",
+            "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+            "units": 2345,
+            "years": "2025-2025",
+            "vehicles": [
+                "FORD F-250 SD",
+                "FORD F-350 SD",
+                "FORD F-450 SD",
+                "FORD F-550 SD"
+            ],
+            "report_date": "13/06/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V242",
+            "manufacturer": "Roush Performance Products, Inc.",
+            "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+            "units": 1217,
+            "years": "2026-2026",
+            "vehicles": [
+                "ROUSH NISSAN FRONTIER PRO4X R"
+            ],
+            "report_date": "15/04/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V197",
+            "manufacturer": "Yamaha Motor Corporation, USA",
+            "component": "ELECTRICAL SYSTEM:INSTRUMENT PANEL:SPEEDOMETER/ODOMETER",
+            "units": 962,
+            "years": "2026-2026",
+            "vehicles": [
+                "YAMAHA TW200"
+            ],
+            "report_date": "27/03/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V351",
+            "manufacturer": "Mack Trucks, Inc.",
+            "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+            "units": 644,
+            "years": "2026-2027",
+            "vehicles": [
+                "MACK ANTHEM (AN)",
+                "MACK ANTHEM AN (4)",
+                "MACK GRANITE (GR)",
+                "MACK PINNACLE (PI/PN)",
+                "MACK PIONEER PR (4)"
+            ],
+            "report_date": "28/05/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V132",
+            "manufacturer": "ESCAPE TRAILER INDUSTRIES LTD.",
+            "component": "EQUIPMENT:MECHANICAL:SPARE TIRE MOUNT/RACK",
+            "units": 324,
+            "years": "2025-2025",
+            "vehicles": [
+                "ESCAPE ESCAPE 17",
+                "ESCAPE ESCAPE 19",
+                "ESCAPE ESCAPE 21",
+                "ESCAPE ESCAPE 5.0"
+            ],
+            "report_date": "05/03/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V291",
+            "manufacturer": "Fontaine Trailer Company",
+            "component": "STRUCTURE:FRAME AND MEMBERS",
+            "units": 247,
+            "years": "2025-2026",
+            "vehicles": [
+                "FONTAINE FUSION FLAT BED TRAILER"
+            ],
+            "report_date": "08/05/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V118",
+            "manufacturer": "Kawasaki Motors Corp., U.S.A.",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 216,
+            "years": "2024-2024",
+            "vehicles": [
+                "KAWASAKI NINJA E-1",
+                "KAWASAKI Z E-1"
+            ],
+            "report_date": "24/02/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V350",
+            "manufacturer": "Volvo Trucks North America",
+            "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+            "units": 205,
+            "years": "2026-2027",
+            "vehicles": [
+                "VOLVO VAH",
+                "VOLVO VHD",
+                "VOLVO VN",
+                "VOLVO VNL (4)",
+                "VOLVO VNR (4)"
+            ],
+            "report_date": "28/05/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V010",
+            "manufacturer": "Gulf Stream Coach, Inc.",
+            "component": "EXTERIOR LIGHTING:TURN SIGNAL",
+            "units": 172,
+            "years": "2026-2026",
+            "vehicles": [
+                "GULF STREAM AMERI-LITE",
+                "GULF STREAM TRAIL BOSS"
+            ],
+            "report_date": "15/01/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V057",
+            "manufacturer": "Grand Design RV, LLC",
+            "component": "EQUIPMENT:RECREATIONAL VEHICLE/TRAILER:PLUMBING:FREEZE PREVENTION HEATER",
+            "units": 109,
+            "years": "2026-2026",
+            "vehicles": [
+                "GRAND DESIGN LINEAGE"
+            ],
+            "report_date": "30/01/2026",
+            "park_it": true,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V289",
+            "manufacturer": "General Motors, LLC",
+            "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+            "units": 66,
+            "years": "2015-2026",
+            "vehicles": [
+                "CADILLAC ESCALADE",
+                "CADILLAC ESCALADE ESV",
+                "CHEVROLET SILVERADO 1500",
+                "CHEVROLET SUBURBAN",
+                "CHEVROLET SUBURBAN 1500",
+                "CHEVROLET TAHOE",
+                "GMC SIERRA 1500",
+                "GMC YUKON"
+            ],
+            "report_date": "07/05/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V342",
+            "manufacturer": "Battle Motors, Inc.",
+            "component": "STEERING: STEERING WHEEL/HANDLE BAR",
+            "units": 34,
+            "years": "2024-2025",
+            "vehicles": [
+                "BATTLE MOTORS LET2"
+            ],
+            "report_date": "02/06/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V517",
+            "manufacturer": "US Truck Body Co., Inc",
+            "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE:HINGE AND ATTACHMENTS",
+            "units": 31,
+            "years": "2025-2025",
+            "vehicles": [
+                "ISUZU NPR HD"
+            ],
+            "report_date": "06/08/2026",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V835",
+            "manufacturer": "Volkswagen Group of America, Inc.",
+            "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+            "units": 27,
+            "years": "2026-2026",
+            "vehicles": [
+                "VOLKSWAGEN ATLAS",
+                "VOLKSWAGEN ATLAS CROSS SPORT",
+                "VOLKSWAGEN ID.4"
+            ],
+            "report_date": "03/12/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V724",
+            "manufacturer": "Wartech Engineering, LLC",
+            "component": "SERVICE BRAKES, AIR:SUPPLY:HOSES, LINES/PIPING, AND FITTINGS",
+            "units": 18,
+            "years": "2022-2025",
+            "vehicles": [
+                "WARTECH SPECIALCONTAINER"
+            ],
+            "report_date": "23/10/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V571",
+            "manufacturer": "Orange EV",
+            "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+            "units": 16,
+            "years": "2024-2025",
+            "vehicles": [
+                "ORANGE EV HUSK-E"
+            ],
+            "report_date": "03/09/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V832",
+            "manufacturer": "Virnig Manufacturing Inc.",
+            "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+            "units": 10,
+            "years": "2025-2025",
+            "vehicles": [
+                "VIRNIG TR-HDD-1414",
+                "VIRNIG TR-RHDD-1409"
+            ],
+            "report_date": "01/12/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V716",
+            "manufacturer": "Ferrari North America, Inc.",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION:PIPES, HOSES, AND FITTINGS",
+            "units": 6,
+            "years": "2025-2025",
+            "vehicles": [
+                "FERRARI 296 GTB",
+                "FERRARI 296 GTS"
+            ],
+            "report_date": "21/10/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V308",
+            "manufacturer": "Ford Motor Company",
+            "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+            "units": 3,
+            "years": "2024-2025",
+            "vehicles": [
+                "FORD BRONCO"
+            ],
+            "report_date": "09/05/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V260",
+            "manufacturer": "Ford Motor Company",
+            "component": "SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT",
+            "units": 2,
+            "years": "2025-2025",
+            "vehicles": [
+                "FORD BRONCO"
+            ],
+            "report_date": "18/04/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V331",
+            "manufacturer": "Hyundai Translead",
+            "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+            "units": 2,
+            "years": "2026-2026",
+            "vehicles": [
+                "HYUNDAI TRANSLEAD DRY VAN TRAILER"
+            ],
+            "report_date": "10/06/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V290",
+            "manufacturer": "Prevost Car (US) Inc.",
+            "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+            "units": 1,
+            "years": "2025-2025",
+            "vehicles": [
+                "PREVOST X3-45 VIP ENTERTAINER"
+            ],
+            "report_date": "05/05/2025",
+            "park_it": true,
+            "park_outside": false,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V363",
+            "manufacturer": "Chrysler (FCA US, LLC)",
+            "component": "STEERING:HYDRAULIC POWER ASSIST:PUMP",
+            "units": 1076999,
+            "years": "2021-2025",
+            "vehicles": [
+                "JEEP GLADIATOR",
+                "JEEP WRANGLER",
+                "JEEP WRANGLER 4XE"
+            ],
+            "report_date": "04/06/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V430",
+            "manufacturer": "Kia America, Inc.",
+            "component": "SEATS:FRONT ASSEMBLY:POWER ADJUST",
+            "units": 462869,
+            "years": "2020-2024",
+            "vehicles": [
+                "KIA TELLURIDE"
+            ],
+            "report_date": "02/07/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V282",
+            "manufacturer": "Volvo Car USA, LLC",
+            "component": "BACK OVER PREVENTION:SOFTWARE",
+            "units": 413151,
+            "years": "2021-2025",
+            "vehicles": [
+                "VOLVO C40BEV",
+                "VOLVO EC40",
+                "VOLVO EX40",
+                "VOLVO S60",
+                "VOLVO S90",
+                "VOLVO V60",
+                "VOLVO V60CC",
+                "VOLVO V90"
+            ],
+            "report_date": "08/05/2025",
+            "park_it": false,
+            "park_outside": false,
+            "over_the_air": true
+        },
+        {
+            "campaign": "25V092",
+            "manufacturer": "Tesla, Inc.",
+            "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+            "units": 376241,
+            "years": "2023-2023",
+            "vehicles": [
+                "TESLA MODEL 3",
+                "TESLA MODEL Y"
+            ],
+            "report_date": "14/02/2025",
+            "park_it": false,
+            "park_outside": false,
+            "over_the_air": true
+        },
+        {
+            "campaign": "25V741",
+            "manufacturer": "Chrysler (FCA US, LLC)",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 320068,
+            "years": "2020-2026",
+            "vehicles": [
+                "JEEP GRAND CHEROKEE",
+                "JEEP WRANGLER"
+            ],
+            "report_date": "30/10/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V636",
+            "manufacturer": "BMW of North America, LLC",
+            "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY:RELAY",
+            "units": 199674,
+            "years": "2019-2022",
+            "vehicles": [
+                "BMW 230I",
+                "BMW 330I",
+                "BMW 430I",
+                "BMW 430I CONVERTIBLE",
+                "BMW 530I",
+                "BMW X3",
+                "BMW X4",
+                "BMW Z4"
+            ],
+            "report_date": "23/09/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V106",
+            "manufacturer": "Subaru of America, Inc.",
+            "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:FILLER PIPE AND CAP",
+            "units": 69870,
+            "years": "2025-2026",
+            "vehicles": [
+                "SUBARU CROSSTREK HYBRID",
+                "SUBARU FORESTER HYBRID"
+            ],
+            "report_date": "23/02/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V390",
+            "manufacturer": "General Motors, LLC",
+            "component": "SERVICE BRAKES, HYDRAULIC:BRAKE FLUID LOW WARNING:SWITCH/SENSOR/FLOAT",
+            "units": 62468,
+            "years": "2019-2024",
+            "vehicles": [
+                "CHEVROLET 6500",
+                "CHEVROLET DUPLICATE SILVERADO 5500",
+                "CHEVROLET SILVERADO 4500",
+                "CHEVROLET SILVERADO 5500",
+                "CHEVROLET SILVERADO 6500"
+            ],
+            "report_date": "12/06/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V893",
+            "manufacturer": "Hyundai Motor America",
+            "component": "TRAILER HITCHES",
+            "units": 51587,
+            "years": "2022-2024",
+            "vehicles": [
+                "HYUNDAI TUCSON"
+            ],
+            "report_date": "19/12/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V441",
+            "manufacturer": "BMW of North America, LLC",
+            "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY:RELAY",
+            "units": 29119,
+            "years": "2016-2020",
+            "vehicles": [
+                "BMW 330E IPERFORMANCE",
+                "BMW 530E IPERFORMANCE",
+                "BMW 530E XDRIVE IPERFORMANCE",
+                "BMW 740LE XDRIVE IPERFORMANCE"
+            ],
+            "report_date": "08/07/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V362",
+            "manufacturer": "Chrysler (FCA US, LLC)",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 17277,
+            "years": "2020-2022",
+            "vehicles": [
+                "CHRYSLER PACIFICA"
+            ],
+            "report_date": "04/06/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V503",
+            "manufacturer": "International Motors, LLC",
+            "component": "SERVICE BRAKES, HYDRAULIC:FLUID",
+            "units": 16553,
+            "years": "2016-2024",
+            "vehicles": [
+                "IC BUS CESB"
+            ],
+            "report_date": "06/08/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V459",
+            "manufacturer": "International Motors, LLC",
+            "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+            "units": 15628,
+            "years": "2021-2027",
+            "vehicles": [
+                "INTERNATIONAL HV",
+                "INTERNATIONAL MV"
+            ],
+            "report_date": "16/07/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V050",
+            "manufacturer": "Mercedes-Benz USA, LLC",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 12236,
+            "years": "2022-2025",
+            "vehicles": [
+                "MERCEDES-BENZ EQB 250",
+                "MERCEDES-BENZ EQB 250+",
+                "MERCEDES-BENZ EQB 300 4MATIC",
+                "MERCEDES-BENZ EQB 350 4MATIC"
+            ],
+            "report_date": "07/02/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V414",
+            "manufacturer": "International Motors, LLC",
+            "component": "PARKING BRAKE",
+            "units": 12004,
+            "years": "2019-2025",
+            "vehicles": [
+                "INTERNATIONAL CV"
+            ],
+            "report_date": "25/06/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V073",
+            "manufacturer": "Mercedes-Benz USA, LLC",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 11895,
+            "years": "2022-2024",
+            "vehicles": [
+                "MERCEDES-BENZ EQB 250+",
+                "MERCEDES-BENZ EQB 300 4MATIC",
+                "MERCEDES-BENZ EQB 350 4MATIC"
+            ],
+            "report_date": "06/02/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V502",
+            "manufacturer": "International Motors, LLC",
+            "component": "SERVICE BRAKES, HYDRAULIC:FLUID",
+            "units": 4764,
+            "years": "2017-2025",
+            "vehicles": [
+                "IC BUS CECB",
+                "IC BUS TC",
+                "INTERNATIONAL 1300FBC",
+                "INTERNATIONAL 4000 SERIES 4300",
+                "INTERNATIONAL MV"
+            ],
+            "report_date": "06/08/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V628",
+            "manufacturer": "Ford Motor Company",
+            "component": "ENGINE",
+            "units": 4632,
+            "years": "2020-2020",
+            "vehicles": [
+                "FORD EXPEDITION",
+                "LINCOLN NAVIGATOR"
+            ],
+            "report_date": "19/09/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V293",
+            "manufacturer": "Polestar Automotive USA, Inc.",
+            "component": "BACK OVER PREVENTION:SOFTWARE",
+            "units": 3664,
+            "years": "2025-2025",
+            "vehicles": [
+                "POLESTAR POLESTAR 3"
+            ],
+            "report_date": "07/05/2025",
+            "park_it": false,
+            "park_outside": false,
+            "over_the_air": true
+        },
+        {
+            "campaign": "25V235",
+            "manufacturer": "Hyundai Motor America",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE:SOFTWARE",
+            "units": 1589,
+            "years": "2025-2025",
+            "vehicles": [
+                "HYUNDAI IONIQ 5"
+            ],
+            "report_date": "11/04/2025",
+            "park_it": false,
+            "park_outside": false,
+            "over_the_air": true
+        },
+        {
+            "campaign": "26V257",
+            "manufacturer": "Winnebago Industries, Inc.",
+            "component": "EQUIPMENT:ELECTRICAL:ACCESSORY GENERATOR",
+            "units": 1537,
+            "years": "2022-2027",
+            "vehicles": [
+                "WINNEBAGO EKKO"
+            ],
+            "report_date": "22/04/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V028",
+            "manufacturer": "Volkswagen Group of America, Inc.",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 670,
+            "years": "2023-2024",
+            "vehicles": [
+                "VOLKSWAGEN ID.4"
+            ],
+            "report_date": "21/01/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V487",
+            "manufacturer": "Mercedes-Benz USA, LLC",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 660,
+            "years": "2022-2023",
+            "vehicles": [
+                "MERCEDES-BENZ EQB 300 4MATIC",
+                "MERCEDES-BENZ EQB 350 4MATIC"
+            ],
+            "report_date": "25/07/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V631",
+            "manufacturer": "New Flyer of America, Inc.",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 655,
+            "years": "2019-2025",
+            "vehicles": [
+                "NEW FLYER XE35",
+                "NEW FLYER XE40",
+                "NEW FLYER XE60"
+            ],
+            "report_date": "20/09/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V836",
+            "manufacturer": "Volkswagen Group of America, Inc.",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 629,
+            "years": "2023-2024",
+            "vehicles": [
+                "VOLKSWAGEN ID.4"
+            ],
+            "report_date": "03/12/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V291",
+            "manufacturer": "Hyundai Motor America",
+            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:PUMP",
+            "units": 620,
+            "years": "2025-2025",
+            "vehicles": [
+                "HYUNDAI PALISADE"
+            ],
+            "report_date": "06/05/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V238",
+            "manufacturer": "Ford Motor Company",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 457,
+            "years": "2024-2025",
+            "vehicles": [
+                "FORD E-TRANSIT CHASSIS"
+            ],
+            "report_date": "11/04/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V338",
+            "manufacturer": "Tiffin Motorhomes, Inc.",
+            "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+            "units": 392,
+            "years": "2025-2026",
+            "vehicles": [
+                "TIFFIN GH1",
+                "TIFFIN GH2",
+                "TIFFIN GT1"
+            ],
+            "report_date": "26/05/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V894",
+            "manufacturer": "Mercedes-Benz USA, LLC",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 169,
+            "years": "2022-2023",
+            "vehicles": [
+                "MERCEDES-BENZ EQB 250",
+                "MERCEDES-BENZ EQB 300 4MATIC",
+                "MERCEDES-BENZ EQB 350 4MATIC"
+            ],
+            "report_date": "19/12/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V498",
+            "manufacturer": "Winnebago Industries, Inc.",
+            "component": "EQUIPMENT:ELECTRICAL:INFOTAINMENT:SOFTWARE",
+            "units": 96,
+            "years": "2024-2025",
+            "vehicles": [
+                "WINNEBAGO EKKO"
+            ],
+            "report_date": "30/07/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V188",
+            "manufacturer": "Nissan North America, Inc.",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 51,
+            "years": "2026-2026",
+            "vehicles": [
+                "NISSAN LEAF"
+            ],
+            "report_date": "26/03/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V001",
+            "manufacturer": "Volvo Car USA, LLC",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 40,
+            "years": "2025-2025",
+            "vehicles": [
+                "VOLVO EX30"
+            ],
+            "report_date": "02/01/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V664",
+            "manufacturer": "REV Recreation Group",
+            "component": "EQUIPMENT:RECREATIONAL VEHICLE/TRAILER:LPG SYSTEMS:LINES AND FITTINGS",
+            "units": 39,
+            "years": "2024-2026",
+            "vehicles": [
+                "FLEETWOOD FORTIS",
+                "HOLIDAY RAMBLER INVICTA"
+            ],
+            "report_date": "03/10/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V428",
+            "manufacturer": "Crestline Coach Ltd.",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+            "units": 23,
+            "years": "2026-2026",
+            "vehicles": [
+                "CRESTLINE COACH FORD CCL166 TYPE III AMBULANCE"
+            ],
+            "report_date": "02/07/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V264",
+            "manufacturer": "REV Recreation Group",
+            "component": "EQUIPMENT:RECREATIONAL VEHICLE/TRAILER:LPG SYSTEMS:FURNACE",
+            "units": 12,
+            "years": "2026-2026",
+            "vehicles": [
+                "FLEETWOOD BOUNDER",
+                "FLEETWOOD FLAIR",
+                "FLEETWOOD FORTIS",
+                "HOLIDAY RAMBLER ADMIRAL",
+                "HOLIDAY RAMBLER VACATIONER"
+            ],
+            "report_date": "23/04/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V482",
+            "manufacturer": "Hyundai Motor America",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 10,
+            "years": "2025-2025",
+            "vehicles": [
+                "HYUNDAI IONIQ 5"
+            ],
+            "report_date": "24/07/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V431",
+            "manufacturer": "Kia America, Inc.",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 8,
+            "years": "2022-2024",
+            "vehicles": [
+                "KIA EV6",
+                "KIA EV9"
+            ],
+            "report_date": "02/07/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "26V432",
+            "manufacturer": "Hyundai Motor America",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "units": 6,
+            "years": "2023-2024",
+            "vehicles": [
+                "HYUNDAI IONIQ 5"
+            ],
+            "report_date": "02/07/2026",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        },
+        {
+            "campaign": "25V500",
+            "manufacturer": "The Heil Co.",
+            "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+            "units": 5,
+            "years": "2020-2023",
+            "vehicles": [
+                "HEIL SIDE LOADER GARBAGE TRUCK"
+            ],
+            "report_date": "04/08/2025",
+            "park_it": false,
+            "park_outside": true,
+            "over_the_air": false
+        }
+    ]
+}
