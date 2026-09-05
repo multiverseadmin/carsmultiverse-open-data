@@ -2,9 +2,9 @@
     "dataset": "campaigns-by-manufacturer",
     "title": "The record, counted by manufacturer",
     "what": "One row per manufacturer whose recall notices we hold, with how many of its campaigns have a dated copy here. This is an index of our own holdings, not of the register.",
-    "rows": 1324,
-    "last_built": "2026-09-04T07:11:34+00:00",
-    "downloaded": "2026-09-04T07:17:43+00:00",
+    "rows": 1326,
+    "last_built": "2026-09-05T03:44:28+00:00",
+    "downloaded": "2026-09-05T03:45:15+00:00",
     "source": "Our own archive of NHTSA notices, grouped by the manufacturer named in each notice",
     "page": "https://carsmultiverse.com/recall/",
     "licence": "CC BY 4.0",
@@ -18,12 +18,12 @@
         {
             "make": "chrysler",
             "label": "Chrysler (FCA / Stellantis)",
-            "campaigns": 578
+            "campaigns": 580
         },
         {
             "make": "forest-river",
             "label": "Forest River",
-            "campaigns": 536
+            "campaigns": 537
         },
         {
             "make": "general-motors",
@@ -4731,6 +4731,11 @@
             "campaigns": 1
         },
         {
+            "make": "light-boy",
+            "label": "Light Boy",
+            "campaigns": 1
+        },
+        {
             "make": "lightning",
             "label": "Lightning",
             "campaigns": 1
@@ -4833,6 +4838,11 @@
         {
             "make": "marathon",
             "label": "Marathon",
+            "campaigns": 1
+        },
+        {
+            "make": "marathon-industries",
+            "label": "Marathon Industries",
             "campaigns": 1
         },
         {
