@@ -2,14 +2,59 @@
     "dataset": "recall-wording-changes",
     "title": "Notices that were rewritten after they were published",
     "what": "Every American recall notice caught changing after publication, with the full text as we read it before and the full text after, and the hour of each reading.",
-    "rows": 62,
-    "last_built": "2026-09-05T03:45:11+00:00",
-    "downloaded": "2026-09-05T03:45:11+00:00",
+    "rows": 67,
+    "last_built": "2026-09-06T03:45:50+00:00",
+    "downloaded": "2026-09-06T03:45:50+00:00",
     "source": "NHTSA recalls API, re-read on a six-hour cycle",
     "page": "https://carsmultiverse.com/vehicle-recall-change-register/",
     "licence": "CC BY 4.0",
     "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
     "data": [
+        {
+            "id": "83bb063a08066924",
+            "campaign": "26V455",
+            "field": "remedy",
+            "before": "Dealers will install new labels, free of charge. Additionally, Nissan will mail replacement labels to owners. Interim letters notifying owners of the safety risk are expected to be mailed August 21, 2026. Additional letters will be sent once the final remedy is available. Owners may contact Nissan customer service at 1-800-867-7669. Nissan's numbers for this recall are R26B1 and P6A13/4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
+            "after": "Dealers will install new labels, free of charge. Additionally, Nissan will mail replacement labels to owners. Interim letters notifying owners of the safety risk were mailed September 2, 2026. Additional letters will be sent once the final remedy is available, anticipated Fall 2026. Owners may contact Nissan customer service at 1-800-867-7669. Nissan's numbers for this recall are R26B1 and P6A13/4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
+            "before_read": "2026-09-05T05:02:36+00:00",
+            "after_read": "2026-09-05T11:16:58+00:00"
+        },
+        {
+            "id": "adff06ea7730b0e6",
+            "campaign": "26V441",
+            "field": "remedy",
+            "before": "Owners are advised to park outside and away from structures until the remedy is complete. Dealers will replace the engine starter, free of charge. Owner notification letters are expected to be mailed August 28, 2026. Owners may contact BMW customer service at 1-800-525-7417. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov beginning August 28, 2026.",
+            "after": "Owners are advised to park outside and away from structures until the remedy is complete. Dealers will replace the engine starter, free of charge. Letters informing owners of the safety risk were mailed September 3, 2026. Another letter will be mailed after the remedy is confirmed. Owners may contact BMW customer service at 1-800-525-7417. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov beginning August 28, 2026.",
+            "before_read": "2026-09-05T05:02:36+00:00",
+            "after_read": "2026-09-05T11:16:58+00:00"
+        },
+        {
+            "id": "fa32e129e6a3c591",
+            "campaign": "26V438",
+            "field": "remedy",
+            "before": "Dealers will replace the engine starter, free of charge. Owner notification letters are expected to be mailed on August 28, 2026. Owners may contact BMW customer service at 1-800-525-7417 or Toyota's customer service at 1-800-331-4331. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning August 28, 2026. This recall is an expansion of previous NHTSA recall 26V056.",
+            "after": "Dealers will replace the engine starter, free of charge. Owner notification letters were mailed on August 31, 2026. Owners may contact BMW customer service at 1-800-525-7417 or Toyota's customer service at 1-800-331-4331. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning August 28, 2026. This recall is an expansion of previous NHTSA recall 26V056.",
+            "before_read": "2026-09-05T05:02:36+00:00",
+            "after_read": "2026-09-05T11:16:58+00:00"
+        },
+        {
+            "id": "e8eda3e55b9ea3c8",
+            "campaign": "26V188",
+            "field": "remedy",
+            "before": "Owners are advised to park outside and away from structures and should not charge their vehicles until the remedy is completed. Dealers will replace the battery modules or the battery, free of charge. Interim letters notifying owners of the safety risk were mailed April 24, 2026. Additional letters will be sent once the final remedy is available, anticipated in early August 2026. Owners may contact Nissan's customer service at 800-647-7261. Nissan's number for this recall is R25F1. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on March 27, 2026.",
+            "after": "Owners are advised to park outside and away from structures and should not charge their vehicles until the remedy is completed. Dealers will replace the battery modules or the battery, free of charge. Owner letters were mailed September 2, 2026. Owners may contact Nissan's customer service at 800-647-7261. Nissan's number for this recall is R25F1. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on March 27, 2026.",
+            "before_read": "2026-09-05T04:02:35+00:00",
+            "after_read": "2026-09-05T10:23:04+00:00"
+        },
+        {
+            "id": "54f3ace9421cf190",
+            "campaign": "26V568",
+            "field": "remedy",
+            "before": "Marathon Industries will work with the supplier, Hiab, to inspect the platform bushings and hydraulic systems and replace the deck pins, free of charge. The manufacturer has not yet provided a schedule for recall notification. Owner may contact Marathon Industries' customer service at 1-661-286-1520.",
+            "after": "Marathon Industries will work with the supplier, Hiab, to inspect the platform bushings and hydraulic systems and replace the deck pins, free of charge. Owner notification letters are expected to be mailed September 2026. Owner may contact Marathon Industries' customer service at 1-661-286-1520.",
+            "before_read": "2026-09-05T03:09:17+00:00",
+            "after_read": "2026-09-05T09:15:54+00:00"
+        },
         {
             "id": "144273b37486ce3c",
             "campaign": "26V469",

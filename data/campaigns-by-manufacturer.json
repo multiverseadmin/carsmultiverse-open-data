@@ -2,9 +2,9 @@
     "dataset": "campaigns-by-manufacturer",
     "title": "The record, counted by manufacturer",
     "what": "One row per manufacturer whose recall notices we hold, with how many of its campaigns have a dated copy here. This is an index of our own holdings, not of the register.",
-    "rows": 1326,
-    "last_built": "2026-09-05T03:44:28+00:00",
-    "downloaded": "2026-09-05T03:45:15+00:00",
+    "rows": 1479,
+    "last_built": "2026-09-06T03:35:22+00:00",
+    "downloaded": "2026-09-06T03:45:53+00:00",
     "source": "Our own archive of NHTSA notices, grouped by the manufacturer named in each notice",
     "page": "https://carsmultiverse.com/recall/",
     "licence": "CC BY 4.0",
@@ -13,107 +13,112 @@
         {
             "make": "ford",
             "label": "Ford",
-            "campaigns": 747
+            "campaigns": 772
         },
         {
             "make": "chrysler",
             "label": "Chrysler (FCA / Stellantis)",
-            "campaigns": 580
+            "campaigns": 601
         },
         {
             "make": "forest-river",
             "label": "Forest River",
-            "campaigns": 537
+            "campaigns": 547
         },
         {
             "make": "general-motors",
             "label": "General Motors",
-            "campaigns": 440
+            "campaigns": 474
         },
         {
             "make": "mercedes-benz",
             "label": "Mercedes-Benz",
-            "campaigns": 359
+            "campaigns": 391
         },
         {
             "make": "daimler-trucks",
             "label": "Daimler Trucks North America",
-            "campaigns": 335
+            "campaigns": 345
         },
         {
             "make": "bmw",
             "label": "BMW",
-            "campaigns": 306
+            "campaigns": 328
         },
         {
             "make": "volkswagen",
             "label": "Volkswagen",
-            "campaigns": 261
-        },
-        {
-            "make": "nissan",
-            "label": "Nissan",
-            "campaigns": 233
+            "campaigns": 272
         },
         {
             "make": "honda",
             "label": "Honda",
-            "campaigns": 230
+            "campaigns": 256
         },
         {
-            "make": "hyundai",
-            "label": "Hyundai",
-            "campaigns": 225
+            "make": "nissan",
+            "label": "Nissan",
+            "campaigns": 253
         },
         {
             "make": "toyota",
             "label": "Toyota",
-            "campaigns": 223
+            "campaigns": 249
         },
         {
-            "make": "jayco",
-            "label": "Jayco",
-            "campaigns": 197
+            "make": "hyundai",
+            "label": "Hyundai",
+            "campaigns": 236
         },
         {
             "make": "volvo",
             "label": "Volvo",
-            "campaigns": 189
+            "campaigns": 211
+        },
+        {
+            "make": "jayco",
+            "label": "Jayco",
+            "campaigns": 207
         },
         {
             "make": "jaguar-land-rover",
             "label": "Jaguar Land Rover",
-            "campaigns": 187
+            "campaigns": 191
         },
         {
             "make": "altec",
             "label": "Altec",
-            "campaigns": 167
-        },
-        {
-            "make": "kia",
-            "label": "Kia",
-            "campaigns": 158
-        },
-        {
-            "make": "keystone",
-            "label": "Keystone",
-            "campaigns": 153
-        },
-        {
-            "make": "blue-bird",
-            "label": "Blue Bird",
-            "campaigns": 146
+            "campaigns": 183
         },
         {
             "make": "navistar",
             "label": "Navistar",
-            "campaigns": 146
+            "campaigns": 179
+        },
+        {
+            "make": "keystone",
+            "label": "Keystone",
+            "campaigns": 170
+        },
+        {
+            "make": "kia",
+            "label": "Kia",
+            "campaigns": 164
+        },
+        {
+            "make": "blue-bird",
+            "label": "Blue Bird",
+            "campaigns": 159
         },
         {
             "make": "paccar",
             "label": "Paccar",
-            "campaigns": 128
+            "campaigns": 137
+        },
+        {
+            "make": "winnebago",
+            "label": "Winnebago",
+            "campaigns": 130
         },
         {
             "make": "mercedes-benz-vans",
@@ -121,84 +126,104 @@
             "campaigns": 123
         },
         {
-            "make": "winnebago",
-            "label": "Winnebago",
-            "campaigns": 120
-        },
-        {
             "make": "autocar",
             "label": "Autocar",
+            "campaigns": 118
+        },
+        {
+            "make": "webasto",
+            "label": "Webasto",
             "campaigns": 114
         },
         {
             "make": "mack",
             "label": "Mack",
-            "campaigns": 112
+            "campaigns": 113
         },
         {
             "make": "subaru",
             "label": "Subaru",
-            "campaigns": 105
-        },
-        {
-            "make": "newmar",
-            "label": "Newmar",
-            "campaigns": 100
+            "campaigns": 110
         },
         {
             "make": "tmc",
             "label": "TMC",
-            "campaigns": 100
+            "campaigns": 109
+        },
+        {
+            "make": "newmar",
+            "label": "Newmar",
+            "campaigns": 105
         },
         {
             "make": "mazda",
             "label": "Mazda",
+            "campaigns": 99
+        },
+        {
+            "make": "spartan",
+            "label": "Spartan",
+            "campaigns": 97
+        },
+        {
+            "make": "nova-bus",
+            "label": "Nova Bus",
             "campaigns": 94
         },
         {
             "make": "tesla",
             "label": "Tesla",
-            "campaigns": 93
-        },
-        {
-            "make": "nova-bus",
-            "label": "Nova Bus",
-            "campaigns": 91
-        },
-        {
-            "make": "spartan",
-            "label": "Spartan",
-            "campaigns": 91
+            "campaigns": 94
         },
         {
             "make": "porsche",
             "label": "Porsche",
-            "campaigns": 90
+            "campaigns": 92
         },
         {
             "make": "prevost",
             "label": "Prevost",
-            "campaigns": 84
+            "campaigns": 87
         },
         {
             "make": "micro-bird",
             "label": "Micro Bird",
+            "campaigns": 81
+        },
+        {
+            "make": "mitsubishi",
+            "label": "Mitsubishi",
             "campaigns": 76
         },
         {
             "make": "gillig",
             "label": "Gillig",
-            "campaigns": 72
+            "campaigns": 74
         },
         {
             "make": "tiffin",
             "label": "Tiffin",
-            "campaigns": 71
+            "campaigns": 73
         },
         {
-            "make": "mitsubishi",
-            "label": "Mitsubishi",
-            "campaigns": 69
+            "make": "pierce",
+            "label": "Pierce",
+            "campaigns": 61
+        },
+        {
+            "make": "terex",
+            "label": "Terex",
+            "campaigns": 61
+        },
+        {
+            "make": "heartland",
+            "label": "Heartland",
+            "campaigns": 60
+        },
+        {
+            "make": "airstream",
+            "label": "Airstream",
+            "campaigns": 59
         },
         {
             "make": "audi",
@@ -206,9 +231,9 @@
             "campaigns": 59
         },
         {
-            "make": "terex",
-            "label": "Terex",
-            "campaigns": 58
+            "make": "ducati",
+            "label": "Ducati",
+            "campaigns": 57
         },
         {
             "make": "grand-design",
@@ -216,23 +241,23 @@
             "campaigns": 56
         },
         {
-            "make": "airstream",
-            "label": "Airstream",
-            "campaigns": 54
+            "make": "starcraft",
+            "label": "Starcraft",
+            "campaigns": 55
         },
         {
-            "make": "heartland",
-            "label": "Heartland",
-            "campaigns": 53
+            "make": "mci",
+            "label": "Mci",
+            "campaigns": 51
         },
         {
-            "make": "pierce",
-            "label": "Pierce",
-            "campaigns": 53
+            "make": "yamaha",
+            "label": "Yamaha",
+            "campaigns": 50
         },
         {
-            "make": "ducati",
-            "label": "Ducati",
+            "make": "e-one",
+            "label": "E One",
             "campaigns": 49
         },
         {
@@ -241,33 +266,23 @@
             "campaigns": 48
         },
         {
-            "make": "e-one",
-            "label": "E One",
-            "campaigns": 46
-        },
-        {
-            "make": "starcraft",
-            "label": "Starcraft",
-            "campaigns": 46
+            "make": "suzuki",
+            "label": "Suzuki",
+            "campaigns": 48
         },
         {
             "make": "triple-e",
             "label": "Triple E",
-            "campaigns": 45
-        },
-        {
-            "make": "mci",
-            "label": "Mci",
-            "campaigns": 44
-        },
-        {
-            "make": "yamaha",
-            "label": "Yamaha",
-            "campaigns": 44
+            "campaigns": 47
         },
         {
             "make": "cummins",
             "label": "Cummins",
+            "campaigns": 45
+        },
+        {
+            "make": "new-flyer",
+            "label": "New Flyer",
             "campaigns": 43
         },
         {
@@ -276,9 +291,24 @@
             "campaigns": 42
         },
         {
-            "make": "suzuki",
-            "label": "Suzuki",
+            "make": "triumph",
+            "label": "Triumph",
             "campaigns": 42
+        },
+        {
+            "make": "harley-davidson",
+            "label": "Harley Davidson",
+            "campaigns": 40
+        },
+        {
+            "make": "isuzu",
+            "label": "Isuzu",
+            "campaigns": 40
+        },
+        {
+            "make": "maserati",
+            "label": "Maserati",
+            "campaigns": 39
         },
         {
             "make": "rev",
@@ -286,48 +316,33 @@
             "campaigns": 39
         },
         {
-            "make": "maserati",
-            "label": "Maserati",
+            "make": "entegra",
+            "label": "Entegra",
             "campaigns": 38
         },
         {
-            "make": "triumph",
-            "label": "Triumph",
+            "make": "great-dane",
+            "label": "Great Dane",
             "campaigns": 38
-        },
-        {
-            "make": "isuzu",
-            "label": "Isuzu",
-            "campaigns": 37
         },
         {
             "make": "kzrv",
             "label": "Kzrv",
-            "campaigns": 36
+            "campaigns": 38
         },
         {
-            "make": "new-flyer",
-            "label": "New Flyer",
+            "make": "hino",
+            "label": "Hino",
             "campaigns": 36
         },
         {
             "make": "kme",
             "label": "Kme",
-            "campaigns": 35
+            "campaigns": 36
         },
         {
-            "make": "entegra",
-            "label": "Entegra",
-            "campaigns": 34
-        },
-        {
-            "make": "great-dane",
-            "label": "Great Dane",
-            "campaigns": 34
-        },
-        {
-            "make": "harley-davidson",
-            "label": "Harley Davidson",
+            "make": "meritor",
+            "label": "Meritor",
             "campaigns": 34
         },
         {
@@ -338,6 +353,11 @@
         {
             "make": "ktm",
             "label": "KTM",
+            "campaigns": 33
+        },
+        {
+            "make": "bentley",
+            "label": "Bentley",
             "campaigns": 32
         },
         {
@@ -346,44 +366,49 @@
             "campaigns": 31
         },
         {
-            "make": "bentley",
-            "label": "Bentley",
-            "campaigns": 31
-        },
-        {
             "make": "vermeer",
             "label": "Vermeer",
-            "campaigns": 30
-        },
-        {
-            "make": "hino",
-            "label": "Hino",
-            "campaigns": 28
+            "campaigns": 31
         },
         {
             "make": "oshkosh",
             "label": "Oshkosh",
+            "campaigns": 29
+        },
+        {
+            "make": "kawasaki",
+            "label": "Kawasaki",
             "campaigns": 28
-        },
-        {
-            "make": "aston-martin",
-            "label": "Aston Martin",
-            "campaigns": 25
-        },
-        {
-            "make": "gulf-stream",
-            "label": "Gulf Stream",
-            "campaigns": 25
-        },
-        {
-            "make": "meritor",
-            "label": "Meritor",
-            "campaigns": 24
         },
         {
             "make": "polaris",
             "label": "Polaris",
+            "campaigns": 27
+        },
+        {
+            "make": "aston-martin",
+            "label": "Aston Martin",
+            "campaigns": 26
+        },
+        {
+            "make": "gulf-stream",
+            "label": "Gulf Stream",
+            "campaigns": 26
+        },
+        {
+            "make": "wabash",
+            "label": "Wabash",
             "campaigns": 24
+        },
+        {
+            "make": "brp",
+            "label": "Brp",
+            "campaigns": 23
+        },
+        {
+            "make": "mcneilus",
+            "label": "Mcneilus",
+            "campaigns": 23
         },
         {
             "make": "rivian",
@@ -401,18 +426,23 @@
             "campaigns": 22
         },
         {
+            "make": "ferrara",
+            "label": "Ferrara",
+            "campaigns": 22
+        },
+        {
             "make": "halcore",
             "label": "Halcore",
             "campaigns": 22
         },
         {
-            "make": "lucid",
-            "label": "Lucid",
+            "make": "lippert",
+            "label": "Lippert",
             "campaigns": 22
         },
         {
-            "make": "mcneilus",
-            "label": "Mcneilus",
+            "make": "lucid",
+            "label": "Lucid",
             "campaigns": 22
         },
         {
@@ -426,23 +456,13 @@
             "campaigns": 22
         },
         {
-            "make": "wabash",
-            "label": "Wabash",
-            "campaigns": 22
-        },
-        {
-            "make": "ferrara",
-            "label": "Ferrara",
+            "make": "atc",
+            "label": "Atc",
             "campaigns": 21
         },
         {
-            "make": "kawasaki",
-            "label": "Kawasaki",
-            "campaigns": 21
-        },
-        {
-            "make": "lippert",
-            "label": "Lippert",
+            "make": "mitsubishi-fuso",
+            "label": "Mitsubishi Fuso",
             "campaigns": 21
         },
         {
@@ -451,18 +471,13 @@
             "campaigns": 21
         },
         {
-            "make": "webasto",
-            "label": "Webasto",
-            "campaigns": 21
-        },
-        {
-            "make": "atc",
-            "label": "Atc",
+            "make": "cruiser",
+            "label": "Cruiser",
             "campaigns": 20
         },
         {
-            "make": "cruiser",
-            "label": "Cruiser",
+            "make": "ferrari",
+            "label": "Ferrari",
             "campaigns": 20
         },
         {
@@ -471,24 +486,9 @@
             "campaigns": 20
         },
         {
-            "make": "mitsubishi-fuso",
-            "label": "Mitsubishi Fuso",
-            "campaigns": 20
-        },
-        {
             "make": "proterra",
             "label": "Proterra",
             "campaigns": 20
-        },
-        {
-            "make": "brp",
-            "label": "Brp",
-            "campaigns": 19
-        },
-        {
-            "make": "ferrari",
-            "label": "Ferrari",
-            "campaigns": 19
         },
         {
             "make": "highland-ridge",
@@ -501,14 +501,19 @@
             "campaigns": 19
         },
         {
-            "make": "zero",
-            "label": "Zero",
+            "make": "foretravel",
+            "label": "Foretravel",
             "campaigns": 18
         },
         {
-            "make": "foretravel",
-            "label": "Foretravel",
-            "campaigns": 17
+            "make": "turtle-top",
+            "label": "Turtle Top",
+            "campaigns": 18
+        },
+        {
+            "make": "zero",
+            "label": "Zero",
+            "campaigns": 18
         },
         {
             "make": "hme",
@@ -556,6 +561,11 @@
             "campaigns": 15
         },
         {
+            "make": "nabi",
+            "label": "Nabi",
+            "campaigns": 15
+        },
+        {
             "make": "roadtrek",
             "label": "Roadtrek",
             "campaigns": 15
@@ -563,6 +573,11 @@
         {
             "make": "arboc",
             "label": "Arboc",
+            "campaigns": 14
+        },
+        {
+            "make": "mack-trucks",
+            "label": "Mack Trucks",
             "campaigns": 14
         },
         {
@@ -581,6 +596,16 @@
             "campaigns": 13
         },
         {
+            "make": "dutchmen",
+            "label": "Dutchmen",
+            "campaigns": 13
+        },
+        {
+            "make": "goodyear",
+            "label": "Goodyear",
+            "campaigns": 13
+        },
+        {
             "make": "mclaren",
             "label": "Mclaren",
             "campaigns": 13
@@ -591,13 +616,18 @@
             "campaigns": 13
         },
         {
-            "make": "nabi",
-            "label": "Nabi",
+            "make": "piaggio",
+            "label": "Piaggio",
             "campaigns": 13
         },
         {
             "make": "seagrave",
             "label": "Seagrave",
+            "campaigns": 13
+        },
+        {
+            "make": "sutphen",
+            "label": "Sutphen",
             "campaigns": 13
         },
         {
@@ -611,8 +641,33 @@
             "campaigns": 13
         },
         {
-            "make": "goodyear",
-            "label": "Goodyear",
+            "make": "bendix",
+            "label": "Bendix",
+            "campaigns": 12
+        },
+        {
+            "make": "drv",
+            "label": "Drv",
+            "campaigns": 12
+        },
+        {
+            "make": "eldorado-national",
+            "label": "Eldorado National",
+            "campaigns": 12
+        },
+        {
+            "make": "evenflo",
+            "label": "Evenflo",
+            "campaigns": 12
+        },
+        {
+            "make": "fontaine",
+            "label": "Fontaine",
+            "campaigns": 12
+        },
+        {
+            "make": "lamborghini",
+            "label": "Lamborghini",
             "campaigns": 12
         },
         {
@@ -621,24 +676,9 @@
             "campaigns": 12
         },
         {
-            "make": "piaggio",
-            "label": "Piaggio",
+            "make": "roush",
+            "label": "Roush",
             "campaigns": 12
-        },
-        {
-            "make": "sutphen",
-            "label": "Sutphen",
-            "campaigns": 12
-        },
-        {
-            "make": "turtle-top",
-            "label": "Turtle Top",
-            "campaigns": 12
-        },
-        {
-            "make": "bendix",
-            "label": "Bendix",
-            "campaigns": 11
         },
         {
             "make": "brinkley",
@@ -651,18 +691,18 @@
             "campaigns": 11
         },
         {
-            "make": "evenflo",
-            "label": "Evenflo",
+            "make": "champion",
+            "label": "Champion",
             "campaigns": 11
         },
         {
-            "make": "fontaine",
-            "label": "Fontaine",
+            "make": "coach-and-equipment",
+            "label": "Coach And Equipment",
             "campaigns": 11
         },
         {
-            "make": "lamborghini",
-            "label": "Lamborghini",
+            "make": "fleetwood-rv",
+            "label": "Fleetwood Rv",
             "campaigns": 11
         },
         {
@@ -681,8 +721,8 @@
             "campaigns": 11
         },
         {
-            "make": "champion",
-            "label": "Champion",
+            "make": "continental",
+            "label": "Continental",
             "campaigns": 10
         },
         {
@@ -693,6 +733,11 @@
         {
             "make": "hale",
             "label": "Hale",
+            "campaigns": 10
+        },
+        {
+            "make": "heil",
+            "label": "Heil",
             "campaigns": 10
         },
         {
@@ -711,8 +756,33 @@
             "campaigns": 10
         },
         {
+            "make": "open-range",
+            "label": "Open Range",
+            "campaigns": 10
+        },
+        {
+            "make": "ricon",
+            "label": "Ricon",
+            "campaigns": 10
+        },
+        {
+            "make": "setra",
+            "label": "Setra",
+            "campaigns": 10
+        },
+        {
             "make": "spartan-chassis",
             "label": "Spartan Chassis",
+            "campaigns": 10
+        },
+        {
+            "make": "startrans",
+            "label": "Startrans",
+            "campaigns": 10
+        },
+        {
+            "make": "tci",
+            "label": "Tci",
             "campaigns": 10
         },
         {
@@ -721,13 +791,8 @@
             "campaigns": 9
         },
         {
-            "make": "coach-and-equipment",
-            "label": "Coach And Equipment",
-            "campaigns": 9
-        },
-        {
-            "make": "continental",
-            "label": "Continental",
+            "make": "carrier",
+            "label": "Carrier",
             "campaigns": 9
         },
         {
@@ -736,13 +801,8 @@
             "campaigns": 9
         },
         {
-            "make": "drv",
-            "label": "Drv",
-            "campaigns": 9
-        },
-        {
-            "make": "eldorado-national",
-            "label": "Eldorado National",
+            "make": "crossroads",
+            "label": "Crossroads",
             "campaigns": 9
         },
         {
@@ -756,13 +816,13 @@
             "campaigns": 9
         },
         {
-            "make": "harbor-freight",
-            "label": "Harbor Freight",
+            "make": "genie",
+            "label": "Genie",
             "campaigns": 9
         },
         {
-            "make": "heil",
-            "label": "Heil",
+            "make": "harbor-freight",
+            "label": "Harbor Freight",
             "campaigns": 9
         },
         {
@@ -786,13 +846,23 @@
             "campaigns": 8
         },
         {
-            "make": "carrier",
-            "label": "Carrier",
+            "make": "crane-carrier",
+            "label": "Crane Carrier",
             "campaigns": 8
         },
         {
             "make": "custom-fire",
             "label": "Custom Fire",
+            "campaigns": 8
+        },
+        {
+            "make": "dana",
+            "label": "Dana",
+            "campaigns": 8
+        },
+        {
+            "make": "dexter-axle",
+            "label": "Dexter Axle",
             "campaigns": 8
         },
         {
@@ -811,23 +881,23 @@
             "campaigns": 8
         },
         {
+            "make": "pj-trailers",
+            "label": "Pj Trailers",
+            "campaigns": 8
+        },
+        {
             "make": "reading",
             "label": "Reading",
             "campaigns": 8
         },
         {
-            "make": "roush",
-            "label": "Roush",
-            "campaigns": 8
-        },
-        {
-            "make": "setra",
-            "label": "Setra",
-            "campaigns": 8
-        },
-        {
             "make": "sumitomo",
             "label": "Sumitomo",
+            "campaigns": 8
+        },
+        {
+            "make": "vactor",
+            "label": "Vactor",
             "campaigns": 8
         },
         {
@@ -851,18 +921,33 @@
             "campaigns": 7
         },
         {
-            "make": "crane-carrier",
-            "label": "Crane Carrier",
+            "make": "caterpillar",
+            "label": "Caterpillar",
             "campaigns": 7
         },
         {
-            "make": "crossroads",
-            "label": "Crossroads",
+            "make": "crossroads-rv",
+            "label": "Crossroads Rv",
             "campaigns": 7
         },
         {
-            "make": "dana",
-            "label": "Dana",
+            "make": "dbna",
+            "label": "Dbna",
+            "campaigns": 7
+        },
+        {
+            "make": "diamond-coach",
+            "label": "Diamond Coach",
+            "campaigns": 7
+        },
+        {
+            "make": "dorman",
+            "label": "Dorman",
+            "campaigns": 7
+        },
+        {
+            "make": "eldorado-national-california",
+            "label": "Eldorado National California",
             "campaigns": 7
         },
         {
@@ -871,8 +956,8 @@
             "campaigns": 7
         },
         {
-            "make": "genie",
-            "label": "Genie",
+            "make": "evergreen",
+            "label": "Evergreen",
             "campaigns": 7
         },
         {
@@ -881,18 +966,18 @@
             "campaigns": 7
         },
         {
+            "make": "kenworth",
+            "label": "Kenworth",
+            "campaigns": 7
+        },
+        {
+            "make": "lotus",
+            "label": "Lotus",
+            "campaigns": 7
+        },
+        {
             "make": "orange-ev",
             "label": "Orange Ev",
-            "campaigns": 7
-        },
-        {
-            "make": "pj-trailers",
-            "label": "Pj Trailers",
-            "campaigns": 7
-        },
-        {
-            "make": "ricon",
-            "label": "Ricon",
             "campaigns": 7
         },
         {
@@ -901,13 +986,18 @@
             "campaigns": 7
         },
         {
-            "make": "storyteller",
-            "label": "Storyteller",
+            "make": "saf-holland",
+            "label": "Saf Holland",
             "campaigns": 7
         },
         {
-            "make": "tci",
-            "label": "Tci",
+            "make": "showhauler",
+            "label": "Showhauler",
+            "campaigns": 7
+        },
+        {
+            "make": "storyteller",
+            "label": "Storyteller",
             "campaigns": 7
         },
         {
@@ -918,6 +1008,11 @@
         {
             "make": "vac-tron",
             "label": "Vac Tron",
+            "campaigns": 7
+        },
+        {
+            "make": "yakima",
+            "label": "Yakima",
             "campaigns": 7
         },
         {
@@ -936,23 +1031,18 @@
             "campaigns": 6
         },
         {
+            "make": "coachmen",
+            "label": "Coachmen",
+            "campaigns": 6
+        },
+        {
+            "make": "cooper-tire",
+            "label": "Cooper Tire",
+            "campaigns": 6
+        },
+        {
             "make": "cottrell",
             "label": "Cottrell",
-            "campaigns": 6
-        },
-        {
-            "make": "dbna",
-            "label": "Dbna",
-            "campaigns": 6
-        },
-        {
-            "make": "dexter-axle",
-            "label": "Dexter Axle",
-            "campaigns": 6
-        },
-        {
-            "make": "diamond-coach",
-            "label": "Diamond Coach",
             "campaigns": 6
         },
         {
@@ -961,18 +1051,8 @@
             "campaigns": 6
         },
         {
-            "make": "eldorado-national-california",
-            "label": "Eldorado National California",
-            "campaigns": 6
-        },
-        {
             "make": "escape-trailer",
             "label": "Escape Trailer",
-            "campaigns": 6
-        },
-        {
-            "make": "evergreen",
-            "label": "Evergreen",
             "campaigns": 6
         },
         {
@@ -1011,16 +1091,6 @@
             "campaigns": 6
         },
         {
-            "make": "lotus",
-            "label": "Lotus",
-            "campaigns": 6
-        },
-        {
-            "make": "mack-trucks",
-            "label": "Mack Trucks",
-            "campaigns": 6
-        },
-        {
             "make": "manac",
             "label": "Manac",
             "campaigns": 6
@@ -1028,11 +1098,6 @@
         {
             "make": "nikola",
             "label": "Nikola",
-            "campaigns": 6
-        },
-        {
-            "make": "open-range",
-            "label": "Open Range",
             "campaigns": 6
         },
         {
@@ -1046,18 +1111,13 @@
             "campaigns": 6
         },
         {
+            "make": "prime-time",
+            "label": "Prime Time",
+            "campaigns": 6
+        },
+        {
             "make": "reyco",
             "label": "Reyco",
-            "campaigns": 6
-        },
-        {
-            "make": "saf-holland",
-            "label": "Saf Holland",
-            "campaigns": 6
-        },
-        {
-            "make": "showhauler",
-            "label": "Showhauler",
             "campaigns": 6
         },
         {
@@ -1066,8 +1126,13 @@
             "campaigns": 6
         },
         {
-            "make": "vactor",
-            "label": "Vactor",
+            "make": "tiffin-motorhomes",
+            "label": "Tiffin Motorhomes",
+            "campaigns": 6
+        },
+        {
+            "make": "utility-trailer",
+            "label": "Utility Trailer",
             "campaigns": 6
         },
         {
@@ -1081,6 +1146,11 @@
             "campaigns": 6
         },
         {
+            "make": "agility",
+            "label": "Agility",
+            "campaigns": 5
+        },
+        {
             "make": "america-honda-co",
             "label": "America Honda Co",
             "campaigns": 5
@@ -1091,13 +1161,18 @@
             "campaigns": 5
         },
         {
+            "make": "arvinmeritor",
+            "label": "Arvinmeritor",
+            "campaigns": 5
+        },
+        {
             "make": "big-tex-trailer",
             "label": "Big Tex Trailer",
             "campaigns": 5
         },
         {
-            "make": "caterpillar",
-            "label": "Caterpillar",
+            "make": "collins",
+            "label": "Collins",
             "campaigns": 5
         },
         {
@@ -1106,28 +1181,23 @@
             "campaigns": 5
         },
         {
-            "make": "cooper-tire",
-            "label": "Cooper Tire",
-            "campaigns": 5
-        },
-        {
-            "make": "crossroads-rv",
-            "label": "Crossroads Rv",
-            "campaigns": 5
-        },
-        {
             "make": "dorel",
             "label": "Dorel",
             "campaigns": 5
         },
         {
-            "make": "dorman",
-            "label": "Dorman",
+            "make": "double-k",
+            "label": "Double K",
             "campaigns": 5
         },
         {
             "make": "driv",
             "label": "Driv",
+            "campaigns": 5
+        },
+        {
+            "make": "elgin-sweeper",
+            "label": "Elgin Sweeper",
             "campaigns": 5
         },
         {
@@ -1148,11 +1218,6 @@
         {
             "make": "firefly",
             "label": "Firefly",
-            "campaigns": 5
-        },
-        {
-            "make": "fleetwood-rv",
-            "label": "Fleetwood Rv",
             "campaigns": 5
         },
         {
@@ -1191,8 +1256,8 @@
             "campaigns": 5
         },
         {
-            "make": "prime-time",
-            "label": "Prime Time",
+            "make": "rolls-royce",
+            "label": "Rolls Royce",
             "campaigns": 5
         },
         {
@@ -1201,8 +1266,18 @@
             "campaigns": 5
         },
         {
-            "make": "startrans",
-            "label": "Startrans",
+            "make": "space-craft",
+            "label": "Space Craft",
+            "campaigns": 5
+        },
+        {
+            "make": "sprinter",
+            "label": "Sprinter",
+            "campaigns": 5
+        },
+        {
+            "make": "starcraft-bus",
+            "label": "Starcraft Bus",
             "campaigns": 5
         },
         {
@@ -1221,8 +1296,18 @@
             "campaigns": 5
         },
         {
+            "make": "tegol",
+            "label": "Tegol",
+            "campaigns": 5
+        },
+        {
             "make": "trails-west",
             "label": "Trails West",
+            "campaigns": 5
+        },
+        {
+            "make": "vanguard",
+            "label": "Vanguard",
             "campaigns": 5
         },
         {
@@ -1261,6 +1346,11 @@
             "campaigns": 4
         },
         {
+            "make": "brenner-tank",
+            "label": "Brenner Tank",
+            "campaigns": 4
+        },
+        {
             "make": "byd",
             "label": "Byd",
             "campaigns": 4
@@ -1283,6 +1373,11 @@
         {
             "make": "cfmoto",
             "label": "Cfmoto",
+            "campaigns": 4
+        },
+        {
+            "make": "champion-bus",
+            "label": "Champion Bus",
             "campaigns": 4
         },
         {
@@ -1326,8 +1421,8 @@
             "campaigns": 4
         },
         {
-            "make": "double-k",
-            "label": "Double K",
+            "make": "eldorado-national-kansas",
+            "label": "Eldorado National Kansas",
             "campaigns": 4
         },
         {
@@ -1336,8 +1431,28 @@
             "campaigns": 4
         },
         {
+            "make": "elkhart-coach",
+            "label": "Elkhart Coach",
+            "campaigns": 4
+        },
+        {
             "make": "entegra-coach",
             "label": "Entegra Coach",
+            "campaigns": 4
+        },
+        {
+            "make": "ez-loader",
+            "label": "Ez Loader",
+            "campaigns": 4
+        },
+        {
+            "make": "featherlite",
+            "label": "Featherlite",
+            "campaigns": 4
+        },
+        {
+            "make": "fontaine-modification",
+            "label": "Fontaine Modification",
             "campaigns": 4
         },
         {
@@ -1366,6 +1481,11 @@
             "campaigns": 4
         },
         {
+            "make": "gulf-states-toyota",
+            "label": "Gulf States Toyota",
+            "campaigns": 4
+        },
+        {
             "make": "hiab",
             "label": "Hiab",
             "campaigns": 4
@@ -1383,6 +1503,11 @@
         {
             "make": "ivolution",
             "label": "Ivolution",
+            "campaigns": 4
+        },
+        {
+            "make": "keystone-rv",
+            "label": "Keystone Rv",
             "campaigns": 4
         },
         {
@@ -1416,8 +1541,33 @@
             "campaigns": 4
         },
         {
+            "make": "morgan",
+            "label": "Morgan",
+            "campaigns": 4
+        },
+        {
+            "make": "mv-agusta",
+            "label": "Mv Agusta",
+            "campaigns": 4
+        },
+        {
             "make": "new-england",
             "label": "New England",
+            "campaigns": 4
+        },
+        {
+            "make": "nrc",
+            "label": "Nrc",
+            "campaigns": 4
+        },
+        {
+            "make": "nu-wa",
+            "label": "Nu Wa",
+            "campaigns": 4
+        },
+        {
+            "make": "ohlins",
+            "label": "Ohlins",
             "campaigns": 4
         },
         {
@@ -1428,16 +1578,6 @@
         {
             "make": "rtdi",
             "label": "Rtdi",
-            "campaigns": 4
-        },
-        {
-            "make": "space-craft",
-            "label": "Space Craft",
-            "campaigns": 4
-        },
-        {
-            "make": "starcraft-bus",
-            "label": "Starcraft Bus",
             "campaigns": 4
         },
         {
@@ -1456,6 +1596,11 @@
             "campaigns": 4
         },
         {
+            "make": "thermo-king",
+            "label": "Thermo King",
+            "campaigns": 4
+        },
+        {
             "make": "toyne",
             "label": "Toyne",
             "campaigns": 4
@@ -1471,6 +1616,16 @@
             "campaigns": 4
         },
         {
+            "make": "trans-air",
+            "label": "Trans Air",
+            "campaigns": 4
+        },
+        {
+            "make": "trimark",
+            "label": "Trimark",
+            "campaigns": 4
+        },
+        {
             "make": "trw",
             "label": "Trw",
             "campaigns": 4
@@ -1481,6 +1636,11 @@
             "campaigns": 4
         },
         {
+            "make": "tucker-rocky",
+            "label": "Tucker Rocky",
+            "campaigns": 4
+        },
+        {
             "make": "utility",
             "label": "Utility",
             "campaigns": 4
@@ -1488,11 +1648,6 @@
         {
             "make": "van-con",
             "label": "Van Con",
-            "campaigns": 4
-        },
-        {
-            "make": "vanguard",
-            "label": "Vanguard",
             "campaigns": 4
         },
         {
@@ -1516,6 +1671,11 @@
             "campaigns": 4
         },
         {
+            "make": "wilson-trailer",
+            "label": "Wilson Trailer",
+            "campaigns": 4
+        },
+        {
             "make": "yokohama",
             "label": "Yokohama",
             "campaigns": 4
@@ -1526,8 +1686,18 @@
             "campaigns": 4
         },
         {
-            "make": "agility",
-            "label": "Agility",
+            "make": "acc",
+            "label": "Acc",
+            "campaigns": 3
+        },
+        {
+            "make": "advics",
+            "label": "Advics",
+            "campaigns": 3
+        },
+        {
+            "make": "american-hauler",
+            "label": "American Hauler",
             "campaigns": 3
         },
         {
@@ -1576,11 +1746,6 @@
             "campaigns": 3
         },
         {
-            "make": "brenner-tank",
-            "label": "Brenner Tank",
-            "campaigns": 3
-        },
-        {
             "make": "bridgestone",
             "label": "Bridgestone",
             "campaigns": 3
@@ -1593,6 +1758,11 @@
         {
             "make": "capacity",
             "label": "Capacity",
+            "campaigns": 3
+        },
+        {
+            "make": "carriage",
+            "label": "Carriage",
             "campaigns": 3
         },
         {
@@ -1616,8 +1786,8 @@
             "campaigns": 3
         },
         {
-            "make": "collins",
-            "label": "Collins",
+            "make": "cruiser-rv",
+            "label": "Cruiser Rv",
             "campaigns": 3
         },
         {
@@ -1651,11 +1821,6 @@
             "campaigns": 3
         },
         {
-            "make": "dutchmen",
-            "label": "Dutchmen",
-            "campaigns": 3
-        },
-        {
             "make": "dutchmen-manufacturing",
             "label": "Dutchmen Manufacturing",
             "campaigns": 3
@@ -1676,23 +1841,13 @@
             "campaigns": 3
         },
         {
+            "make": "eclipse",
+            "label": "Eclipse",
+            "campaigns": 3
+        },
+        {
             "make": "eldorado-mobility",
             "label": "Eldorado Mobility",
-            "campaigns": 3
-        },
-        {
-            "make": "eldorado-national-kansas",
-            "label": "Eldorado National Kansas",
-            "campaigns": 3
-        },
-        {
-            "make": "elgin-sweeper",
-            "label": "Elgin Sweeper",
-            "campaigns": 3
-        },
-        {
-            "make": "elkhart-coach",
-            "label": "Elkhart Coach",
             "campaigns": 3
         },
         {
@@ -1721,28 +1876,28 @@
             "campaigns": 3
         },
         {
-            "make": "ez-loader",
-            "label": "Ez Loader",
-            "campaigns": 3
-        },
-        {
             "make": "fabform",
             "label": "Fabform",
             "campaigns": 3
         },
         {
-            "make": "featherlite",
-            "label": "Featherlite",
+            "make": "fleetwood",
+            "label": "Fleetwood",
             "campaigns": 3
         },
         {
-            "make": "fontaine-modification",
-            "label": "Fontaine Modification",
+            "make": "gem",
+            "label": "GEM",
             "campaigns": 3
         },
         {
             "make": "genesis",
             "label": "Genesis",
+            "campaigns": 3
+        },
+        {
+            "make": "glaval",
+            "label": "Glaval",
             "campaigns": 3
         },
         {
@@ -1761,6 +1916,16 @@
             "campaigns": 3
         },
         {
+            "make": "hci",
+            "label": "Hci",
+            "campaigns": 3
+        },
+        {
+            "make": "ifs",
+            "label": "Ifs",
+            "campaigns": 3
+        },
+        {
             "make": "ineos",
             "label": "Ineos",
             "campaigns": 3
@@ -1773,6 +1938,11 @@
         {
             "make": "kumho",
             "label": "Kumho",
+            "campaigns": 3
+        },
+        {
+            "make": "lance",
+            "label": "Lance",
             "campaigns": 3
         },
         {
@@ -1801,6 +1971,11 @@
             "campaigns": 3
         },
         {
+            "make": "medtec",
+            "label": "Medtec",
+            "campaigns": 3
+        },
+        {
             "make": "midwest-fire",
             "label": "Midwest Fire",
             "campaigns": 3
@@ -1818,16 +1993,6 @@
         {
             "make": "monroe",
             "label": "Monroe",
-            "campaigns": 3
-        },
-        {
-            "make": "morgan",
-            "label": "Morgan",
-            "campaigns": 3
-        },
-        {
-            "make": "mv-agusta",
-            "label": "Mv Agusta",
             "campaigns": 3
         },
         {
@@ -1866,6 +2031,11 @@
             "campaigns": 3
         },
         {
+            "make": "peterson-industries",
+            "label": "Peterson Industries",
+            "campaigns": 3
+        },
+        {
             "make": "pilotcar",
             "label": "Pilotcar",
             "campaigns": 3
@@ -1876,13 +2046,13 @@
             "campaigns": 3
         },
         {
-            "make": "r-h-sheppard",
-            "label": "R H Sheppard",
+            "make": "provan",
+            "label": "Provan",
             "campaigns": 3
         },
         {
-            "make": "rolls-royce",
-            "label": "Rolls Royce",
+            "make": "r-h-sheppard",
+            "label": "R H Sheppard",
             "campaigns": 3
         },
         {
@@ -1906,6 +2076,16 @@
             "campaigns": 3
         },
         {
+            "make": "skyline",
+            "label": "Skyline",
+            "campaigns": 3
+        },
+        {
+            "make": "southeast-toyota",
+            "label": "Southeast Toyota",
+            "campaigns": 3
+        },
+        {
             "make": "specialty",
             "label": "Specialty",
             "campaigns": 3
@@ -1921,13 +2101,18 @@
             "campaigns": 3
         },
         {
-            "make": "tegol",
-            "label": "Tegol",
+            "make": "textron",
+            "label": "Textron",
             "campaigns": 3
         },
         {
-            "make": "textron",
-            "label": "Textron",
+            "make": "think",
+            "label": "Think",
+            "campaigns": 3
+        },
+        {
+            "make": "thule",
+            "label": "Thule",
             "campaigns": 3
         },
         {
@@ -1936,8 +2121,23 @@
             "campaigns": 3
         },
         {
+            "make": "timken",
+            "label": "Timken",
+            "campaigns": 3
+        },
+        {
+            "make": "timpte",
+            "label": "Timpte",
+            "campaigns": 3
+        },
+        {
             "make": "tiny-idahomes",
             "label": "Tiny Idahomes",
+            "campaigns": 3
+        },
+        {
+            "make": "trail-boss",
+            "label": "Trail Boss",
             "campaigns": 3
         },
         {
@@ -1946,23 +2146,18 @@
             "campaigns": 3
         },
         {
+            "make": "transcraft",
+            "label": "Transcraft",
+            "campaigns": 3
+        },
+        {
             "make": "transportation-collaborative",
             "label": "Transportation Collaborative",
             "campaigns": 3
         },
         {
-            "make": "trimark",
-            "label": "Trimark",
-            "campaigns": 3
-        },
-        {
-            "make": "tucker-rocky",
-            "label": "Tucker Rocky",
-            "campaigns": 3
-        },
-        {
-            "make": "utility-trailer",
-            "label": "Utility Trailer",
+            "make": "ud-trucks",
+            "label": "Ud Trucks",
             "campaigns": 3
         },
         {
@@ -2001,8 +2196,8 @@
             "campaigns": 2
         },
         {
-            "make": "advics",
-            "label": "Advics",
+            "make": "adventurer",
+            "label": "Adventurer",
             "campaigns": 2
         },
         {
@@ -2023,11 +2218,6 @@
         {
             "make": "aluma-klm",
             "label": "Aluma Klm",
-            "campaigns": 2
-        },
-        {
-            "make": "american-hauler",
-            "label": "American Hauler",
             "campaigns": 2
         },
         {
@@ -2056,6 +2246,11 @@
             "campaigns": 2
         },
         {
+            "make": "bad-boy-enterprises",
+            "label": "Bad Boy Enterprises",
+            "campaigns": 2
+        },
+        {
             "make": "badass-helmet",
             "label": "Badass Helmet",
             "campaigns": 2
@@ -2071,8 +2266,18 @@
             "campaigns": 2
         },
         {
+            "make": "bell",
+            "label": "Bell",
+            "campaigns": 2
+        },
+        {
             "make": "belmont",
             "label": "Belmont",
+            "campaigns": 2
+        },
+        {
+            "make": "big-tex",
+            "label": "Big Tex",
             "campaigns": 2
         },
         {
@@ -2091,6 +2296,11 @@
             "campaigns": 2
         },
         {
+            "make": "bpi",
+            "label": "Bpi",
+            "campaigns": 2
+        },
+        {
             "make": "britax",
             "label": "Britax",
             "campaigns": 2
@@ -2098,6 +2308,11 @@
         {
             "make": "bwise",
             "label": "Bwise",
+            "campaigns": 2
+        },
+        {
+            "make": "c-e-white",
+            "label": "C E White",
             "campaigns": 2
         },
         {
@@ -2161,11 +2376,6 @@
             "campaigns": 2
         },
         {
-            "make": "cruiser-rv",
-            "label": "Cruiser Rv",
-            "campaigns": 2
-        },
-        {
             "make": "ctp",
             "label": "Ctp",
             "campaigns": 2
@@ -2173,6 +2383,11 @@
         {
             "make": "custom-fire-apparatus",
             "label": "Custom Fire Apparatus",
+            "campaigns": 2
+        },
+        {
+            "make": "cycle-gear",
+            "label": "Cycle Gear",
             "campaigns": 2
         },
         {
@@ -2231,13 +2446,13 @@
             "campaigns": 2
         },
         {
-            "make": "eclipse",
-            "label": "Eclipse",
+            "make": "elite",
+            "label": "Elite",
             "campaigns": 2
         },
         {
-            "make": "elite",
-            "label": "Elite",
+            "make": "emerson",
+            "label": "Emerson",
             "campaigns": 2
         },
         {
@@ -2246,8 +2461,18 @@
             "campaigns": 2
         },
         {
+            "make": "executive-coach",
+            "label": "Executive Coach",
+            "campaigns": 2
+        },
+        {
             "make": "federal",
             "label": "Federal",
+            "campaigns": 2
+        },
+        {
+            "make": "federal-mogul",
+            "label": "Federal Mogul",
             "campaigns": 2
         },
         {
@@ -2276,13 +2501,23 @@
             "campaigns": 2
         },
         {
+            "make": "frontline",
+            "label": "Frontline",
+            "campaigns": 2
+        },
+        {
             "make": "fruehauf",
             "label": "Fruehauf",
             "campaigns": 2
         },
         {
-            "make": "gem",
-            "label": "GEM",
+            "make": "fsv",
+            "label": "Fsv",
+            "campaigns": 2
+        },
+        {
+            "make": "fuel",
+            "label": "Fuel",
             "campaigns": 2
         },
         {
@@ -2291,8 +2526,8 @@
             "campaigns": 2
         },
         {
-            "make": "glaval",
-            "label": "Glaval",
+            "make": "glaval-bus",
+            "label": "Glaval Bus",
             "campaigns": 2
         },
         {
@@ -2301,18 +2536,23 @@
             "campaigns": 2
         },
         {
+            "make": "goshen-coach",
+            "label": "Goshen Coach",
+            "campaigns": 2
+        },
+        {
             "make": "great-dane-trailers",
             "label": "Great Dane Trailers",
             "campaigns": 2
         },
         {
-            "make": "grech",
-            "label": "Grech",
+            "make": "great-lakes",
+            "label": "Great Lakes",
             "campaigns": 2
         },
         {
-            "make": "gulf-states-toyota",
-            "label": "Gulf States Toyota",
+            "make": "grech",
+            "label": "Grech",
             "campaigns": 2
         },
         {
@@ -2323,11 +2563,6 @@
         {
             "make": "h-h-sports",
             "label": "H H Sports",
-            "campaigns": 2
-        },
-        {
-            "make": "hci",
-            "label": "Hci",
             "campaigns": 2
         },
         {
@@ -2348,11 +2583,6 @@
         {
             "make": "host",
             "label": "Host",
-            "campaigns": 2
-        },
-        {
-            "make": "ifs",
-            "label": "Ifs",
             "campaigns": 2
         },
         {
@@ -2378,6 +2608,11 @@
         {
             "make": "iss",
             "label": "Iss",
+            "campaigns": 2
+        },
+        {
+            "make": "itr",
+            "label": "Itr",
             "campaigns": 2
         },
         {
@@ -2416,13 +2651,28 @@
             "campaigns": 2
         },
         {
-            "make": "kz",
-            "label": "Kz",
+            "make": "king-of-the-road",
+            "label": "King of the Road",
             "campaigns": 2
         },
         {
-            "make": "lance",
-            "label": "Lance",
+            "make": "koni",
+            "label": "Koni",
+            "campaigns": 2
+        },
+        {
+            "make": "kuryakyn",
+            "label": "Kuryakyn",
+            "campaigns": 2
+        },
+        {
+            "make": "kustom-fit-a-division-of-villa-furniture-mfg-co",
+            "label": "Kustom Fit a Division of Villa Furniture Mfg Co",
+            "campaigns": 2
+        },
+        {
+            "make": "kz",
+            "label": "Kz",
             "campaigns": 2
         },
         {
@@ -2476,6 +2726,16 @@
             "campaigns": 2
         },
         {
+            "make": "marathon",
+            "label": "Marathon",
+            "campaigns": 2
+        },
+        {
+            "make": "maxzone",
+            "label": "Maxzone",
+            "campaigns": 2
+        },
+        {
             "make": "mcclaren",
             "label": "Mcclaren",
             "campaigns": 2
@@ -2491,6 +2751,11 @@
             "campaigns": 2
         },
         {
+            "make": "meritor-wabco",
+            "label": "Meritor Wabco",
+            "campaigns": 2
+        },
+        {
             "make": "mickey-truck-bodies",
             "label": "Mickey Truck Bodies",
             "campaigns": 2
@@ -2498,6 +2763,11 @@
         {
             "make": "midway",
             "label": "Midway",
+            "campaigns": 2
+        },
+        {
+            "make": "mobility-works",
+            "label": "Mobility Works",
             "campaigns": 2
         },
         {
@@ -2526,6 +2796,11 @@
             "campaigns": 2
         },
         {
+            "make": "new-horizons",
+            "label": "New Horizons",
+            "campaigns": 2
+        },
+        {
             "make": "nexxpro",
             "label": "Nexxpro",
             "campaigns": 2
@@ -2536,13 +2811,13 @@
             "campaigns": 2
         },
         {
-            "make": "north-central",
-            "label": "North Central",
+            "make": "norcold",
+            "label": "Norcold",
             "campaigns": 2
         },
         {
-            "make": "nrc",
-            "label": "Nrc",
+            "make": "north-central",
+            "label": "North Central",
             "campaigns": 2
         },
         {
@@ -2553,11 +2828,6 @@
         {
             "make": "off-grid",
             "label": "Off Grid",
-            "campaigns": 2
-        },
-        {
-            "make": "ohlins",
-            "label": "Ohlins",
             "campaigns": 2
         },
         {
@@ -2573,6 +2843,11 @@
         {
             "make": "par-nado",
             "label": "Par Nado",
+            "campaigns": 2
+        },
+        {
+            "make": "peterbilt",
+            "label": "Peterbilt",
             "campaigns": 2
         },
         {
@@ -2601,13 +2876,13 @@
             "campaigns": 2
         },
         {
-            "make": "provan",
-            "label": "Provan",
+            "make": "q-straint",
+            "label": "Q Straint",
             "campaigns": 2
         },
         {
-            "make": "q-straint",
-            "label": "Q Straint",
+            "make": "quadratec",
+            "label": "Quadratec",
             "campaigns": 2
         },
         {
@@ -2623,6 +2898,16 @@
         {
             "make": "recaro",
             "label": "Recaro",
+            "campaigns": 2
+        },
+        {
+            "make": "rigid-hitch",
+            "label": "Rigid Hitch",
+            "campaigns": 2
+        },
+        {
+            "make": "s-s-truck",
+            "label": "S S Truck",
             "campaigns": 2
         },
         {
@@ -2651,6 +2936,16 @@
             "campaigns": 2
         },
         {
+            "make": "sierra",
+            "label": "Sierra",
+            "campaigns": 2
+        },
+        {
+            "make": "sika",
+            "label": "Sika",
+            "campaigns": 2
+        },
+        {
             "make": "silverstone",
             "label": "Silverstone",
             "campaigns": 2
@@ -2676,6 +2971,16 @@
             "campaigns": 2
         },
         {
+            "make": "sunnybrook",
+            "label": "Sunnybrook",
+            "campaigns": 2
+        },
+        {
+            "make": "sunright",
+            "label": "Sunright",
+            "campaigns": 2
+        },
+        {
             "make": "svo",
             "label": "Svo",
             "campaigns": 2
@@ -2696,18 +3001,13 @@
             "campaigns": 2
         },
         {
-            "make": "thule",
-            "label": "Thule",
+            "make": "terex-telelect",
+            "label": "Terex Telelect",
             "campaigns": 2
         },
         {
-            "make": "timken",
-            "label": "Timken",
-            "campaigns": 2
-        },
-        {
-            "make": "timpte",
-            "label": "Timpte",
+            "make": "ti-automotive",
+            "label": "Ti Automotive",
             "campaigns": 2
         },
         {
@@ -2741,23 +3041,8 @@
             "campaigns": 2
         },
         {
-            "make": "trail-boss",
-            "label": "Trail Boss",
-            "campaigns": 2
-        },
-        {
             "make": "trailstar",
             "label": "Trailstar",
-            "campaigns": 2
-        },
-        {
-            "make": "trans-air",
-            "label": "Trans Air",
-            "campaigns": 2
-        },
-        {
-            "make": "transcraft",
-            "label": "Transcraft",
             "campaigns": 2
         },
         {
@@ -2771,6 +3056,11 @@
             "campaigns": 2
         },
         {
+            "make": "triple-e-rv",
+            "label": "Triple E Rv",
+            "campaigns": 2
+        },
+        {
             "make": "triumph-motorcycles-america",
             "label": "Triumph Motorcycles America",
             "campaigns": 2
@@ -2778,11 +3068,6 @@
         {
             "make": "tropos",
             "label": "Tropos",
-            "campaigns": 2
-        },
-        {
-            "make": "ud-trucks",
-            "label": "Ud Trucks",
             "campaigns": 2
         },
         {
@@ -2826,6 +3111,16 @@
             "campaigns": 2
         },
         {
+            "make": "villa",
+            "label": "Villa",
+            "campaigns": 2
+        },
+        {
+            "make": "vision-wheel",
+            "label": "Vision Wheel",
+            "campaigns": 2
+        },
+        {
             "make": "w-c",
             "label": "W C",
             "campaigns": 2
@@ -2851,8 +3146,8 @@
             "campaigns": 2
         },
         {
-            "make": "wilson-trailer",
-            "label": "Wilson Trailer",
+            "make": "workhorse",
+            "label": "Workhorse",
             "campaigns": 2
         },
         {
@@ -2926,6 +3221,11 @@
             "campaigns": 1
         },
         {
+            "make": "a-m",
+            "label": "A M",
+            "campaigns": 1
+        },
+        {
             "make": "a-z-bus",
             "label": "A Z Bus",
             "campaigns": 1
@@ -2941,13 +3241,18 @@
             "campaigns": 1
         },
         {
-            "make": "acc",
-            "label": "Acc",
+            "make": "access-options",
+            "label": "Access Options",
             "campaigns": 1
         },
         {
             "make": "accubuilt",
             "label": "Accubuilt",
+            "campaigns": 1
+        },
+        {
+            "make": "accuride",
+            "label": "Accuride",
             "campaigns": 1
         },
         {
@@ -2991,8 +3296,8 @@
             "campaigns": 1
         },
         {
-            "make": "adventurer",
-            "label": "Adventurer",
+            "make": "adventive-ideas",
+            "label": "Adventive Ideas",
             "campaigns": 1
         },
         {
@@ -3026,6 +3331,11 @@
             "campaigns": 1
         },
         {
+            "make": "affinia",
+            "label": "Affinia",
+            "campaigns": 1
+        },
+        {
             "make": "afx",
             "label": "Afx",
             "campaigns": 1
@@ -3036,8 +3346,23 @@
             "campaigns": 1
         },
         {
+            "make": "aii",
+            "label": "Aii",
+            "campaigns": 1
+        },
+        {
+            "make": "airtex",
+            "label": "Airtex",
+            "campaigns": 1
+        },
+        {
             "make": "airxcel",
             "label": "Airxcel",
+            "campaigns": 1
+        },
+        {
+            "make": "aisin",
+            "label": "Aisin",
             "campaigns": 1
         },
         {
@@ -3058,6 +3383,11 @@
         {
             "make": "alfa-romeo",
             "label": "Alfa Romeo",
+            "campaigns": 1
+        },
+        {
+            "make": "all-in-one-mobility",
+            "label": "All in One Mobility",
             "campaigns": 1
         },
         {
@@ -3116,8 +3446,28 @@
             "campaigns": 1
         },
         {
+            "make": "aluminum",
+            "label": "Aluminum",
+            "campaigns": 1
+        },
+        {
+            "make": "am-general",
+            "label": "Am General",
+            "campaigns": 1
+        },
+        {
+            "make": "ame",
+            "label": "Ame",
+            "campaigns": 1
+        },
+        {
             "make": "american-fastbacks",
             "label": "American Fastbacks",
+            "campaigns": 1
+        },
+        {
+            "make": "american-lafrance",
+            "label": "American Lafrance",
             "campaigns": 1
         },
         {
@@ -3138,6 +3488,11 @@
         {
             "make": "ameritrans-bus",
             "label": "Ameritrans Bus",
+            "campaigns": 1
+        },
+        {
+            "make": "amp",
+            "label": "Amp",
             "campaigns": 1
         },
         {
@@ -3206,6 +3561,11 @@
             "campaigns": 1
         },
         {
+            "make": "autotech",
+            "label": "Autotech",
+            "campaigns": 1
+        },
+        {
             "make": "axn",
             "label": "Axn",
             "campaigns": 1
@@ -3236,6 +3596,11 @@
             "campaigns": 1
         },
         {
+            "make": "baldwin-filers",
+            "label": "Baldwin Filers",
+            "campaigns": 1
+        },
+        {
             "make": "battery-biz",
             "label": "Battery Biz",
             "campaigns": 1
@@ -3256,8 +3621,13 @@
             "campaigns": 1
         },
         {
-            "make": "bell",
-            "label": "Bell",
+            "make": "bell-helmets",
+            "label": "Bell Helmets",
+            "campaigns": 1
+        },
+        {
+            "make": "besi",
+            "label": "Besi",
             "campaigns": 1
         },
         {
@@ -3276,8 +3646,8 @@
             "campaigns": 1
         },
         {
-            "make": "big-tex",
-            "label": "Big Tex",
+            "make": "big-dog",
+            "label": "Big Dog",
             "campaigns": 1
         },
         {
@@ -3336,6 +3706,11 @@
             "campaigns": 1
         },
         {
+            "make": "bosch",
+            "label": "Bosch",
+            "campaigns": 1
+        },
+        {
             "make": "bravo",
             "label": "Bravo",
             "campaigns": 1
@@ -3348,6 +3723,11 @@
         {
             "make": "brenner",
             "label": "Brenner",
+            "campaigns": 1
+        },
+        {
+            "make": "bridgestone-america",
+            "label": "Bridgestone America",
             "campaigns": 1
         },
         {
@@ -3381,6 +3761,11 @@
             "campaigns": 1
         },
         {
+            "make": "buswest",
+            "label": "Buswest",
+            "campaigns": 1
+        },
+        {
             "make": "butler",
             "label": "Butler",
             "campaigns": 1
@@ -3388,6 +3773,11 @@
         {
             "make": "buyers-products",
             "label": "Buyers Products",
+            "campaigns": 1
+        },
+        {
+            "make": "c-b",
+            "label": "C B",
             "campaigns": 1
         },
         {
@@ -3441,6 +3831,11 @@
             "campaigns": 1
         },
         {
+            "make": "carlisle-brake-and-friction",
+            "label": "Carlisle Brake and Friction",
+            "campaigns": 1
+        },
+        {
             "make": "carparts-com",
             "label": "Carparts Com",
             "campaigns": 1
@@ -3461,13 +3856,23 @@
             "campaigns": 1
         },
         {
-            "make": "chamberlain",
-            "label": "Chamberlain",
+            "make": "cequent",
+            "label": "Cequent",
             "campaigns": 1
         },
         {
-            "make": "champion-bus",
-            "label": "Champion Bus",
+            "make": "cequent-performance-products",
+            "label": "Cequent Performance Products",
+            "campaigns": 1
+        },
+        {
+            "make": "challenger-door",
+            "label": "Challenger Door",
+            "campaigns": 1
+        },
+        {
+            "make": "chamberlain",
+            "label": "Chamberlain",
             "campaigns": 1
         },
         {
@@ -3488,6 +3893,11 @@
         {
             "make": "charmac-trailers",
             "label": "Charmac Trailers",
+            "campaigns": 1
+        },
+        {
+            "make": "chem-pak",
+            "label": "Chem Pak",
             "campaigns": 1
         },
         {
@@ -3526,6 +3936,21 @@
             "campaigns": 1
         },
         {
+            "make": "clore",
+            "label": "Clore",
+            "campaigns": 1
+        },
+        {
+            "make": "club-car",
+            "label": "Club Car",
+            "campaigns": 1
+        },
+        {
+            "make": "club-card",
+            "label": "Club Card",
+            "campaigns": 1
+        },
+        {
             "make": "cm",
             "label": "Cm",
             "campaigns": 1
@@ -3533,6 +3958,11 @@
         {
             "make": "cma",
             "label": "Cma",
+            "campaigns": 1
+        },
+        {
+            "make": "coach-equipment",
+            "label": "Coach Equipment",
             "campaigns": 1
         },
         {
@@ -3548,6 +3978,11 @@
         {
             "make": "columbia",
             "label": "Columbia",
+            "campaigns": 1
+        },
+        {
+            "make": "columbia-parcar",
+            "label": "Columbia Parcar",
             "campaigns": 1
         },
         {
@@ -3671,13 +4106,23 @@
             "campaigns": 1
         },
         {
-            "make": "cycle-gear",
-            "label": "Cycle Gear",
+            "make": "cvg",
+            "label": "Cvg",
+            "campaigns": 1
+        },
+        {
+            "make": "daihatsu",
+            "label": "Daihatsu",
             "campaigns": 1
         },
         {
             "make": "dalton",
             "label": "Dalton",
+            "campaigns": 1
+        },
+        {
+            "make": "damon",
+            "label": "Damon",
             "campaigns": 1
         },
         {
@@ -3711,6 +4156,11 @@
             "campaigns": 1
         },
         {
+            "make": "daytona-helmets",
+            "label": "Daytona Helmets",
+            "campaigns": 1
+        },
+        {
             "make": "dba-as-driv",
             "label": "Dba As Driv",
             "campaigns": 1
@@ -3718,6 +4168,11 @@
         {
             "make": "dba-kansas-rv-center",
             "label": "Dba Kansas Rv Center",
+            "campaigns": 1
+        },
+        {
+            "make": "dbnc",
+            "label": "Dbnc",
             "campaigns": 1
         },
         {
@@ -3741,6 +4196,11 @@
             "campaigns": 1
         },
         {
+            "make": "deere",
+            "label": "Deere",
+            "campaigns": 1
+        },
+        {
             "make": "dejana",
             "label": "Dejana",
             "campaigns": 1
@@ -3748,6 +4208,11 @@
         {
             "make": "delaware",
             "label": "Delaware",
+            "campaigns": 1
+        },
+        {
+            "make": "delphi",
+            "label": "Delphi",
             "campaigns": 1
         },
         {
@@ -3781,8 +4246,23 @@
             "campaigns": 1
         },
         {
+            "make": "dimplex",
+            "label": "Dimplex",
+            "campaigns": 1
+        },
+        {
             "make": "diode",
             "label": "Diode",
+            "campaigns": 1
+        },
+        {
+            "make": "directed",
+            "label": "Directed",
+            "campaigns": 1
+        },
+        {
+            "make": "djg",
+            "label": "Djg",
             "campaigns": 1
         },
         {
@@ -3808,6 +4288,11 @@
         {
             "make": "double-r",
             "label": "Double R",
+            "campaigns": 1
+        },
+        {
+            "make": "driving-specialties",
+            "label": "Driving Specialties",
             "campaigns": 1
         },
         {
@@ -3841,6 +4326,11 @@
             "campaigns": 1
         },
         {
+            "make": "dynamax",
+            "label": "Dynamax",
+            "campaigns": 1
+        },
+        {
             "make": "e-one-incorporated",
             "label": "E One Incorporated",
             "campaigns": 1
@@ -3848,6 +4338,11 @@
         {
             "make": "e-ride",
             "label": "E Ride",
+            "campaigns": 1
+        },
+        {
+            "make": "e-ton",
+            "label": "E Ton",
             "campaigns": 1
         },
         {
@@ -3896,6 +4391,11 @@
             "campaigns": 1
         },
         {
+            "make": "eclipse-recreational-vehicles",
+            "label": "Eclipse Recreational Vehicles",
+            "campaigns": 1
+        },
+        {
             "make": "ehgusa-af",
             "label": "Ehgusa Af",
             "campaigns": 1
@@ -3926,11 +4426,6 @@
             "campaigns": 1
         },
         {
-            "make": "emerson",
-            "label": "Emerson",
-            "campaigns": 1
-        },
-        {
             "make": "emmett-door",
             "label": "Emmett Door",
             "campaigns": 1
@@ -3938,6 +4433,11 @@
         {
             "make": "enc",
             "label": "Enc",
+            "campaigns": 1
+        },
+        {
+            "make": "energy-and-water-solutions",
+            "label": "Energy and Water Solutions",
             "campaigns": 1
         },
         {
@@ -3951,6 +4451,11 @@
             "campaigns": 1
         },
         {
+            "make": "evca",
+            "label": "Evca",
+            "campaigns": 1
+        },
+        {
             "make": "evject",
             "label": "Evject",
             "campaigns": 1
@@ -3958,11 +4463,6 @@
         {
             "make": "evs",
             "label": "Evs",
-            "campaigns": 1
-        },
-        {
-            "make": "executive-coach",
-            "label": "Executive Coach",
             "campaigns": 1
         },
         {
@@ -3991,6 +4491,16 @@
             "campaigns": 1
         },
         {
+            "make": "fabtech",
+            "label": "Fabtech",
+            "campaigns": 1
+        },
+        {
+            "make": "fairplay",
+            "label": "Fairplay",
+            "campaigns": 1
+        },
+        {
             "make": "falcon",
             "label": "Falcon",
             "campaigns": 1
@@ -3998,6 +4508,11 @@
         {
             "make": "farber-specialty",
             "label": "Farber Specialty",
+            "campaigns": 1
+        },
+        {
+            "make": "featherlite-trailers",
+            "label": "Featherlite Trailers",
             "campaigns": 1
         },
         {
@@ -4033,6 +4548,11 @@
         {
             "make": "ff",
             "label": "Ff",
+            "campaigns": 1
+        },
+        {
+            "make": "fic",
+            "label": "Fic",
             "campaigns": 1
         },
         {
@@ -4091,6 +4611,11 @@
             "campaigns": 1
         },
         {
+            "make": "four-winds",
+            "label": "Four Winds",
+            "campaigns": 1
+        },
+        {
             "make": "fouts",
             "label": "Fouts",
             "campaigns": 1
@@ -4101,18 +4626,13 @@
             "campaigns": 1
         },
         {
-            "make": "frontline",
-            "label": "Frontline",
+            "make": "fram",
+            "label": "Fram",
             "campaigns": 1
         },
         {
             "make": "frontrunner",
             "label": "Frontrunner",
-            "campaigns": 1
-        },
-        {
-            "make": "fuel",
-            "label": "Fuel",
             "campaigns": 1
         },
         {
@@ -4126,13 +4646,33 @@
             "campaigns": 1
         },
         {
+            "make": "fulmer",
+            "label": "Fulmer",
+            "campaigns": 1
+        },
+        {
             "make": "futura",
             "label": "Futura",
             "campaigns": 1
         },
         {
+            "make": "galaxy-helmets",
+            "label": "Galaxy Helmets",
+            "campaigns": 1
+        },
+        {
             "make": "garden-state",
             "label": "Garden State",
+            "campaigns": 1
+        },
+        {
+            "make": "garmin",
+            "label": "Garmin",
+            "campaigns": 1
+        },
+        {
+            "make": "ge",
+            "label": "Ge",
             "campaigns": 1
         },
         {
@@ -4156,6 +4696,11 @@
             "campaigns": 1
         },
         {
+            "make": "geomarc",
+            "label": "Geomarc",
+            "campaigns": 1
+        },
+        {
             "make": "ghnt",
             "label": "Ghnt",
             "campaigns": 1
@@ -4176,11 +4721,6 @@
             "campaigns": 1
         },
         {
-            "make": "glaval-bus",
-            "label": "Glaval Bus",
-            "campaigns": 1
-        },
-        {
             "make": "global",
             "label": "Global",
             "campaigns": 1
@@ -4198,11 +4738,6 @@
         {
             "make": "gratimax",
             "label": "Gratimax",
-            "campaigns": 1
-        },
-        {
-            "make": "great-lakes",
-            "label": "Great Lakes",
             "campaigns": 1
         },
         {
@@ -4233,6 +4768,11 @@
         {
             "make": "gulfstream",
             "label": "Gulfstream",
+            "campaigns": 1
+        },
+        {
+            "make": "h-a-dehart",
+            "label": "H a Dehart",
             "campaigns": 1
         },
         {
@@ -4268,6 +4808,11 @@
         {
             "make": "hatc",
             "label": "Hatc",
+            "campaigns": 1
+        },
+        {
+            "make": "haulmark",
+            "label": "Haulmark",
             "campaigns": 1
         },
         {
@@ -4321,8 +4866,18 @@
             "campaigns": 1
         },
         {
+            "make": "hispec",
+            "label": "Hispec",
+            "campaigns": 1
+        },
+        {
             "make": "hitch-hiker",
             "label": "Hitch Hiker",
+            "campaigns": 1
+        },
+        {
+            "make": "hodyon",
+            "label": "Hodyon",
             "campaigns": 1
         },
         {
@@ -4351,6 +4906,11 @@
             "campaigns": 1
         },
         {
+            "make": "htac",
+            "label": "Htac",
+            "campaigns": 1
+        },
+        {
             "make": "hws",
             "label": "Hws",
             "campaigns": 1
@@ -4371,6 +4931,11 @@
             "campaigns": 1
         },
         {
+            "make": "idle-free",
+            "label": "Idle Free",
+            "campaigns": 1
+        },
+        {
             "make": "ifp",
             "label": "Ifp",
             "campaigns": 1
@@ -4378,6 +4943,11 @@
         {
             "make": "imc",
             "label": "Imc",
+            "campaigns": 1
+        },
+        {
+            "make": "imperial-supplies-a-division-of-w-w-grainger",
+            "label": "Imperial Supplies a Division of W W Grainger",
             "campaigns": 1
         },
         {
@@ -4466,11 +5036,6 @@
             "campaigns": 1
         },
         {
-            "make": "itr",
-            "label": "Itr",
-            "campaigns": 1
-        },
-        {
             "make": "its",
             "label": "Its",
             "campaigns": 1
@@ -4496,6 +5061,11 @@
             "campaigns": 1
         },
         {
+            "make": "jag-mobile-solutions",
+            "label": "Jag Mobile Solutions",
+            "campaigns": 1
+        },
+        {
             "make": "james-a-kiley",
             "label": "James a Kiley",
             "campaigns": 1
@@ -4518,6 +5088,11 @@
         {
             "make": "jh-global",
             "label": "Jh Global",
+            "campaigns": 1
+        },
+        {
+            "make": "jl-audio",
+            "label": "Jl Audio",
             "campaigns": 1
         },
         {
@@ -4571,18 +5146,23 @@
             "campaigns": 1
         },
         {
+            "make": "kandi",
+            "label": "Kandi",
+            "campaigns": 1
+        },
+        {
             "make": "kaufman-trailers",
             "label": "Kaufman Trailers",
             "campaigns": 1
         },
         {
-            "make": "kenda",
-            "label": "Kenda",
+            "make": "kbc",
+            "label": "Kbc",
             "campaigns": 1
         },
         {
-            "make": "kenworth",
-            "label": "Kenworth",
+            "make": "kenda",
+            "label": "Kenda",
             "campaigns": 1
         },
         {
@@ -4596,13 +5176,13 @@
             "campaigns": 1
         },
         {
-            "make": "keystone-rv",
-            "label": "Keystone Rv",
+            "make": "kidde",
+            "label": "Kidde",
             "campaigns": 1
         },
         {
-            "make": "kidde",
-            "label": "Kidde",
+            "make": "kinedyne",
+            "label": "Kinedyne",
             "campaigns": 1
         },
         {
@@ -4636,6 +5216,11 @@
             "campaigns": 1
         },
         {
+            "make": "kuat-innovations",
+            "label": "Kuat Innovations",
+            "campaigns": 1
+        },
+        {
             "make": "kuat-racks",
             "label": "Kuat Racks",
             "campaigns": 1
@@ -4648,6 +5233,11 @@
         {
             "make": "kuntry-kustom",
             "label": "Kuntry Kustom",
+            "campaigns": 1
+        },
+        {
+            "make": "kwik-loc",
+            "label": "Kwik Loc",
             "campaigns": 1
         },
         {
@@ -4666,6 +5256,11 @@
             "campaigns": 1
         },
         {
+            "make": "labrie",
+            "label": "Labrie",
+            "campaigns": 1
+        },
+        {
             "make": "labrie-enviroquip",
             "label": "Labrie Enviroquip",
             "campaigns": 1
@@ -4678,6 +5273,11 @@
         {
             "make": "lazy-daze",
             "label": "Lazy Daze",
+            "campaigns": 1
+        },
+        {
+            "make": "lbce",
+            "label": "Lbce",
             "campaigns": 1
         },
         {
@@ -4761,8 +5361,18 @@
             "campaigns": 1
         },
         {
+            "make": "liquidmetal",
+            "label": "Liquidmetal",
+            "campaigns": 1
+        },
+        {
             "make": "lla",
             "label": "Lla",
+            "campaigns": 1
+        },
+        {
+            "make": "load-rite",
+            "label": "Load Rite",
             "campaigns": 1
         },
         {
@@ -4793,6 +5403,11 @@
         {
             "make": "lucon",
             "label": "Lucon",
+            "campaigns": 1
+        },
+        {
+            "make": "lund",
+            "label": "Lund",
             "campaigns": 1
         },
         {
@@ -4836,11 +5451,6 @@
             "campaigns": 1
         },
         {
-            "make": "marathon",
-            "label": "Marathon",
-            "campaigns": 1
-        },
-        {
             "make": "marathon-industries",
             "label": "Marathon Industries",
             "campaigns": 1
@@ -4856,6 +5466,11 @@
             "campaigns": 1
         },
         {
+            "make": "masterlock",
+            "label": "Masterlock",
+            "campaigns": 1
+        },
+        {
             "make": "matrix",
             "label": "Matrix",
             "campaigns": 1
@@ -4863,6 +5478,11 @@
         {
             "make": "max-trac",
             "label": "Max Trac",
+            "campaigns": 1
+        },
+        {
+            "make": "max-trac-dba-avon-motorcycle-tyres",
+            "label": "Max Trac Dba Avon Motorcycle Tyres",
             "campaigns": 1
         },
         {
@@ -4881,11 +5501,6 @@
             "campaigns": 1
         },
         {
-            "make": "maxzone",
-            "label": "Maxzone",
-            "campaigns": 1
-        },
-        {
             "make": "mcclain",
             "label": "Mcclain",
             "campaigns": 1
@@ -4901,11 +5516,6 @@
             "campaigns": 1
         },
         {
-            "make": "medtec",
-            "label": "Medtec",
-            "campaigns": 1
-        },
-        {
             "make": "mekra-lang",
             "label": "Mekra Lang",
             "campaigns": 1
@@ -4913,11 +5523,6 @@
         {
             "make": "merhow",
             "label": "Merhow",
-            "campaigns": 1
-        },
-        {
-            "make": "meritor-wabco",
-            "label": "Meritor Wabco",
             "campaigns": 1
         },
         {
@@ -4971,6 +5576,11 @@
             "campaigns": 1
         },
         {
+            "make": "miller-electric",
+            "label": "Miller Electric",
+            "campaigns": 1
+        },
+        {
             "make": "milwaukee-helmets",
             "label": "Milwaukee Helmets",
             "campaigns": 1
@@ -5006,11 +5616,6 @@
             "campaigns": 1
         },
         {
-            "make": "mobility-works",
-            "label": "Mobility Works",
-            "campaigns": 1
-        },
-        {
             "make": "mobilitytrans",
             "label": "Mobilitytrans",
             "campaigns": 1
@@ -5021,8 +5626,18 @@
             "campaigns": 1
         },
         {
+            "make": "monaco-rv",
+            "label": "Monaco Rv",
+            "campaigns": 1
+        },
+        {
             "make": "monroe-towmaster",
             "label": "Monroe Towmaster",
+            "campaigns": 1
+        },
+        {
+            "make": "motovan",
+            "label": "Motovan",
             "campaigns": 1
         },
         {
@@ -5038,6 +5653,11 @@
         {
             "make": "multiprens",
             "label": "Multiprens",
+            "campaigns": 1
+        },
+        {
+            "make": "muncie",
+            "label": "Muncie",
             "campaigns": 1
         },
         {
@@ -5106,11 +5726,6 @@
             "campaigns": 1
         },
         {
-            "make": "new-horizons",
-            "label": "New Horizons",
-            "campaigns": 1
-        },
-        {
             "make": "new-way",
             "label": "New Way",
             "campaigns": 1
@@ -5136,6 +5751,16 @@
             "campaigns": 1
         },
         {
+            "make": "nissens",
+            "label": "Nissens",
+            "campaigns": 1
+        },
+        {
+            "make": "nissin-kogyo-co",
+            "label": "Nissin Kogyo Co",
+            "campaigns": 1
+        },
+        {
             "make": "nitrous-outlet",
             "label": "Nitrous Outlet",
             "campaigns": 1
@@ -5146,6 +5771,11 @@
             "campaigns": 1
         },
         {
+            "make": "nitto-tire",
+            "label": "Nitto Tire",
+            "campaigns": 1
+        },
+        {
             "make": "nivion",
             "label": "Nivion",
             "campaigns": 1
@@ -5153,11 +5783,6 @@
         {
             "make": "nomad",
             "label": "Nomad",
-            "campaigns": 1
-        },
-        {
-            "make": "norcold",
-            "label": "Norcold",
             "campaigns": 1
         },
         {
@@ -5306,6 +5931,11 @@
             "campaigns": 1
         },
         {
+            "make": "parker-hannifin",
+            "label": "Parker Hannifin",
+            "campaigns": 1
+        },
+        {
             "make": "parker-trailer",
             "label": "Parker Trailer",
             "campaigns": 1
@@ -5343,11 +5973,6 @@
         {
             "make": "peterson",
             "label": "Peterson",
-            "campaigns": 1
-        },
-        {
-            "make": "peterson-industries",
-            "label": "Peterson Industries",
             "campaigns": 1
         },
         {
@@ -5466,8 +6091,8 @@
             "campaigns": 1
         },
         {
-            "make": "quadratec",
-            "label": "Quadratec",
+            "make": "qtp",
+            "label": "Qtp",
             "campaigns": 1
         },
         {
@@ -5551,13 +6176,13 @@
             "campaigns": 1
         },
         {
-            "make": "ridewell",
-            "label": "Ridewell",
+            "make": "ride-control",
+            "label": "Ride Control",
             "campaigns": 1
         },
         {
-            "make": "rigid-hitch",
-            "label": "Rigid Hitch",
+            "make": "ridewell",
+            "label": "Ridewell",
             "campaigns": 1
         },
         {
@@ -5601,6 +6226,11 @@
             "campaigns": 1
         },
         {
+            "make": "rogue-industries",
+            "label": "Rogue Industries",
+            "campaigns": 1
+        },
+        {
             "make": "rolls-rite-trailers",
             "label": "Rolls Rite Trailers",
             "campaigns": 1
@@ -5618,6 +6248,11 @@
         {
             "make": "rosenbauer-america",
             "label": "Rosenbauer America",
+            "campaigns": 1
+        },
+        {
+            "make": "roush-performance-products",
+            "label": "Roush Performance Products",
             "campaigns": 1
         },
         {
@@ -5656,8 +6291,8 @@
             "campaigns": 1
         },
         {
-            "make": "s-s-truck",
-            "label": "S S Truck",
+            "make": "saab",
+            "label": "Saab",
             "campaigns": 1
         },
         {
@@ -5673,6 +6308,11 @@
         {
             "make": "scentlok",
             "label": "Scentlok",
+            "campaigns": 1
+        },
+        {
+            "make": "schneider-electric",
+            "label": "Schneider Electric",
             "campaigns": 1
         },
         {
@@ -5731,6 +6371,11 @@
             "campaigns": 1
         },
         {
+            "make": "showtime-conversions",
+            "label": "Showtime Conversions",
+            "campaigns": 1
+        },
+        {
             "make": "simard",
             "label": "Simard",
             "campaigns": 1
@@ -5751,6 +6396,11 @@
             "campaigns": 1
         },
         {
+            "make": "skf",
+            "label": "Skf",
+            "campaigns": 1
+        },
+        {
             "make": "skinny-guy-camper",
             "label": "Skinny Guy Camper",
             "campaigns": 1
@@ -5758,6 +6408,11 @@
         {
             "make": "skymark-refuelers",
             "label": "Skymark Refuelers",
+            "campaigns": 1
+        },
+        {
+            "make": "sleepdogmattress",
+            "label": "Sleepdogmattress",
             "campaigns": 1
         },
         {
@@ -5781,8 +6436,18 @@
             "campaigns": 1
         },
         {
+            "make": "smi",
+            "label": "Smi",
+            "campaigns": 1
+        },
+        {
             "make": "snake-river",
             "label": "Snake River",
+            "campaigns": 1
+        },
+        {
+            "make": "snake-river-trailer",
+            "label": "Snake River Trailer",
             "campaigns": 1
         },
         {
@@ -5798,11 +6463,6 @@
         {
             "make": "southeast-apparatus",
             "label": "Southeast Apparatus",
-            "campaigns": 1
-        },
-        {
-            "make": "southeast-toyota",
-            "label": "Southeast Toyota",
             "campaigns": 1
         },
         {
@@ -5836,6 +6496,11 @@
             "campaigns": 1
         },
         {
+            "make": "speedway",
+            "label": "Speedway",
+            "campaigns": 1
+        },
+        {
             "make": "spektrum",
             "label": "Spektrum",
             "campaigns": 1
@@ -5851,13 +6516,18 @@
             "campaigns": 1
         },
         {
+            "make": "sportworks",
+            "label": "Sportworks",
+            "campaigns": 1
+        },
+        {
             "make": "sprague",
             "label": "Sprague",
             "campaigns": 1
         },
         {
-            "make": "sprinter",
-            "label": "Sprinter",
+            "make": "stacraft",
+            "label": "Stacraft",
             "campaigns": 1
         },
         {
@@ -5911,6 +6581,11 @@
             "campaigns": 1
         },
         {
+            "make": "stoneridge",
+            "label": "Stoneridge",
+            "campaigns": 1
+        },
+        {
             "make": "stoughton-trailers",
             "label": "Stoughton Trailers",
             "campaigns": 1
@@ -5956,8 +6631,8 @@
             "campaigns": 1
         },
         {
-            "make": "sunright",
-            "label": "Sunright",
+            "make": "sunright-international-of-america-dba-rodia",
+            "label": "Sunright International of America Dba Rodia",
             "campaigns": 1
         },
         {
@@ -5976,8 +6651,28 @@
             "campaigns": 1
         },
         {
+            "make": "super-seer",
+            "label": "Super Seer",
+            "campaigns": 1
+        },
+        {
             "make": "super-test",
             "label": "Super Test",
+            "campaigns": 1
+        },
+        {
+            "make": "superior-coach",
+            "label": "Superior Coach",
+            "campaigns": 1
+        },
+        {
+            "make": "sure-power",
+            "label": "Sure Power",
+            "campaigns": 1
+        },
+        {
+            "make": "sutrak",
+            "label": "Sutrak",
             "campaigns": 1
         },
         {
@@ -5993,6 +6688,11 @@
         {
             "make": "syncro",
             "label": "Syncro",
+            "campaigns": 1
+        },
+        {
+            "make": "t-e",
+            "label": "T E",
             "campaigns": 1
         },
         {
@@ -6051,6 +6751,11 @@
             "campaigns": 1
         },
         {
+            "make": "techworks",
+            "label": "Techworks",
+            "campaigns": 1
+        },
+        {
             "make": "teko",
             "label": "Teko",
             "campaigns": 1
@@ -6101,8 +6806,8 @@
             "campaigns": 1
         },
         {
-            "make": "thermo-king",
-            "label": "Thermo King",
+            "make": "the-charles-machine",
+            "label": "The Charles Machine",
             "campaigns": 1
         },
         {
@@ -6121,18 +6826,8 @@
             "campaigns": 1
         },
         {
-            "make": "ti-automotive",
-            "label": "Ti Automotive",
-            "campaigns": 1
-        },
-        {
             "make": "tiffany",
             "label": "Tiffany",
-            "campaigns": 1
-        },
-        {
-            "make": "tiffin-motorhomes",
-            "label": "Tiffin Motorhomes",
             "campaigns": 1
         },
         {
@@ -6176,8 +6871,18 @@
             "campaigns": 1
         },
         {
+            "make": "tnt",
+            "label": "Tnt",
+            "campaigns": 1
+        },
+        {
             "make": "tokai-rika",
             "label": "Tokai Rika",
+            "campaigns": 1
+        },
+        {
+            "make": "tomberlin-automotive",
+            "label": "Tomberlin Automotive",
             "campaigns": 1
         },
         {
@@ -6206,6 +6911,11 @@
             "campaigns": 1
         },
         {
+            "make": "toyo-tire-holdings-of-americas",
+            "label": "Toyo Tire Holdings of Americas",
+            "campaigns": 1
+        },
+        {
             "make": "trailers",
             "label": "Trailers",
             "campaigns": 1
@@ -6213,6 +6923,11 @@
         {
             "make": "trailex",
             "label": "Trailex",
+            "campaigns": 1
+        },
+        {
+            "make": "trailmanor",
+            "label": "Trailmanor",
             "campaigns": 1
         },
         {
@@ -6246,6 +6961,16 @@
             "campaigns": 1
         },
         {
+            "make": "travel-units",
+            "label": "Travel Units",
+            "campaigns": 1
+        },
+        {
+            "make": "tredit-tire-wheel",
+            "label": "Tredit Tire Wheel",
+            "campaigns": 1
+        },
+        {
             "make": "tremcar",
             "label": "Tremcar",
             "campaigns": 1
@@ -6253,11 +6978,6 @@
         {
             "make": "triad",
             "label": "Triad",
-            "campaigns": 1
-        },
-        {
-            "make": "triple-e-rv",
-            "label": "Triple E Rv",
             "campaigns": 1
         },
         {
@@ -6291,8 +7011,18 @@
             "campaigns": 1
         },
         {
+            "make": "tucker-rocky-distribution",
+            "label": "Tucker Rocky Distribution",
+            "campaigns": 1
+        },
+        {
             "make": "tuff-trailer",
             "label": "Tuff Trailer",
+            "campaigns": 1
+        },
+        {
+            "make": "u-s-drive-right",
+            "label": "U S Drive Right",
             "campaigns": 1
         },
         {
@@ -6306,8 +7036,18 @@
             "campaigns": 1
         },
         {
+            "make": "uci-fram",
+            "label": "Uci Fram",
+            "campaigns": 1
+        },
+        {
             "make": "ud",
             "label": "Ud",
+            "campaigns": 1
+        },
+        {
+            "make": "ufi-filters",
+            "label": "Ufi Filters",
             "campaigns": 1
         },
         {
@@ -6326,6 +7066,11 @@
             "campaigns": 1
         },
         {
+            "make": "united-specialties",
+            "label": "United Specialties",
+            "campaigns": 1
+        },
+        {
             "make": "universal-trailer",
             "label": "Universal Trailer",
             "campaigns": 1
@@ -6338,6 +7083,11 @@
         {
             "make": "usk",
             "label": "Usk",
+            "campaigns": 1
+        },
+        {
+            "make": "usv",
+            "label": "Usv",
             "campaigns": 1
         },
         {
@@ -6396,8 +7146,8 @@
             "campaigns": 1
         },
         {
-            "make": "vision-wheel",
-            "label": "Vision Wheel",
+            "make": "vision-wheels",
+            "label": "Vision Wheels",
             "campaigns": 1
         },
         {
@@ -6521,6 +7271,11 @@
             "campaigns": 1
         },
         {
+            "make": "westport",
+            "label": "Westport",
+            "campaigns": 1
+        },
+        {
             "make": "westward",
             "label": "Westward",
             "campaigns": 1
@@ -6536,6 +7291,11 @@
             "campaigns": 1
         },
         {
+            "make": "wheego",
+            "label": "Wheego",
+            "campaigns": 1
+        },
+        {
             "make": "wheel-pros",
             "label": "Wheel Pros",
             "campaigns": 1
@@ -6543,6 +7303,11 @@
         {
             "make": "whelen",
             "label": "Whelen",
+            "campaigns": 1
+        },
+        {
+            "make": "wildcat",
+            "label": "Wildcat",
             "campaigns": 1
         },
         {
@@ -6576,11 +7341,6 @@
             "campaigns": 1
         },
         {
-            "make": "workhorse",
-            "label": "Workhorse",
-            "campaigns": 1
-        },
-        {
             "make": "worldwide",
             "label": "Worldwide",
             "campaigns": 1
@@ -6591,13 +7351,13 @@
             "campaigns": 1
         },
         {
-            "make": "xtreme",
-            "label": "Xtreme",
+            "make": "xingyue",
+            "label": "Xingyue",
             "campaigns": 1
         },
         {
-            "make": "yakima",
-            "label": "Yakima",
+            "make": "xtreme",
+            "label": "Xtreme",
             "campaigns": 1
         },
         {
@@ -6633,6 +7393,11 @@
         {
             "make": "zhaoquing",
             "label": "Zhaoquing",
+            "campaigns": 1
+        },
+        {
+            "make": "zhejiang",
+            "label": "Zhejiang",
             "campaigns": 1
         },
         {
