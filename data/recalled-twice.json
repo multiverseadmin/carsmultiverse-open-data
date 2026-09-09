@@ -3,8 +3,8 @@
     "title": "The same part, recalled again and again",
     "what": "Every model-and-part combination with more than one separate recall campaign against it in the United States. One row per combination.",
     "rows": 468,
-    "last_built": "2026-09-08T02:50:28+00:00",
-    "downloaded": "2026-09-08T03:47:40+00:00",
+    "last_built": "2026-09-09T02:50:12+00:00",
+    "downloaded": "2026-09-09T03:47:34+00:00",
     "source": "NHTSA, FLAT_RCL_POST_2010 bulk file, read in full",
     "page": "https://carsmultiverse.com/recalled-twice/",
     "licence": "CC BY 4.0",
@@ -101,22 +101,6 @@
             ]
         },
         {
-            "make": "FORD",
-            "model": "EXPLORER",
-            "component": "BACK OVER PREVENTION:SOFTWARE",
-            "times": 6,
-            "first_seen": "21V735000",
-            "last_seen": "26V165000",
-            "campaigns": [
-                "21V735000",
-                "24V801000",
-                "25V159000",
-                "25V442000",
-                "26V123000",
-                "26V165000"
-            ]
-        },
-        {
             "make": "PORSCHE",
             "model": "TAYCAN",
             "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
@@ -130,6 +114,21 @@
                 "24V217000",
                 "24V731000",
                 "24V732000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "EXPLORER",
+            "component": "BACK OVER PREVENTION:SOFTWARE",
+            "times": 5,
+            "first_seen": "21V735000",
+            "last_seen": "26V123000",
+            "campaigns": [
+                "21V735000",
+                "24V801000",
+                "25V159000",
+                "25V442000",
+                "26V123000"
             ]
         },
         {
@@ -490,6 +489,20 @@
             ]
         },
         {
+            "make": "TESLA",
+            "model": "MODEL S",
+            "component": "ELECTRICAL SYSTEM:SOFTWARE",
+            "times": 4,
+            "first_seen": "22V050000",
+            "last_seen": "24V554000",
+            "campaigns": [
+                "22V050000",
+                "23V862000",
+                "24V153000",
+                "24V554000"
+            ]
+        },
+        {
             "make": "TOYOTA",
             "model": "RAV4",
             "component": "EQUIPMENT:OTHER:LABELS",
@@ -566,19 +579,6 @@
                 "22V541000",
                 "23V295000",
                 "25V470000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "X3",
-            "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
-            "times": 3,
-            "first_seen": "17V719000",
-            "last_seen": "20V152000",
-            "campaigns": [
-                "17V719000",
-                "19V291000",
-                "20V152000"
             ]
         },
         {
@@ -1155,32 +1155,6 @@
         },
         {
             "make": "TESLA",
-            "model": "MODEL S",
-            "component": "FORWARD COLLISION AVOIDANCE: WARNINGS:EXTERNAL/PEDESTRIAN ALERT",
-            "times": 3,
-            "first_seen": "22V063000",
-            "last_seen": "24V153000",
-            "campaigns": [
-                "22V063000",
-                "22V235000",
-                "24V153000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL S",
-            "component": "ELECTRICAL SYSTEM:SOFTWARE",
-            "times": 3,
-            "first_seen": "22V050000",
-            "last_seen": "24V554000",
-            "campaigns": [
-                "22V050000",
-                "23V862000",
-                "24V554000"
-            ]
-        },
-        {
-            "make": "TESLA",
             "model": "MODEL X",
             "component": "SEATS:MID/REAR ASSEMBLY",
             "times": 3,
@@ -1234,19 +1208,6 @@
         {
             "make": "TOYOTA",
             "model": "CAMRY",
-            "component": "EQUIPMENT:OTHER:LABELS",
-            "times": 3,
-            "first_seen": "16V420000",
-            "last_seen": "19V503000",
-            "campaigns": [
-                "16V420000",
-                "19V244000",
-                "19V503000"
-            ]
-        },
-        {
-            "make": "TOYOTA",
-            "model": "CAMRY",
             "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
             "times": 3,
             "first_seen": "16V215000",
@@ -1255,6 +1216,19 @@
                 "16V215000",
                 "19V567000",
                 "23V865000"
+            ]
+        },
+        {
+            "make": "TOYOTA",
+            "model": "CAMRY",
+            "component": "EQUIPMENT:OTHER:LABELS",
+            "times": 3,
+            "first_seen": "16V420000",
+            "last_seen": "19V503000",
+            "campaigns": [
+                "16V420000",
+                "19V244000",
+                "19V503000"
             ]
         },
         {
@@ -1617,6 +1591,18 @@
         },
         {
             "make": "BMW",
+            "model": "I3",
+            "component": "HYBRID PROPULSION SYSTEM",
+            "times": 2,
+            "first_seen": "19V310000",
+            "last_seen": "19V599000",
+            "campaigns": [
+                "19V310000",
+                "19V599000"
+            ]
+        },
+        {
+            "make": "BMW",
             "model": "I7",
             "component": "ELECTRICAL SYSTEM",
             "times": 2,
@@ -1678,18 +1664,6 @@
         {
             "make": "BMW",
             "model": "M5",
-            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
-            "times": 2,
-            "first_seen": "19V684000",
-            "last_seen": "20V598000",
-            "campaigns": [
-                "19V684000",
-                "20V598000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "M5",
             "component": "ELECTRICAL SYSTEM:WIRING",
             "times": 2,
             "first_seen": "19V883000",
@@ -1697,6 +1671,18 @@
             "campaigns": [
                 "19V883000",
                 "26V096000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "M5",
+            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+            "times": 2,
+            "first_seen": "19V684000",
+            "last_seen": "20V598000",
+            "campaigns": [
+                "19V684000",
+                "20V598000"
             ]
         },
         {
@@ -1750,6 +1736,18 @@
         {
             "make": "BMW",
             "model": "X3",
+            "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+            "times": 2,
+            "first_seen": "17V719000",
+            "last_seen": "20V152000",
+            "campaigns": [
+                "17V719000",
+                "20V152000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "X3",
             "component": "SEATS",
             "times": 2,
             "first_seen": "19V563000",
@@ -1798,13 +1796,13 @@
         {
             "make": "BMW",
             "model": "X4",
-            "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+            "component": "STEERING",
             "times": 2,
-            "first_seen": "19V291000",
-            "last_seen": "20V152000",
+            "first_seen": "19V678000",
+            "last_seen": "23V770000",
             "campaigns": [
-                "19V291000",
-                "20V152000"
+                "19V678000",
+                "23V770000"
             ]
         },
         {
@@ -1834,18 +1832,6 @@
         {
             "make": "BMW",
             "model": "X5",
-            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
-            "times": 2,
-            "first_seen": "20V490000",
-            "last_seen": "20V601000",
-            "campaigns": [
-                "20V490000",
-                "20V601000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "X5",
             "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
             "times": 2,
             "first_seen": "20V465000",
@@ -1853,6 +1839,18 @@
             "campaigns": [
                 "20V465000",
                 "25V644000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "X5",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+            "times": 2,
+            "first_seen": "20V490000",
+            "last_seen": "20V601000",
+            "campaigns": [
+                "20V490000",
+                "20V601000"
             ]
         },
         {
@@ -1930,18 +1928,6 @@
         {
             "make": "BMW",
             "model": "X7",
-            "component": "EXTERIOR LIGHTING",
-            "times": 2,
-            "first_seen": "20V052000",
-            "last_seen": "22V725000",
-            "campaigns": [
-                "20V052000",
-                "22V725000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "X7",
             "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
             "times": 2,
             "first_seen": "20V465000",
@@ -1949,6 +1935,18 @@
             "campaigns": [
                 "20V465000",
                 "25V644000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "X7",
+            "component": "EXTERIOR LIGHTING",
+            "times": 2,
+            "first_seen": "20V052000",
+            "last_seen": "22V725000",
+            "campaigns": [
+                "20V052000",
+                "22V725000"
             ]
         },
         {
@@ -2084,30 +2082,6 @@
             ]
         },
         {
-            "make": "CADILLAC",
-            "model": "ESCALADE",
-            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY",
-            "times": 2,
-            "first_seen": "24V797000",
-            "last_seen": "26V085000",
-            "campaigns": [
-                "24V797000",
-                "26V085000"
-            ]
-        },
-        {
-            "make": "CAN-AM",
-            "model": "RYKER",
-            "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
-            "times": 2,
-            "first_seen": "19V683000",
-            "last_seen": "20V632000",
-            "campaigns": [
-                "19V683000",
-                "20V632000"
-            ]
-        },
-        {
             "make": "CHEVROLET",
             "model": "CAMARO",
             "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
@@ -2205,18 +2179,6 @@
         },
         {
             "make": "CHEVROLET",
-            "model": "SUBURBAN",
-            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY",
-            "times": 2,
-            "first_seen": "24V797000",
-            "last_seen": "26V085000",
-            "campaigns": [
-                "24V797000",
-                "26V085000"
-            ]
-        },
-        {
-            "make": "CHEVROLET",
             "model": "TAHOE",
             "component": "SEAT BELTS:PRETENSIONER",
             "times": 2,
@@ -2289,14 +2251,14 @@
         },
         {
             "make": "CHEVROLET",
-            "model": "TAHOE",
-            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY",
+            "model": "TRAX",
+            "component": "ELECTRICAL SYSTEM:SOFTWARE",
             "times": 2,
-            "first_seen": "24V797000",
-            "last_seen": "26V085000",
+            "first_seen": "16V257000",
+            "last_seen": "16V422000",
             "campaigns": [
-                "24V797000",
-                "26V085000"
+                "16V257000",
+                "16V422000"
             ]
         },
         {
@@ -2309,18 +2271,6 @@
             "campaigns": [
                 "16V651000",
                 "17V437000"
-            ]
-        },
-        {
-            "make": "CHEVROLET",
-            "model": "TRAX",
-            "component": "ELECTRICAL SYSTEM:SOFTWARE",
-            "times": 2,
-            "first_seen": "16V257000",
-            "last_seen": "16V422000",
-            "campaigns": [
-                "16V257000",
-                "16V422000"
             ]
         },
         {
@@ -2386,18 +2336,6 @@
         {
             "make": "CHRYSLER",
             "model": "PACIFICA",
-            "component": "EQUIPMENT ADAPTIVE/MOBILITY:WHEELCHAIR RESTRAINTS/SECUREMENT:LATCH/ANCHOR:",
-            "times": 2,
-            "first_seen": "25V876000",
-            "last_seen": "25V877000",
-            "campaigns": [
-                "25V876000",
-                "25V877000"
-            ]
-        },
-        {
-            "make": "CHRYSLER",
-            "model": "PACIFICA",
             "component": "EQUIPMENT:APPLIANCE:TV/RADIO/SPEAKERS",
             "times": 2,
             "first_seen": "25V388000",
@@ -2405,6 +2343,18 @@
             "campaigns": [
                 "25V388000",
                 "25V471000"
+            ]
+        },
+        {
+            "make": "CHRYSLER",
+            "model": "PACIFICA",
+            "component": "EQUIPMENT ADAPTIVE/MOBILITY:WHEELCHAIR RESTRAINTS/SECUREMENT:LATCH/ANCHOR:",
+            "times": 2,
+            "first_seen": "25V876000",
+            "last_seen": "25V877000",
+            "campaigns": [
+                "25V876000",
+                "25V877000"
             ]
         },
         {
@@ -2494,18 +2444,6 @@
         {
             "make": "DUCATI",
             "model": "PANIGALE V4",
-            "component": "ENGINE AND ENGINE COOLING:ENGINE",
-            "times": 2,
-            "first_seen": "18V834000",
-            "last_seen": "18V854000",
-            "campaigns": [
-                "18V834000",
-                "18V854000"
-            ]
-        },
-        {
-            "make": "DUCATI",
-            "model": "PANIGALE V4",
             "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:FILLER PIPE AND CAP",
             "times": 2,
             "first_seen": "18V238000",
@@ -2513,6 +2451,18 @@
             "campaigns": [
                 "18V238000",
                 "19V382000"
+            ]
+        },
+        {
+            "make": "DUCATI",
+            "model": "PANIGALE V4",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE",
+            "times": 2,
+            "first_seen": "18V834000",
+            "last_seen": "18V854000",
+            "campaigns": [
+                "18V834000",
+                "18V854000"
             ]
         },
         {
@@ -2818,6 +2768,18 @@
         {
             "make": "FORD",
             "model": "F-150",
+            "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+            "times": 2,
+            "first_seen": "22V250000",
+            "last_seen": "23V163000",
+            "campaigns": [
+                "22V250000",
+                "23V163000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "F-150",
             "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
             "times": 2,
             "first_seen": "22V142000",
@@ -2837,18 +2799,6 @@
             "campaigns": [
                 "22V193000",
                 "25V132000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "F-150",
-            "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
-            "times": 2,
-            "first_seen": "22V250000",
-            "last_seen": "23V163000",
-            "campaigns": [
-                "22V250000",
-                "23V163000"
             ]
         },
         {
@@ -2878,6 +2828,18 @@
         {
             "make": "FORD",
             "model": "F-150",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION",
+            "times": 2,
+            "first_seen": "24V851000",
+            "last_seen": "25V198000",
+            "campaigns": [
+                "24V851000",
+                "25V198000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "F-150",
             "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
             "times": 2,
             "first_seen": "24V635000",
@@ -2902,13 +2864,13 @@
         {
             "make": "FORD",
             "model": "F-150",
-            "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION",
+            "component": "STEERING",
             "times": 2,
-            "first_seen": "24V851000",
-            "last_seen": "25V198000",
+            "first_seen": "25V022000",
+            "last_seen": "25V309000",
             "campaigns": [
-                "24V851000",
-                "25V198000"
+                "25V022000",
+                "25V309000"
             ]
         },
         {
@@ -2921,18 +2883,6 @@
             "campaigns": [
                 "25V315000",
                 "25V442000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "F-150",
-            "component": "STEERING",
-            "times": 2,
-            "first_seen": "25V022000",
-            "last_seen": "25V309000",
-            "campaigns": [
-                "25V022000",
-                "25V309000"
             ]
         },
         {
@@ -3070,18 +3020,6 @@
         {
             "make": "FORD",
             "model": "RANGER",
-            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
-            "times": 2,
-            "first_seen": "22V685000",
-            "last_seen": "24V848000",
-            "campaigns": [
-                "22V685000",
-                "24V848000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "RANGER",
             "component": "VISIBILITY:WINDSHIELD",
             "times": 2,
             "first_seen": "22V451000",
@@ -3094,13 +3032,13 @@
         {
             "make": "FORD",
             "model": "RANGER",
-            "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
             "times": 2,
-            "first_seen": "24V597000",
-            "last_seen": "25V237000",
+            "first_seen": "22V685000",
+            "last_seen": "24V848000",
             "campaigns": [
-                "24V597000",
-                "25V237000"
+                "22V685000",
+                "24V848000"
             ]
         },
         {
@@ -3118,13 +3056,13 @@
         {
             "make": "FORD",
             "model": "RANGER",
-            "component": "BACK OVER PREVENTION:SOFTWARE",
+            "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
             "times": 2,
-            "first_seen": "25V315000",
-            "last_seen": "25V442000",
+            "first_seen": "24V597000",
+            "last_seen": "25V237000",
             "campaigns": [
-                "25V315000",
-                "25V442000"
+                "24V597000",
+                "25V237000"
             ]
         },
         {
@@ -3137,6 +3075,18 @@
             "campaigns": [
                 "25V311000",
                 "26V268000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "RANGER",
+            "component": "BACK OVER PREVENTION:SOFTWARE",
+            "times": 2,
+            "first_seen": "25V315000",
+            "last_seen": "25V442000",
+            "campaigns": [
+                "25V315000",
+                "25V442000"
             ]
         },
         {
@@ -3682,18 +3632,6 @@
         {
             "make": "HYUNDAI",
             "model": "ELANTRA",
-            "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
-            "times": 2,
-            "first_seen": "16V956000",
-            "last_seen": "26V307000",
-            "campaigns": [
-                "16V956000",
-                "26V307000"
-            ]
-        },
-        {
-            "make": "HYUNDAI",
-            "model": "ELANTRA",
             "component": "AIR BAGS:FRONTAL",
             "times": 2,
             "first_seen": "16V232000",
@@ -3701,6 +3639,18 @@
             "campaigns": [
                 "16V232000",
                 "22V632000"
+            ]
+        },
+        {
+            "make": "HYUNDAI",
+            "model": "ELANTRA",
+            "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+            "times": 2,
+            "first_seen": "16V956000",
+            "last_seen": "26V307000",
+            "campaigns": [
+                "16V956000",
+                "26V307000"
             ]
         },
         {
@@ -3922,18 +3872,6 @@
         {
             "make": "JEEP",
             "model": "GRAND CHEROKEE",
-            "component": "EXTERIOR LIGHTING:HEADLIGHTS",
-            "times": 2,
-            "first_seen": "21V797000",
-            "last_seen": "24V130000",
-            "campaigns": [
-                "21V797000",
-                "24V130000"
-            ]
-        },
-        {
-            "make": "JEEP",
-            "model": "GRAND CHEROKEE",
             "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE:SOFTWARE",
             "times": 2,
             "first_seen": "21V873000",
@@ -3941,6 +3879,18 @@
             "campaigns": [
                 "21V873000",
                 "26V328000"
+            ]
+        },
+        {
+            "make": "JEEP",
+            "model": "GRAND CHEROKEE",
+            "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+            "times": 2,
+            "first_seen": "21V797000",
+            "last_seen": "24V130000",
+            "campaigns": [
+                "21V797000",
+                "24V130000"
             ]
         },
         {
@@ -4018,18 +3968,6 @@
         {
             "make": "JEEP",
             "model": "WRANGLER",
-            "component": "STEERING",
-            "times": 2,
-            "first_seen": "18V343000",
-            "last_seen": "19V201000",
-            "campaigns": [
-                "18V343000",
-                "19V201000"
-            ]
-        },
-        {
-            "make": "JEEP",
-            "model": "WRANGLER",
             "component": "STRUCTURE:FRAME AND MEMBERS",
             "times": 2,
             "first_seen": "18V675000",
@@ -4042,13 +3980,13 @@
         {
             "make": "JEEP",
             "model": "WRANGLER",
-            "component": "ENGINE",
+            "component": "STEERING",
             "times": 2,
-            "first_seen": "22V767000",
-            "last_seen": "22V865000",
+            "first_seen": "18V343000",
+            "last_seen": "19V201000",
             "campaigns": [
-                "22V767000",
-                "22V865000"
+                "18V343000",
+                "19V201000"
             ]
         },
         {
@@ -4061,6 +3999,18 @@
             "campaigns": [
                 "22V326000",
                 "24V871000"
+            ]
+        },
+        {
+            "make": "JEEP",
+            "model": "WRANGLER",
+            "component": "ENGINE",
+            "times": 2,
+            "first_seen": "22V767000",
+            "last_seen": "22V865000",
+            "campaigns": [
+                "22V767000",
+                "22V865000"
             ]
         },
         {
@@ -4354,13 +4304,13 @@
         {
             "make": "MASERATI",
             "model": "QUATTROPORTE",
-            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:PRESSURE SENSOR",
             "times": 2,
-            "first_seen": "17V834000",
-            "last_seen": "21V872000",
+            "first_seen": "21V872000",
+            "last_seen": "24V269000",
             "campaigns": [
-                "17V834000",
-                "21V872000"
+                "21V872000",
+                "24V269000"
             ]
         },
         {
@@ -4378,18 +4328,6 @@
         {
             "make": "MERCEDES-BENZ",
             "model": "AMG GT",
-            "component": "COMMUNICATION",
-            "times": 2,
-            "first_seen": "19V787000",
-            "last_seen": "20V227000",
-            "campaigns": [
-                "19V787000",
-                "20V227000"
-            ]
-        },
-        {
-            "make": "MERCEDES-BENZ",
-            "model": "AMG GT",
             "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
             "times": 2,
             "first_seen": "19V457000",
@@ -4397,6 +4335,18 @@
             "campaigns": [
                 "19V457000",
                 "21V478000"
+            ]
+        },
+        {
+            "make": "MERCEDES-BENZ",
+            "model": "AMG GT",
+            "component": "COMMUNICATION",
+            "times": 2,
+            "first_seen": "19V787000",
+            "last_seen": "20V227000",
+            "campaigns": [
+                "19V787000",
+                "20V227000"
             ]
         },
         {
@@ -4474,18 +4424,6 @@
         {
             "make": "MITSUBISHI",
             "model": "OUTLANDER",
-            "component": "BACK OVER PREVENTION:SOFTWARE",
-            "times": 2,
-            "first_seen": "25V369000",
-            "last_seen": "26V549000",
-            "campaigns": [
-                "25V369000",
-                "26V549000"
-            ]
-        },
-        {
-            "make": "MITSUBISHI",
-            "model": "OUTLANDER",
             "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE:SUPPORT DEVICE/STRUT",
             "times": 2,
             "first_seen": "25V507000",
@@ -4493,6 +4431,18 @@
             "campaigns": [
                 "25V507000",
                 "26V252000"
+            ]
+        },
+        {
+            "make": "MITSUBISHI",
+            "model": "OUTLANDER",
+            "component": "BACK OVER PREVENTION:SOFTWARE",
+            "times": 2,
+            "first_seen": "25V369000",
+            "last_seen": "26V549000",
+            "campaigns": [
+                "25V369000",
+                "26V549000"
             ]
         },
         {
@@ -4505,6 +4455,30 @@
             "campaigns": [
                 "23V657000",
                 "24V560000"
+            ]
+        },
+        {
+            "make": "NISSAN",
+            "model": "LEAF",
+            "component": "EQUIPMENT:OTHER:OWNERS/SERVICE/OTHER MANUAL",
+            "times": 2,
+            "first_seen": "23V048000",
+            "last_seen": "23V296000",
+            "campaigns": [
+                "23V048000",
+                "23V296000"
+            ]
+        },
+        {
+            "make": "NISSAN",
+            "model": "LEAF",
+            "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:CHARGING:MODULE:SOFTWARE",
+            "times": 2,
+            "first_seen": "24V700000",
+            "last_seen": "25V655000",
+            "campaigns": [
+                "24V700000",
+                "25V655000"
             ]
         },
         {
@@ -4589,6 +4563,18 @@
             "campaigns": [
                 "25V280000",
                 "25V615000"
+            ]
+        },
+        {
+            "make": "PORSCHE",
+            "model": "911",
+            "component": "VISIBILITY:WINDSHIELD",
+            "times": 2,
+            "first_seen": "17V135000",
+            "last_seen": "24V155000",
+            "campaigns": [
+                "17V135000",
+                "24V155000"
             ]
         },
         {
@@ -4798,6 +4784,30 @@
         {
             "make": "TESLA",
             "model": "MODEL 3",
+            "component": "SUSPENSION:CRITICAL FASTENERS",
+            "times": 2,
+            "first_seen": "21V835000",
+            "last_seen": "23V235000",
+            "campaigns": [
+                "21V835000",
+                "23V235000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL 3",
+            "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+            "times": 2,
+            "first_seen": "22V263000",
+            "last_seen": "24V051000",
+            "campaigns": [
+                "22V263000",
+                "24V051000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL 3",
             "component": "STEERING:AUTOMATED/ADAPTIVE STEERING",
             "times": 2,
             "first_seen": "22V037000",
@@ -4817,18 +4827,6 @@
             "campaigns": [
                 "22V050000",
                 "24V554000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL 3",
-            "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
-            "times": 2,
-            "first_seen": "22V263000",
-            "last_seen": "24V051000",
-            "campaigns": [
-                "22V263000",
-                "24V051000"
             ]
         },
         {
@@ -4858,18 +4856,6 @@
         {
             "make": "TESLA",
             "model": "MODEL S",
-            "component": "AIR BAGS:FRONTAL:DRIVER SIDE:CUSHION",
-            "times": 2,
-            "first_seen": "21V868000",
-            "last_seen": "24V967000",
-            "campaigns": [
-                "21V868000",
-                "24V967000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL S",
             "component": "FORWARD COLLISION AVOIDANCE: SENSING SYSTEM: CAMERA",
             "times": 2,
             "first_seen": "21V846000",
@@ -4882,6 +4868,18 @@
         {
             "make": "TESLA",
             "model": "MODEL S",
+            "component": "AIR BAGS:FRONTAL:DRIVER SIDE:CUSHION",
+            "times": 2,
+            "first_seen": "21V868000",
+            "last_seen": "24V967000",
+            "campaigns": [
+                "21V868000",
+                "24V967000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL S",
             "component": "STEERING:AUTOMATED/ADAPTIVE STEERING",
             "times": 2,
             "first_seen": "22V037000",
@@ -4889,6 +4887,18 @@
             "campaigns": [
                 "22V037000",
                 "23V085000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL S",
+            "component": "FORWARD COLLISION AVOIDANCE: WARNINGS:EXTERNAL/PEDESTRIAN ALERT",
+            "times": 2,
+            "first_seen": "22V063000",
+            "last_seen": "22V235000",
+            "campaigns": [
+                "22V063000",
+                "22V235000"
             ]
         },
         {
@@ -4913,18 +4923,6 @@
             "campaigns": [
                 "25V002000",
                 "26V283000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL X",
-            "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
-            "times": 2,
-            "first_seen": "20V062000",
-            "last_seen": "22V818000",
-            "campaigns": [
-                "20V062000",
-                "22V818000"
             ]
         },
         {
@@ -4942,13 +4940,13 @@
         {
             "make": "TESLA",
             "model": "MODEL X",
-            "component": "AIR BAGS:FRONTAL:DRIVER SIDE:CUSHION",
+            "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
             "times": 2,
-            "first_seen": "21V868000",
-            "last_seen": "24V967000",
+            "first_seen": "20V062000",
+            "last_seen": "22V818000",
             "campaigns": [
-                "21V868000",
-                "24V967000"
+                "20V062000",
+                "22V818000"
             ]
         },
         {
@@ -4961,6 +4959,18 @@
             "campaigns": [
                 "21V846000",
                 "23V489000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL X",
+            "component": "AIR BAGS",
+            "times": 2,
+            "first_seen": "21V868000",
+            "last_seen": "25V172000",
+            "campaigns": [
+                "21V868000",
+                "25V172000"
             ]
         },
         {
@@ -4997,6 +5007,18 @@
             "campaigns": [
                 "25V002000",
                 "26V283000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL Y",
+            "component": "FORWARD COLLISION AVOIDANCE: SENSING SYSTEM: CAMERA",
+            "times": 2,
+            "first_seen": "21V846000",
+            "last_seen": "23V489000",
+            "campaigns": [
+                "21V846000",
+                "23V489000"
             ]
         },
         {
@@ -5021,18 +5043,6 @@
             "campaigns": [
                 "21V835000",
                 "22V895000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL Y",
-            "component": "FORWARD COLLISION AVOIDANCE: SENSING SYSTEM: CAMERA",
-            "times": 2,
-            "first_seen": "21V846000",
-            "last_seen": "23V489000",
-            "campaigns": [
-                "21V846000",
-                "23V489000"
             ]
         },
         {
@@ -5110,18 +5120,6 @@
         {
             "make": "TOYOTA",
             "model": "COROLLA CROSS",
-            "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
-            "times": 2,
-            "first_seen": "23V384000",
-            "last_seen": "23V864000",
-            "campaigns": [
-                "23V384000",
-                "23V864000"
-            ]
-        },
-        {
-            "make": "TOYOTA",
-            "model": "COROLLA CROSS",
             "component": "AIR BAGS:FRONTAL:DRIVER CLOCKSPRING/SPIRAL CASSETTE",
             "times": 2,
             "first_seen": "23V480000",
@@ -5129,6 +5127,18 @@
             "campaigns": [
                 "23V480000",
                 "25V040000"
+            ]
+        },
+        {
+            "make": "TOYOTA",
+            "model": "COROLLA CROSS",
+            "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+            "times": 2,
+            "first_seen": "23V384000",
+            "last_seen": "23V864000",
+            "campaigns": [
+                "23V384000",
+                "23V864000"
             ]
         },
         {
@@ -5189,18 +5199,6 @@
             "campaigns": [
                 "19V244000",
                 "24V548000"
-            ]
-        },
-        {
-            "make": "TOYOTA",
-            "model": "PRIUS",
-            "component": "ELECTRICAL SYSTEM:WIRING:SWITCHES/KNOBS/BUTTONS",
-            "times": 2,
-            "first_seen": "24V274000",
-            "last_seen": "26V049000",
-            "campaigns": [
-                "24V274000",
-                "26V049000"
             ]
         },
         {
@@ -5278,6 +5276,18 @@
         {
             "make": "VOLKSWAGEN",
             "model": "ATLAS",
+            "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+            "times": 2,
+            "first_seen": "18V284000",
+            "last_seen": "19V614000",
+            "campaigns": [
+                "18V284000",
+                "19V614000"
+            ]
+        },
+        {
+            "make": "VOLKSWAGEN",
+            "model": "ATLAS",
             "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
             "times": 2,
             "first_seen": "18V537000",
@@ -5297,18 +5307,6 @@
             "campaigns": [
                 "18V369000",
                 "18V536000"
-            ]
-        },
-        {
-            "make": "VOLKSWAGEN",
-            "model": "ATLAS",
-            "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
-            "times": 2,
-            "first_seen": "18V284000",
-            "last_seen": "19V614000",
-            "campaigns": [
-                "18V284000",
-                "19V614000"
             ]
         },
         {
@@ -5338,13 +5336,13 @@
         {
             "make": "VOLKSWAGEN",
             "model": "ATLAS",
-            "component": "UNKNOWN OR OTHER",
+            "component": "STEERING",
             "times": 2,
-            "first_seen": "20V561000",
-            "last_seen": "21V321000",
+            "first_seen": "20V712000",
+            "last_seen": "21V026000",
             "campaigns": [
-                "20V561000",
-                "21V321000"
+                "20V712000",
+                "21V026000"
             ]
         },
         {
@@ -5362,6 +5360,18 @@
         {
             "make": "VOLKSWAGEN",
             "model": "ATLAS",
+            "component": "UNKNOWN OR OTHER",
+            "times": 2,
+            "first_seen": "20V561000",
+            "last_seen": "21V321000",
+            "campaigns": [
+                "20V561000",
+                "21V321000"
+            ]
+        },
+        {
+            "make": "VOLKSWAGEN",
+            "model": "ATLAS",
             "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
             "times": 2,
             "first_seen": "20V716000",
@@ -5369,18 +5379,6 @@
             "campaigns": [
                 "20V716000",
                 "25V334000"
-            ]
-        },
-        {
-            "make": "VOLKSWAGEN",
-            "model": "ATLAS",
-            "component": "STEERING",
-            "times": 2,
-            "first_seen": "20V712000",
-            "last_seen": "21V026000",
-            "campaigns": [
-                "20V712000",
-                "21V026000"
             ]
         },
         {
