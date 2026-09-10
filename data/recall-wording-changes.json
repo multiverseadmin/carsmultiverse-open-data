@@ -2,14 +2,77 @@
     "dataset": "recall-wording-changes",
     "title": "Notices that were rewritten after they were published",
     "what": "Every American recall notice caught changing after publication, with the full text as we read it before and the full text after, and the hour of each reading.",
-    "rows": 67,
-    "last_built": "2026-09-09T03:47:43+00:00",
-    "downloaded": "2026-09-09T03:47:43+00:00",
+    "rows": 74,
+    "last_built": "2026-09-10T03:47:47+00:00",
+    "downloaded": "2026-09-10T03:47:47+00:00",
     "source": "NHTSA recalls API, re-read on a six-hour cycle",
     "page": "https://carsmultiverse.com/vehicle-recall-change-register/",
     "licence": "CC BY 4.0",
     "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
     "data": [
+        {
+            "id": "028f1fc324079178",
+            "campaign": "26V091",
+            "field": "remedy",
+            "before": "Dealers will update the battery energy control module (BECM) and hybrid powertrain control module (HPCM) software, free of charge. Owners are advised to only use \"Auto EV\" mode and will be instructed by mail to limit the maximum charge of the battery until the remedy has been completed. Interim letters, notifying owners of the safety risk, and instructions to limit the maximum charge of the battery were mailed February 26, 2026. Additional letters will be sent once the final remedy is available. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SC4. This recall expands previous recall numbers 24V954 and 25V489. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on February 18, 2026.",
+            "after": "Dealers will update the battery energy control module (BECM) and hybrid powertrain control module (HPCM) software, free of charge. Owners are advised to only use \"Auto EV\" mode and will be instructed by mail to limit the maximum charge of the battery until the remedy has been completed. Owner notification letters were mailed September 4, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SC4. This recall expands previous recall numbers 24V954 and 25V489. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on February 18, 2026.",
+            "before_read": "2026-09-09T06:04:40+00:00",
+            "after_read": "2026-09-09T12:05:29+00:00"
+        },
+        {
+            "id": "b576832375cf1e3f",
+            "campaign": "26V548",
+            "field": "remedy",
+            "before": "Dealers will inspect the engine pistons and replace the engine long block, if necessary, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed September 4, 2026. Additional letters will be sent once the remedy is available, anticipated in December 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S61. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on August 28, 2026.",
+            "after": "Dealers will inspect the engine pistons and replace the engine long block, if necessary, free of charge. Interim letters, notifying owners of the safety risk, were mailed September 3, 2026. Additional letters will be sent once the remedy is available, anticipated in December 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S61. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on August 28, 2026.",
+            "before_read": "2026-09-09T05:34:02+00:00",
+            "after_read": "2026-09-09T11:35:44+00:00"
+        },
+        {
+            "id": "5934038d36db13f8",
+            "campaign": "25V789",
+            "field": "remedy",
+            "before": "Dealers will update the battery energy control module (BECM) and hybrid powertrain control module (HPCM), free of charge. Owners are advised to only use \"Auto EV\" mode and will be instructed by mail to limit the maximum charge of the battery until the remedy has been completed. Interim letters, notifying owners of the safety risk, and instructions to limit the maximum charge of the battery were mailed December 8, 2025. Additional letters will be sent once the final remedy is available. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SC4. Vehicles in this recall were previously recalled under 24V954 and will need to have the new remedy performed. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on November 18, 2025.",
+            "after": "Dealers will update the battery energy control module (BECM) and hybrid powertrain control module (HPCM), free of charge. Owners are advised to only use \"Auto EV\" mode and will be instructed by mail to limit the maximum charge of the battery until the remedy has been completed. Owner notification letters were mailed September 4, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SC4. Vehicles in this recall were previously recalled under 24V954 and will need to have the new remedy performed. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on November 18, 2025.",
+            "before_read": "2026-09-09T04:50:44+00:00",
+            "after_read": "2026-09-09T10:50:31+00:00"
+        },
+        {
+            "id": "556f3597845685e5",
+            "campaign": "26V470",
+            "field": "remedy",
+            "before": "Dealers will disable the driver seat module (DSM) feature until parts are available. Once available, the motor will be replaced. Repairs will be performed free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 31, 2026. Additional letters will be sent once the remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S53.",
+            "after": "Dealers will disable the driver seat module (DSM) feature until parts are available. Once available, the motor will be replaced. Repairs will be performed free of charge. Owner notification letters were mailed September 3, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S53.",
+            "before_read": "2026-09-09T02:04:48+00:00",
+            "after_read": "2026-09-09T07:34:43+00:00"
+        },
+        {
+            "id": "2fd8e5c3acafb10f",
+            "campaign": "26V435",
+            "field": "remedy",
+            "before": "Wabash will repair the stirrup steps, free of charge. Owner notification letters are expected to be mailed September 4, 2026. Owners may contact Wabash customer service at 1-765-771-5404.",
+            "after": "Wabash will repair the stirrup steps, free of charge. Interim owner notification letters explaining the safety risk were mailed by September 3, 2026. Owners will receive another notice once remedy becomes available. Owners may contact Wabash customer service at 1-765-771-5404.",
+            "before_read": "2026-09-09T01:50:10+00:00",
+            "after_read": "2026-09-09T07:19:05+00:00"
+        },
+        {
+            "id": "92414b030d30c37e",
+            "campaign": "26V403",
+            "field": "remedy",
+            "before": "Dealers will inspect and repair, or replace the fender flares as necessary, free of charge. Interim letters, notifying owners of the safety risk, were mailed August 11, 2026. Additional letters will be sent once the remedy is available, anticipated in late August 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S47. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning August 7, 2026.",
+            "after": "Dealers will inspect and repair, or replace the fender flares as necessary, free of charge. Owner notification letters were mailed September 1, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S47. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning August 7, 2026.",
+            "before_read": "2026-09-09T01:34:49+00:00",
+            "after_read": "2026-09-09T07:06:02+00:00"
+        },
+        {
+            "id": "20eda7fb23d455d5",
+            "campaign": "26V340",
+            "field": "remedy",
+            "before": "Owners are advised not to drive their vehicles until the remedy is completed. Dealers will inspect and repair the front lower control arm ball joints as necessary, free of charge. Interim letters, notifying owners of the safety risk, were mailed June 4, 2026. Additional letters will be sent once the remedy is available. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S36. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on May 29, 2026.",
+            "after": "Owners are advised not to drive their vehicles until the remedy is completed. Dealers will inspect and repair the front lower control arm ball joints as necessary, free of charge.Owner notification letters were mailed September 2, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S36. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on May 29, 2026.",
+            "before_read": "2026-09-09T01:19:02+00:00",
+            "after_read": "2026-09-09T07:05:00+00:00"
+        },
         {
             "id": "83bb063a08066924",
             "campaign": "26V455",
