@@ -2,14 +2,41 @@
     "dataset": "recall-wording-changes",
     "title": "Notices that were rewritten after they were published",
     "what": "Every American recall notice caught changing after publication, with the full text as we read it before and the full text after, and the hour of each reading.",
-    "rows": 74,
-    "last_built": "2026-09-10T03:47:47+00:00",
-    "downloaded": "2026-09-10T03:47:47+00:00",
+    "rows": 77,
+    "last_built": "2026-09-11T03:47:37+00:00",
+    "downloaded": "2026-09-11T03:47:37+00:00",
     "source": "NHTSA recalls API, re-read on a six-hour cycle",
     "page": "https://carsmultiverse.com/vehicle-recall-change-register/",
     "licence": "CC BY 4.0",
     "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
     "data": [
+        {
+            "id": "23fd902b1809b8ec",
+            "campaign": "26C004",
+            "field": "remedy",
+            "before": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed August 17, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+            "after": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, were mailed September 1, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+            "before_read": "2026-09-09T10:58:55+00:00",
+            "after_read": "2026-09-10T14:03:15+00:00"
+        },
+        {
+            "id": "a64d83367d6d5c99",
+            "campaign": "26V450",
+            "field": "remedy",
+            "before": "Dealers will inspect and replace the printed circuit board as necessary, free of charge. Owner notification letters are expected to be mailed September 4, 2026. Owners may contact Winnebago customer service at 1-641-585-6939 or 1-800-537-1885. Winnebago's number for this recall is 209.",
+            "after": "Dealers will inspect and replace the printed circuit board as necessary, free of charge. Owner notification letters were mailed September 4, 2026. Owners may contact Winnebago customer service at 1-641-585-6939 or 1-800-537-1885. Winnebago's number for this recall is 209.",
+            "before_read": "2026-09-10T06:05:32+00:00",
+            "after_read": "2026-09-10T11:48:50+00:00"
+        },
+        {
+            "id": "256f969768003c90",
+            "campaign": "26V529",
+            "field": "remedy",
+            "before": "Dealers will update the body control module (BCM) software, free of charge. Owner notification letters will be mailed beginning September 3, 2026. Owners may contact Chrysler customer service at 1-800-853-1403. Chrysler's number for this recall is 77D. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov on August 20, 2026.",
+            "after": "Dealers will update the body control module (BCM) software, free of charge. Owner notification letters were mailed September 3, 2026. Owners may contact Chrysler customer service at 1-800-853-1403. Chrysler's number for this recall is 77D. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov on August 20, 2026.",
+            "before_read": "2026-09-10T04:19:02+00:00",
+            "after_read": "2026-09-10T09:50:10+00:00"
+        },
         {
             "id": "028f1fc324079178",
             "campaign": "26V091",

@@ -3,8 +3,8 @@
     "title": "The record, counted by manufacturer",
     "what": "One row per manufacturer whose recall notices we hold, with how many of its campaigns have a dated copy here. This is an index of our own holdings, not of the register.",
     "rows": 1479,
-    "last_built": "2026-09-10T03:41:17+00:00",
-    "downloaded": "2026-09-10T03:47:51+00:00",
+    "last_built": "2026-09-11T03:41:18+00:00",
+    "downloaded": "2026-09-11T03:47:40+00:00",
     "source": "Our own archive of NHTSA notices, grouped by the manufacturer named in each notice",
     "page": "https://carsmultiverse.com/recall/",
     "licence": "CC BY 4.0",
@@ -716,6 +716,11 @@
             "campaigns": 11
         },
         {
+            "make": "kibbi",
+            "label": "Renegade",
+            "campaigns": 11
+        },
+        {
             "make": "smeal",
             "label": "Smeal",
             "campaigns": 11
@@ -748,11 +753,6 @@
         {
             "make": "open-range",
             "label": "Open Range",
-            "campaigns": 10
-        },
-        {
-            "make": "kibbi",
-            "label": "Renegade",
             "campaigns": 10
         },
         {
