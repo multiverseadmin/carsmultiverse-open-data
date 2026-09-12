@@ -3,8 +3,8 @@
     "title": "How long manufacturers take to tell owners",
     "what": "One row per manufacturer: the median and ninetieth-percentile gap between a defect reaching the regulator and owners being written to, across every American recall since 2010 that carries both dates.",
     "rows": 141,
-    "last_built": "2026-09-11T03:35:57+00:00",
-    "downloaded": "2026-09-11T03:47:27+00:00",
+    "last_built": "2026-09-12T03:36:06+00:00",
+    "downloaded": "2026-09-12T03:45:52+00:00",
     "source": "NHTSA, FLAT_RCL_POST_2010 bulk file, read in full",
     "page": "https://carsmultiverse.com/how-long-before-they-tell-you/",
     "licence": "CC BY 4.0",
@@ -255,13 +255,13 @@
             "raw": "Toyota Motor Engineering & Manufacturing",
             "spellings": 1,
             "slug": "toyota-motor-engineering-manufacturing",
-            "recalls": 236,
-            "units": 51683316,
+            "recalls": 237,
+            "units": 51688724,
             "median": 55,
             "p90": 189,
             "worst": 487,
             "same_day": 0,
-            "over_30": 193,
+            "over_30": 194,
             "over_90": 54,
             "early": 2,
             "rank": 16
@@ -271,13 +271,13 @@
             "raw": "Hyundai Motor America",
             "spellings": 1,
             "slug": "hyundai-motor-america",
-            "recalls": 199,
-            "units": 17694846,
+            "recalls": 200,
+            "units": 17742633,
             "median": 55,
             "p90": 120,
             "worst": 298,
             "same_day": 2,
-            "over_30": 180,
+            "over_30": 181,
             "over_90": 42,
             "early": 1,
             "rank": 17
@@ -523,6 +523,22 @@
             "rank": 32
         },
         {
+            "mfg": "Mazda North American Operations",
+            "raw": "Mazda North American Operations",
+            "spellings": 2,
+            "slug": "mazda-north-american-operations",
+            "recalls": 95,
+            "units": 7349798,
+            "median": 50,
+            "p90": 185,
+            "worst": 714,
+            "same_day": 0,
+            "over_30": 82,
+            "over_90": 15,
+            "early": 0,
+            "rank": 33
+        },
+        {
             "mfg": "McLaren Automotive",
             "raw": "McLaren Automotive Incorporated",
             "spellings": 1,
@@ -536,7 +552,7 @@
             "over_30": 11,
             "over_90": 3,
             "early": 0,
-            "rank": 33
+            "rank": 34
         },
         {
             "mfg": "International Motors",
@@ -552,7 +568,7 @@
             "over_30": 35,
             "over_90": 5,
             "early": 0,
-            "rank": 34
+            "rank": 35
         },
         {
             "mfg": "Mercedes-Benz USA",
@@ -568,7 +584,7 @@
             "over_30": 329,
             "over_90": 79,
             "early": 0,
-            "rank": 35
+            "rank": 36
         },
         {
             "mfg": "Jaguar Land Rover North America",
@@ -584,7 +600,7 @@
             "over_30": 166,
             "over_90": 36,
             "early": 0,
-            "rank": 36
+            "rank": 37
         },
         {
             "mfg": "Corp. Micro Bird",
@@ -599,22 +615,6 @@
             "same_day": 0,
             "over_30": 78,
             "over_90": 6,
-            "early": 0,
-            "rank": 37
-        },
-        {
-            "mfg": "Mazda North American Operations",
-            "raw": "Mazda North American Operations",
-            "spellings": 2,
-            "slug": "mazda-north-american-operations",
-            "recalls": 95,
-            "units": 7349798,
-            "median": 49,
-            "p90": 185,
-            "worst": 714,
-            "same_day": 0,
-            "over_30": 82,
-            "over_90": 15,
             "early": 0,
             "rank": 38
         },
@@ -864,7 +864,7 @@
             "spellings": 2,
             "slug": "volvo-trucks-north-america",
             "recalls": 114,
-            "units": 562382,
+            "units": 562446,
             "median": 44,
             "p90": 101,
             "worst": 204,
@@ -1455,13 +1455,13 @@
             "raw": "KTM North America, Inc.",
             "spellings": 2,
             "slug": "ktm-north-america",
-            "recalls": 30,
-            "units": 104723,
+            "recalls": 31,
+            "units": 110980,
             "median": 34,
             "p90": 110,
             "worst": 419,
             "same_day": 1,
-            "over_30": 19,
+            "over_30": 20,
             "over_90": 4,
             "early": 1,
             "rank": 91

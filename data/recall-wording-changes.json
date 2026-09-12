@@ -2,14 +2,95 @@
     "dataset": "recall-wording-changes",
     "title": "Notices that were rewritten after they were published",
     "what": "Every American recall notice caught changing after publication, with the full text as we read it before and the full text after, and the hour of each reading.",
-    "rows": 77,
-    "last_built": "2026-09-11T03:47:37+00:00",
-    "downloaded": "2026-09-11T03:47:37+00:00",
+    "rows": 86,
+    "last_built": "2026-09-12T03:46:02+00:00",
+    "downloaded": "2026-09-12T03:46:02+00:00",
     "source": "NHTSA recalls API, re-read on a six-hour cycle",
     "page": "https://carsmultiverse.com/vehicle-recall-change-register/",
     "licence": "CC BY 4.0",
     "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
     "data": [
+        {
+            "id": "0751acfb609184b5",
+            "campaign": "26V495",
+            "field": "summary",
+            "before": "Chrysler (FCA US, LLC) is recalling certain 2019-2026 Ram 1500 vehicles. The second-row seat belt buckle anchors may have been improperly installed. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 210, \"Seat Belt Assembly Anchorages.\"",
+            "after": "Chrysler (FCA US, LLC) is recalling certain 2019-2026 Ram 1500 vehicles. The second-row center and left-side seat belt buckle anchors may have been improperly installed. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 210, \"Seat Belt Assembly Anchorages.\"",
+            "before_read": "2026-09-11T05:19:01+00:00",
+            "after_read": "2026-09-11T11:19:07+00:00"
+        },
+        {
+            "id": "c96ed6ee85724c8f",
+            "campaign": "26V452",
+            "field": "remedy",
+            "before": "Passengers are advised not to use the rear center seat until the recall remedy is performed. Dealers will replace the seat belt buckle assembly, free of charge. Owner notification letters are expected to be mailed September 11, 2026. Owners may contact Hyundai customer service at 1-855-371-9460. Hyundai's number for this recall is 306. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 15, 2026.",
+            "after": "Passengers are advised not to use the rear center seat until the recall remedy is performed. Dealers will replace the seat belt buckle assembly, free of charge. Owner notification letters were mailed September 2, 2026. Owners may contact Hyundai customer service at 1-855-371-9460. Hyundai's number for this recall is 306. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 15, 2026.",
+            "before_read": "2026-09-11T05:05:46+00:00",
+            "after_read": "2026-09-11T11:04:29+00:00"
+        },
+        {
+            "id": "67c72830b9bfd13d",
+            "campaign": "26V444",
+            "field": "summary",
+            "before": "Volvo Trucks North America (Volvo Trucks) is recalling certain 2026 VOLVO VHD, VNL (4), VNR (4), VN, and VAH vehicles. The steering knuckles may have been manufactured with insufficiently tightened steering arms.",
+            "after": "Volvo Trucks North America (Volvo Trucks) is recalling certain 2026 VOLVO VAH, VN, VHD, 2026-2027 VNL (4) and VNR (4) vehicles. The steering knuckles may have been manufactured with insufficiently tightened steering arms.",
+            "before_read": "2026-09-11T05:05:46+00:00",
+            "after_read": "2026-09-11T11:04:29+00:00"
+        },
+        {
+            "id": "10ee5c39588ae298",
+            "campaign": "26V443",
+            "field": "remedy",
+            "before": "Dealer will replace the rear brake caliper, free of charge. Owner notification letters are expected to be mailed September 2, 2026. Owners may contact KTM and Husqvarna customer service at 1-888-985-6090. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov July 15, 2026.",
+            "after": "Dealer will replace the rear brake caliper, free of charge. Owner notification letters were mailed August 31, 2026. Owners may contact KTM and Husqvarna customer service at 1-888-985-6090. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov July 15, 2026.",
+            "before_read": "2026-09-11T05:05:46+00:00",
+            "after_read": "2026-09-11T11:04:29+00:00"
+        },
+        {
+            "id": "425d548a36c0bd97",
+            "campaign": "26V437",
+            "field": "remedy",
+            "before": "Dealers will inspect the rear axle carrier sub-assembly code, and replace the sub-assemblies as necessary, free of charge. Owner notification letters are expected to be mailed August 23, 2026. Owners may contact Toyota's customer service at 1-800-331-4331. Toyota's numbers for this recall are 26TB13, 26TA13, 26LB08, and 26LA08.",
+            "after": "Dealers will inspect the rear axle carrier sub-assembly code, and replace the sub-assemblies as necessary, free of charge. Owner notification letters were mailed September 8, 2026. Owners may contact Toyota's customer service at 1-800-331-4331. Toyota's numbers for this recall are 26TB13, 26TA13, 26LB08, and 26LA08.",
+            "before_read": "2026-09-11T05:05:46+00:00",
+            "after_read": "2026-09-11T11:04:29+00:00"
+        },
+        {
+            "id": "3fcdf4376d68ea06",
+            "campaign": "26V425",
+            "field": "remedy",
+            "before": "Dealers will replace the rear outboard seat belt assemblies, free of charge. Interim letters, notifying owners of the safety risk, were mailed July 28, 2026. Additional letters will be sent once the remedy is available, anticipated in December 2026. Owners may contact Nissan's customer service at 800-647-7261. Nissan's number for this recall is R26A7. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 7, 2026.",
+            "after": "Dealers will replace the rear outboard seat belt assemblies, free of charge. Interim letters, notifying owners of the safety risk, were mailed July 28, 2026. Additional letters will be sent once the remedy is available, anticipated October 28, 2026. Owners may contact Nissan's customer service at 800-647-7261. Nissan's number for this recall is R26A7. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 7, 2026.",
+            "before_read": "2026-09-11T05:05:46+00:00",
+            "after_read": "2026-09-11T11:04:29+00:00"
+        },
+        {
+            "id": "28c27706fe735394",
+            "campaign": "26V290",
+            "field": "remedy",
+            "before": "The remedy is currently under development. Interim owner notification letters explaining the safety risk are expected to be mailed June 25, 2026. Additional letters will be sent once the final remedy becomes available. Owners may contact FCA customer service at 1-800-853-1403. FCA's number for this recall is 40D. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov beginning May 14, 2026.",
+            "after": "Dealers will update the Drivetrain Control Drivetrain Control Module, PTU, and Electronic Park Brake software, and replace the PTU, as necessary, free of charge. Interim owner notification letters explaining the safety risk are expected to be mailed June 25, 2026. Additional letters will be sent once the final remedy becomes available. Owners may contact FCA customer service at 1-800-853-1403. FCA's number for this recall is 40D. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov beginning May 14, 2026.",
+            "before_read": "2026-09-11T04:19:54+00:00",
+            "after_read": "2026-09-11T10:19:13+00:00"
+        },
+        {
+            "id": "f6a5dfca2bbab0c9",
+            "campaign": "26V188",
+            "field": "remedy",
+            "before": "Owners are advised to park outside and away from structures and should not charge their vehicles until the remedy is completed. Dealers will replace the battery modules or the battery, free of charge. Owner letters were mailed September 2, 2026. Owners may contact Nissan's customer service at 800-647-7261. Nissan's number for this recall is R25F1. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on March 27, 2026.",
+            "after": "Owners are advised to park outside and away from structures and should not charge their vehicles until the remedy is completed. Dealers will inspect and replace the battery modules, as necessary, free of charge. Owner letters were mailed September 2, 2026. Owners may contact Nissan's customer service at 800-647-7261. Nissan's number for this recall is R25F1. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on March 27, 2026.",
+            "before_read": "2026-09-11T04:04:35+00:00",
+            "after_read": "2026-09-11T10:05:35+00:00"
+        },
+        {
+            "id": "6ed370cad39a2f98",
+            "campaign": "26V547",
+            "field": "remedy",
+            "before": "Dealers will replace the engine compartment wiring harness ground terminals, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 31, 2026. Additional letters will be sent once the remedy is available, anticipated in March 2027. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26C40. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on August 28, 2026.",
+            "after": "Dealers will replace the engine compartment wiring harness ground terminals, free of charge. Interim letters, notifying owners of the safety risk, were mailed September 5, 2026. Additional letters will be sent once the remedy is available, anticipated in March 2027. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26C40. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on August 28, 2026.",
+            "before_read": "2026-09-11T03:20:31+00:00",
+            "after_read": "2026-09-11T09:03:50+00:00"
+        },
         {
             "id": "23fd902b1809b8ec",
             "campaign": "26C004",

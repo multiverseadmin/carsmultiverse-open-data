@@ -2,14 +2,28 @@
     "dataset": "uk-recalls-abroad",
     "title": "The same recall, Britain and abroad",
     "what": "Every UK recall matched by manufacturer reference to an American campaign, a Canadian recall or a European Safety Gate alert, with both dates and the gap in days. One row per UK recall with at least one match.",
-    "rows": 719,
-    "last_built": "2026-09-10T04:20:53+00:00",
-    "downloaded": "2026-09-11T03:47:25+00:00",
+    "rows": 721,
+    "last_built": "2026-09-11T04:21:01+00:00",
+    "downloaded": "2026-09-12T03:45:51+00:00",
     "source": "DVSA RecallsFile.csv joined to NHTSA, Transport Canada and Safety Gate on the maker's own reference",
     "page": "https://carsmultiverse.com/britain-and-america/",
     "licence": "CC BY 4.0",
     "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
     "data": [
+        {
+            "uk_reference": "R/2026/345",
+            "uk_launched": "2026-09-04",
+            "make": "Ford",
+            "models": "Mustang",
+            "manufacturer_code": "26C32",
+            "us_campaign": "26V418",
+            "us_filed": "2026-06-30",
+            "days_uk_to_us": -66,
+            "canada_recall": "2026319",
+            "canada_date": "2026-06-30",
+            "eu_alerts": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-345/"
+        },
         {
             "uk_reference": "R/2026/236",
             "uk_launched": "2026-09-01",
@@ -65,6 +79,20 @@
             "canada_date": "",
             "eu_alerts": 1,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-341/"
+        },
+        {
+            "uk_reference": "R/2026/328",
+            "uk_launched": "2026-08-13",
+            "make": "Husqvarna Motorcycles",
+            "models": "FE 501, FE 250, FE 250 Heritage and 13 more",
+            "manufacturer_code": "132698518",
+            "us_campaign": "",
+            "us_filed": "",
+            "days_uk_to_us": "",
+            "canada_recall": "",
+            "canada_date": "",
+            "eu_alerts": 1,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-328/"
         },
         {
             "uk_reference": "R/2026/253",

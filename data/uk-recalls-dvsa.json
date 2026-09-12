@@ -2,9 +2,9 @@
     "dataset": "uk-recalls-dvsa",
     "title": "Every UK recall since 1992, from the DVSA file",
     "what": "One row per DVSA recall reference: launch date, make, models, concern, vehicles listed, how many times this site has caught the wording being rewritten, and the page that keeps every version. Contains public sector information licensed under the Open Government Licence v3.0.",
-    "rows": 8954,
-    "last_built": "2026-09-10T04:20:47+00:00",
-    "downloaded": "2026-09-11T03:47:23+00:00",
+    "rows": 8958,
+    "last_built": "2026-09-11T04:20:56+00:00",
+    "downloaded": "2026-09-12T03:45:48+00:00",
     "source": "DVSA, Check vehicle recalls, RecallsFile.csv, read daily",
     "page": "https://carsmultiverse.com/uk-recalls/",
     "licence": "CC BY 4.0",
@@ -19,6 +19,26 @@
             "vehicles": 19,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-030/"
+        },
+        {
+            "reference": "R/2026/319",
+            "launched": "2026-09-07",
+            "make": "Hyundai",
+            "models": "Ioniq 5",
+            "concern": "Some vehicles may have a potential issue with one module within the high voltage battery which may have been manufactured with misaligned electrodes.",
+            "vehicles": 3,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-319/"
+        },
+        {
+            "reference": "R/2026/345",
+            "launched": "2026-09-04",
+            "make": "Ford",
+            "models": "Mustang",
+            "concern": "26C32 Mustang - Windshield Wipers and Washer System Potentially Inoperative During Freezing Temperatures",
+            "vehicles": 1126,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-345/"
         },
         {
             "reference": "R/2026/342",
@@ -429,6 +449,16 @@
             "vehicles": 4721,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-251/"
+        },
+        {
+            "reference": "R/2026/340",
+            "launched": "2026-07-22",
+            "make": "Hymer Gmbh & Kg",
+            "models": "Ayers Rock, Grand Canyon, Yellowstone and 4 more",
+            "concern": "Inspect Aguti ISOFIX bracket and replace if necessary",
+            "vehicles": 477,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-340/"
         },
         {
             "reference": "R/2026/303",
@@ -1956,7 +1986,7 @@
             "make": "Man Truck And Bus",
             "models": "TGL, TGX, TGS and 1 more",
             "concern": "9027TRen TGA TGL TGM TGS TGX eTGS eTGX hTGX Truck chassis: Replace affected drag links and/or track rods.",
-            "vehicles": 395,
+            "vehicles": 431,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-063/"
         },
@@ -3289,6 +3319,16 @@
             "vehicles": 4850,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2025-520/"
+        },
+        {
+            "reference": "R/2026/348",
+            "launched": "2025-12-03",
+            "make": "Stromer",
+            "models": "ST3 With Suspension Fork, ST5 With Suspension Fork and ST7 With Suspension Fork",
+            "concern": "Stromer ST3 ST5 and ST7 Bicycles fitted with WREN Front Suspension Forks (2512-0123)",
+            "vehicles": 19,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-348/"
         },
         {
             "reference": "R/2025/525",

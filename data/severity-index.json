@@ -3,8 +3,8 @@
     "title": "The same defect, scored in two languages",
     "what": "Campaigns matched across the American and Dutch registers, with a severity score for each country&rsquo;s wording of the same defect and the gap between them.",
     "rows": 40,
-    "last_built": "2026-09-10T17:40:20+00:00",
-    "downloaded": "2026-09-11T03:47:33+00:00",
+    "last_built": "2026-09-11T17:38:55+00:00",
+    "downloaded": "2026-09-12T03:45:58+00:00",
     "source": "NHTSA and the Netherlands vehicle register, matched on manufacturer code and year",
     "page": "https://carsmultiverse.com/recall-severity-index/",
     "licence": "CC BY 4.0",
@@ -369,24 +369,6 @@
             "nl_text": "Hierdoor kan deze in het ergste geval loskomen en in het verkeer terecht komen."
         },
         {
-            "maker_code": "SRVRCL25002",
-            "us_campaign": "25V570",
-            "nl_reference": "MGP250338",
-            "reported_by": "Ducati North Europe",
-            "us_score": 2,
-            "nl_score": 1,
-            "us_flags": [
-                "crash",
-                "injury"
-            ],
-            "nl_flags": [
-                "crash"
-            ],
-            "gap": 1,
-            "us_text": "A rear wheel axle that breaks while riding can result in a loss of motorcycle control, increasing the risk of a crash or injury.",
-            "nl_text": "Dit kan leiden tot verlies van de controle over het voertuig met een ongeval als gevolg."
-        },
-        {
             "maker_code": "SVRCL025018",
             "us_campaign": "25V587",
             "nl_reference": "MGP250351",
@@ -684,6 +666,25 @@
             "gap": 0,
             "us_text": "A loss of headlight function while driving can reduce visibility and increase the risk of a crash.",
             "nl_text": "Als de koplampen uitvallen tijdens het rijden, vermindert het zicht, wat het risico op een ongeval vergroot."
+        },
+        {
+            "maker_code": "25S09",
+            "us_campaign": "25V093",
+            "nl_reference": "MGP250089",
+            "reported_by": "Ford Nederland B.V.",
+            "us_score": 2,
+            "nl_score": 2,
+            "us_flags": [
+                "crash",
+                "injury"
+            ],
+            "nl_flags": [
+                "crash",
+                "injury"
+            ],
+            "gap": 0,
+            "us_text": "A loose seat belt or seat belt buckle may not properly restrain an occupant during a crash, increasing the risk of injury.",
+            "nl_text": "Verkeerd bevestigde veiligheidsgordels kunnen een inzittende tijdens een botsing wellicht niet goed tegenhouden, waardoor het risico op verwondingen toeneemt."
         }
     ]
 }
