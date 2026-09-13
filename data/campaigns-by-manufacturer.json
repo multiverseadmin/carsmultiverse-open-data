@@ -3,8 +3,8 @@
     "title": "The record, counted by manufacturer",
     "what": "One row per manufacturer whose recall notices we hold, with how many of its campaigns have a dated copy here. This is an index of our own holdings, not of the register.",
     "rows": 1479,
-    "last_built": "2026-09-12T03:45:04+00:00",
-    "downloaded": "2026-09-12T03:46:07+00:00",
+    "last_built": "2026-09-13T03:44:46+00:00",
+    "downloaded": "2026-09-13T03:46:36+00:00",
     "source": "Our own archive of NHTSA notices, grouped by the manufacturer named in each notice",
     "page": "https://carsmultiverse.com/recall/",
     "licence": "CC BY 4.0",
@@ -13,7 +13,7 @@
         {
             "make": "ford",
             "label": "Ford",
-            "campaigns": 773
+            "campaigns": 776
         },
         {
             "make": "chrysler",
@@ -38,7 +38,7 @@
         {
             "make": "daimler-trucks",
             "label": "Daimler Trucks North America",
-            "campaigns": 345
+            "campaigns": 346
         },
         {
             "make": "bmw",
@@ -113,7 +113,7 @@
         {
             "make": "paccar",
             "label": "Paccar",
-            "campaigns": 137
+            "campaigns": 138
         },
         {
             "make": "winnebago",

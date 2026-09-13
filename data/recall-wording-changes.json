@@ -2,14 +2,86 @@
     "dataset": "recall-wording-changes",
     "title": "Notices that were rewritten after they were published",
     "what": "Every American recall notice caught changing after publication, with the full text as we read it before and the full text after, and the hour of each reading.",
-    "rows": 86,
-    "last_built": "2026-09-12T03:46:02+00:00",
-    "downloaded": "2026-09-12T03:46:02+00:00",
+    "rows": 94,
+    "last_built": "2026-09-13T03:46:31+00:00",
+    "downloaded": "2026-09-13T03:46:31+00:00",
     "source": "NHTSA recalls API, re-read on a six-hour cycle",
     "page": "https://carsmultiverse.com/vehicle-recall-change-register/",
     "licence": "CC BY 4.0",
     "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
     "data": [
+        {
+            "id": "b9abc778126d937f",
+            "campaign": "26V461",
+            "field": "remedy",
+            "before": "Dealers will install rivets along the driver's side window seam and entrance door seam, free of charge. Owner notification letters are expected to be mailed September 14, 2026. Owners may contact International's customer service at 1-800-448-7825. International's number for this recall is 26512.",
+            "after": "Dealers will install rivets along the driver's side window seam and entrance door seam, free of charge. Owner notification letters were mailed September 8, 2026. Owners may contact International's customer service at 1-800-448-7825. International's number for this recall is 26512.",
+            "before_read": "2026-09-11T16:40:57+00:00",
+            "after_read": "2026-09-12T17:41:11+00:00"
+        },
+        {
+            "id": "3b98fd696b05108e",
+            "campaign": "26V465",
+            "field": "remedy",
+            "before": "Dealers will install the rear impact guard extension channels, free of charge. Owner notification letters are expected to be mailed September 15, 2026. Owners may contact Great Dane's customer service at 1-877-369-3493.",
+            "after": "Dealers will install the rear impact guard extension channels, free of charge. Owner notification letters were mailed September 3, 2026. Owners may contact Great Dane's customer service at 1-877-369-3493.",
+            "before_read": "2026-09-12T05:04:08+00:00",
+            "after_read": "2026-09-12T11:19:38+00:00"
+        },
+        {
+            "id": "468b2cb2511f409e",
+            "campaign": "26V460",
+            "field": "remedy",
+            "before": "Dealers will install rivets along the driver's side window seam and entrance door seam, free of charge. Owner notification letters are expected to be mailed September 14, 2026. Owners may contact International's customer service at 1-800-448-7825. International's number for this recall is 26511.",
+            "after": "Dealers will install rivets along the driver's side window seam and entrance door seam, free of charge. Owner notification letters were mailed September 8, 2026. Owners may contact International's customer service at 1-800-448-7825. International's number for this recall is 26511.",
+            "before_read": "2026-09-12T04:49:20+00:00",
+            "after_read": "2026-09-12T11:04:05+00:00"
+        },
+        {
+            "id": "6e99c49577c2dba4",
+            "campaign": "26V459",
+            "field": "remedy",
+            "before": "Dealers will install plastic saddles onto the positive interconnect cable, install wind laces and a J-bolt between each battery, free of charge. Owner notification letters are expected to be mailed October 26, 2026. Owners may contact International customer service at 1-800-448-7825. International's number for this recall is 26510. This recall replaces and expands NHTSA Recall 25V534. Vehicles previously repaired under 25V534 will need the new remedy completed.",
+            "after": "Dealers will install plastic saddles onto the positive interconnect cable, install wind laces and a J-bolt between each battery, free of charge. Interim letters notifying owners of the safety risk were mailed September 8, 2026. Owners will receive another notice once remedy becomes available. Owners may contact International customer service at 1-800-448-7825. International's number for this recall is 26510. This recall replaces and expands NHTSA Recall 25V534. Vehicles previously repaired under 25V534 will need the new remedy completed.",
+            "before_read": "2026-09-12T04:49:20+00:00",
+            "after_read": "2026-09-12T11:04:05+00:00"
+        },
+        {
+            "id": "2cbe588a6a9de640",
+            "campaign": "26V458",
+            "field": "remedy",
+            "before": "Dealers will drill additional drain holes in the underside of the tailgate trim. Additionally, dealers will inspect and replace the rearview camera as necessary. Repairs will be performed free of charge. Interim letters notifying owners of the safety risk are expected to be mailed September 11, 2026. Additional letters will be sent once the remedy is available. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover's number for this recall is D145.",
+            "after": "Dealers will drill additional drain holes in the underside of the tailgate trim. Additionally, dealers will inspect and replace the rearview camera as necessary. Repairs will be performed free of charge. Owner notification letters were mailed September 10, 2026. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover's number for this recall is D145.",
+            "before_read": "2026-09-12T04:49:20+00:00",
+            "after_read": "2026-09-12T11:04:05+00:00"
+        },
+        {
+            "id": "6339e4bd2486e2d5",
+            "campaign": "26V347",
+            "field": "summary",
+            "before": "Forest River Bus, LLC (Forest River Bus) is recalling certain 2026 Glaval Titan II, Primetime, Entourage, Concorde II, Commute, Forest River Bus Eldorado, Champion Bus, Starcraft Starlite, Allstar XL, 2026-2027 Glaval Universal, Starcraft Allstar, Startrans Candidate II, and 2025-2027 Forest River Bus Senator II, equipped with certain QRT-3 wheelchair retractors. The retractors may not lock, preventing the wheelchair from being properly secured.",
+            "after": "Forest River Bus, LLC (Forest River Bus) is recalling certain 2026 Glaval Titan II, Primetime, Entourage, Concorde II, Commute, Forest River Bus Eldorado, Champion Bus, Starcraft Starlite, Allstar XL, Forest River Van, 2026-2027 Glaval Universal, Starcraft Allstar, Startrans Candidate II, 2025-2026 Mobility Trans Safetbus, and 2025-2027 Forest River Bus Senator II, equipped with certain QRT-3 wheelchair retractors. The retractors may not lock, preventing the wheelchair from being properly secured.",
+            "before_read": "2026-09-12T04:19:01+00:00",
+            "after_read": "2026-09-12T10:34:42+00:00"
+        },
+        {
+            "id": "d60f65f1bdbad7ab",
+            "campaign": "26V180",
+            "field": "remedy",
+            "before": "Dealers will inspect and replace the front passenger seat frame assembly, as necessary, free of charge. Interim letters notifying owners of the safety risk were mailed April 27, 2026. Additional letters will be sent once the final remedy is available, anticipated September 17, 2026. Owners may contact Toyota's customer service at 1-800-331-4331. Toyota's numbers for this recall are 26LB03 and 26LA03.",
+            "after": "Dealers will inspect and replace the front passenger seat frame assembly, as necessary, free of charge. Interim letters notifying owners of the safety risk were mailed April 27, 2026. Additional letters will be sent once the final remedy is available, anticipated September 17 - October 1, 2026. Owners may contact Toyota's customer service at 1-800-331-4331. Toyota's numbers for this recall are 26LB03 and 26LA03.",
+            "before_read": "2026-09-12T03:49:42+00:00",
+            "after_read": "2026-09-12T10:04:15+00:00"
+        },
+        {
+            "id": "ca4c73afb38d00ec",
+            "campaign": "26V128",
+            "field": "remedy",
+            "before": "Dealers will replace the return springs in the seat back recliner assemblies, free of charge. Interim letters notifying owners of the safety risk were mailed April 27, 2026. Additional letters will be sent once the final remedy is available, anticipated August 27, 2026. This is a phased recall. Owners may contact Toyota’s customer service at 1-800-331-4331. Toyota's numbers for this recall are 26TB06 and 26TA06.",
+            "after": "Dealers will replace the return springs in the seat back recliner assemblies, free of charge. Owner letters were mailed September 9, 2026. This is a phased recall. Owners may contact Toyota’s customer service at 1-800-331-4331. Toyota's numbers for this recall are 26TB06 and 26TA06.",
+            "before_read": "2026-09-12T03:34:50+00:00",
+            "after_read": "2026-09-12T09:49:09+00:00"
+        },
         {
             "id": "0751acfb609184b5",
             "campaign": "26V495",

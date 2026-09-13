@@ -13,8 +13,8 @@ Autocar,"Autocar, LLC",2,autocar,98,107146,57,244,684,0,89,22,3,10
 Arcimoto,"Arcimoto Inc",1,arcimoto,30,3454,57,65,98,0,23,1,0,12
 "Nova Bus (US)","Nova Bus (US) Inc.",1,nova-bus-us,52,15284,56,109,302,0,41,14,0,13
 "REV Recreation Group","REV Recreation Group",1,rev-recreation-group,44,38979,56,59,222,0,39,1,0,14
-"Ferrari North America","Ferrari North America, Inc.",2,ferrari-north-america,28,64958,55.5,131,525,0,22,7,2,15
-"Toyota Motor Engineering & Manufacturing","Toyota Motor Engineering & Manufacturing",1,toyota-motor-engineering-manufacturing,237,51688724,55,189,487,0,194,54,2,16
+"Toyota Motor Engineering & Manufacturing","Toyota Motor Engineering & Manufacturing",1,toyota-motor-engineering-manufacturing,238,52238731,55.5,189,487,0,195,55,2,15
+"Ferrari North America","Ferrari North America, Inc.",2,ferrari-north-america,28,64958,55.5,131,525,0,22,7,2,16
 "Hyundai Motor America","Hyundai Motor America",1,hyundai-motor-america,200,17742633,55,120,298,2,181,42,1,17
 "Vac-Tron Equipment","Vac-Tron Equipment, LLC",1,vac-tron-equipment,15,3337,55,61,63,0,15,0,0,18
 "Mitsubishi Fuso Truck of America","Mitsubishi Fuso Truck of America, Inc.",2,mitsubishi-fuso-truck-of-america,27,85739,54.5,74,392,1,22,2,1,19
@@ -28,14 +28,14 @@ Cummins,"Cummins, Inc.",3,cummins,51,422059,52,101,212,0,45,8,0,26
 PACCAR,"PACCAR Incorporated",2,paccar,182,1967485,51.5,131,720,1,136,30,6,27
 "Rosenbauer America","Rosenbauer America",1,rosenbauer-america,18,3229,51.5,96,439,0,12,3,0,28
 Navistar,"Navistar, Inc.",2,navistar,260,1211271,51,110,378,1,187,35,8,29
-"Volvo Bus","Volvo Bus Corporation",1,volvo-bus,24,3743,51,177,716,0,20,5,0,30
-"Autocar Industries","Autocar Industries, LLC",2,autocar-industries,18,3131,51,58,141,0,13,2,1,31
-"Prevost Car (US)","Prevost Car (US) Inc.",1,prevost-car-us,38,42390,50.5,177,290,0,29,11,0,32
-"Mazda North American Operations","Mazda North American Operations",2,mazda-north-american-operations,95,7349798,50,185,714,0,82,15,0,33
-"McLaren Automotive","McLaren Automotive Incorporated",1,mclaren-automotive,15,9949,50,92,666,0,11,3,0,34
-"International Motors","International Motors, LLC",1,international-motors,38,210076,49.5,95,195,0,35,5,0,35
+"International Motors","International Motors, LLC",1,international-motors,40,232856,51,95,195,0,37,5,0,30
+"Volvo Bus","Volvo Bus Corporation",1,volvo-bus,24,3743,51,177,716,0,20,5,0,31
+"Autocar Industries","Autocar Industries, LLC",2,autocar-industries,18,3131,51,58,141,0,13,2,1,32
+"Prevost Car (US)","Prevost Car (US) Inc.",1,prevost-car-us,38,42390,50.5,177,290,0,29,11,0,33
+"Mazda North American Operations","Mazda North American Operations",2,mazda-north-american-operations,95,7349798,50,185,714,0,82,15,0,34
+"McLaren Automotive","McLaren Automotive Incorporated",1,mclaren-automotive,15,9949,50,92,666,0,11,3,0,35
 "Mercedes-Benz USA","Mercedes-Benz USA, LLC.",3,mercedes-benz-usa,385,9358456,49,137,1075,0,329,79,0,36
-"Jaguar Land Rover North America","Jaguar Land Rover North America, LLC",2,jaguar-land-rover-north-america,189,1682399,49,137,382,1,166,36,0,37
+"Jaguar Land Rover North America","Jaguar Land Rover North America, LLC",2,jaguar-land-rover-north-america,190,1697934,49,137,382,1,167,36,0,37
 "Corp. Micro Bird","Corp. Micro Bird, Inc.",4,corp-micro-bird,99,105385,49,60,160,0,78,6,0,38
 "Prevost Cars","Prevost Cars, Inc.",2,prevost-cars,63,26034,49,133,276,2,42,10,0,39
 "Volvo Car USA","Volvo Car USA, LLC",2,volvo-car-usa,52,2473000,49,69,167,0,46,4,0,40
@@ -55,7 +55,7 @@ HME,"HME, Inc.",2,hme,17,948,45.5,217,220,0,12,4,1,51
 "Volvo Trucks North America","Volvo Trucks North America",2,volvo-trucks-north-america,114,562446,44,101,204,0,75,17,3,54
 "Ferrara Fire Apparatus","Ferrara Fire Apparatus, Inc.",2,ferrara-fire-apparatus,25,1407,44,81,379,1,16,3,2,55
 "Lamborghini (Automobili Lamborghini)","Lamborghini (Automobili Lamborghini)",1,lamborghini-automobili-lamborghini,23,31952,44,58,200,0,19,1,0,56
-"Great Dane Trailers","Great Dane Trailers",1,great-dane-trailers,37,43240,43,63,205,0,27,2,2,57
+"Great Dane Trailers","Great Dane Trailers",1,great-dane-trailers,38,43251,43,63,205,0,28,2,2,57
 "Chrysler (FCA US, LLC)","Chrysler (FCA US, LLC)",2,chrysler-fca-us-llc,497,60358280,42,175,637,1,293,87,7,58
 "Volkswagen Group of America","Volkswagen Group of America, Inc.",1,volkswagen-group-of-america,318,14081564,42,155,599,0,197,61,2,59
 "Mack Trucks","Mack Trucks, Inc.",2,mack-trucks,133,387575,42,97,261,0,87,16,3,60
@@ -112,7 +112,7 @@ Lakota,"Lakota Corporation",1,lakota,17,2404,29,49,79,0,7,0,1,109
 "Halcore Group","Halcore Group, Inc.",1,halcore-group,28,6859,28,60,65,1,12,0,0,111
 "Entegra Coach","Entegra Coach",2,entegra-coach,48,10903,27,52,60,0,17,0,7,112
 "Eldorado National- California","Eldorado National- California, Inc.",2,eldorado-national-california,26,5679,27,61,146,0,12,1,0,113
-"Forest River Bus","Forest River Bus, LLC",1,forest-river-bus,21,12789,27,38,64,1,9,0,0,114
+"Forest River Bus","Forest River Bus, LLC",1,forest-river-bus,21,12897,27,38,64,1,9,0,0,114
 "Triumph Motorcycles America","Triumph Motorcycles America, LTD",3,triumph-motorcycles-america,54,111045,26,40,59,0,18,0,1,115
 Jayco,"Jayco, Inc.",2,jayco,222,552582,25,56,284,1,86,6,5,116
 "Grand Design RV","Grand Design RV, LLC",1,grand-design-rv,57,291216,24,45,109,0,15,1,0,117

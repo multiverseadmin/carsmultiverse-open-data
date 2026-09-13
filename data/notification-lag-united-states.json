@@ -3,8 +3,8 @@
     "title": "How long manufacturers take to tell owners",
     "what": "One row per manufacturer: the median and ninetieth-percentile gap between a defect reaching the regulator and owners being written to, across every American recall since 2010 that carries both dates.",
     "rows": 141,
-    "last_built": "2026-09-12T03:36:06+00:00",
-    "downloaded": "2026-09-12T03:45:52+00:00",
+    "last_built": "2026-09-13T03:36:12+00:00",
+    "downloaded": "2026-09-13T03:46:14+00:00",
     "source": "NHTSA, FLAT_RCL_POST_2010 bulk file, read in full",
     "page": "https://carsmultiverse.com/how-long-before-they-tell-you/",
     "licence": "CC BY 4.0",
@@ -235,6 +235,22 @@
             "rank": 14
         },
         {
+            "mfg": "Toyota Motor Engineering & Manufacturing",
+            "raw": "Toyota Motor Engineering & Manufacturing",
+            "spellings": 1,
+            "slug": "toyota-motor-engineering-manufacturing",
+            "recalls": 238,
+            "units": 52238731,
+            "median": 55.5,
+            "p90": 189,
+            "worst": 487,
+            "same_day": 0,
+            "over_30": 195,
+            "over_90": 55,
+            "early": 2,
+            "rank": 15
+        },
+        {
             "mfg": "Ferrari North America",
             "raw": "Ferrari North America, Inc.",
             "spellings": 2,
@@ -247,22 +263,6 @@
             "same_day": 0,
             "over_30": 22,
             "over_90": 7,
-            "early": 2,
-            "rank": 15
-        },
-        {
-            "mfg": "Toyota Motor Engineering & Manufacturing",
-            "raw": "Toyota Motor Engineering & Manufacturing",
-            "spellings": 1,
-            "slug": "toyota-motor-engineering-manufacturing",
-            "recalls": 237,
-            "units": 51688724,
-            "median": 55,
-            "p90": 189,
-            "worst": 487,
-            "same_day": 0,
-            "over_30": 194,
-            "over_90": 54,
             "early": 2,
             "rank": 16
         },
@@ -475,6 +475,22 @@
             "rank": 29
         },
         {
+            "mfg": "International Motors",
+            "raw": "International Motors, LLC",
+            "spellings": 1,
+            "slug": "international-motors",
+            "recalls": 40,
+            "units": 232856,
+            "median": 51,
+            "p90": 95,
+            "worst": 195,
+            "same_day": 0,
+            "over_30": 37,
+            "over_90": 5,
+            "early": 0,
+            "rank": 30
+        },
+        {
             "mfg": "Volvo Bus",
             "raw": "Volvo Bus Corporation",
             "spellings": 1,
@@ -488,7 +504,7 @@
             "over_30": 20,
             "over_90": 5,
             "early": 0,
-            "rank": 30
+            "rank": 31
         },
         {
             "mfg": "Autocar Industries",
@@ -504,7 +520,7 @@
             "over_30": 13,
             "over_90": 2,
             "early": 1,
-            "rank": 31
+            "rank": 32
         },
         {
             "mfg": "Prevost Car (US)",
@@ -520,7 +536,7 @@
             "over_30": 29,
             "over_90": 11,
             "early": 0,
-            "rank": 32
+            "rank": 33
         },
         {
             "mfg": "Mazda North American Operations",
@@ -536,7 +552,7 @@
             "over_30": 82,
             "over_90": 15,
             "early": 0,
-            "rank": 33
+            "rank": 34
         },
         {
             "mfg": "McLaren Automotive",
@@ -551,22 +567,6 @@
             "same_day": 0,
             "over_30": 11,
             "over_90": 3,
-            "early": 0,
-            "rank": 34
-        },
-        {
-            "mfg": "International Motors",
-            "raw": "International Motors, LLC",
-            "spellings": 1,
-            "slug": "international-motors",
-            "recalls": 38,
-            "units": 210076,
-            "median": 49.5,
-            "p90": 95,
-            "worst": 195,
-            "same_day": 0,
-            "over_30": 35,
-            "over_90": 5,
             "early": 0,
             "rank": 35
         },
@@ -591,13 +591,13 @@
             "raw": "Jaguar Land Rover North America, LLC",
             "spellings": 2,
             "slug": "jaguar-land-rover-north-america",
-            "recalls": 189,
-            "units": 1682399,
+            "recalls": 190,
+            "units": 1697934,
             "median": 49,
             "p90": 137,
             "worst": 382,
             "same_day": 1,
-            "over_30": 166,
+            "over_30": 167,
             "over_90": 36,
             "early": 0,
             "rank": 37
@@ -911,13 +911,13 @@
             "raw": "Great Dane Trailers",
             "spellings": 1,
             "slug": "great-dane-trailers",
-            "recalls": 37,
-            "units": 43240,
+            "recalls": 38,
+            "units": 43251,
             "median": 43,
             "p90": 63,
             "worst": 205,
             "same_day": 0,
-            "over_30": 27,
+            "over_30": 28,
             "over_90": 2,
             "early": 2,
             "rank": 57
@@ -1824,7 +1824,7 @@
             "spellings": 1,
             "slug": "forest-river-bus",
             "recalls": 21,
-            "units": 12789,
+            "units": 12897,
             "median": 27,
             "p90": 38,
             "worst": 64,

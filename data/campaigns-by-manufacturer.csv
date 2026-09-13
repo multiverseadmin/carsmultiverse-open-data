@@ -1,10 +1,10 @@
 make,label,campaigns
-ford,Ford,773
+ford,Ford,776
 chrysler,Ram,601
 forest-river,"Forest River",547
 general-motors,"General Motors",474
 mercedes-benz,Mercedes-Benz,391
-daimler-trucks,"Daimler Trucks North America",345
+daimler-trucks,"Daimler Trucks North America",346
 bmw,BMW,328
 volkswagen,Volkswagen,272
 honda,Honda,256
@@ -19,7 +19,7 @@ navistar,Navistar,179
 keystone,Keystone,170
 kia,Kia,164
 blue-bird,"Blue Bird",159
-paccar,Paccar,137
+paccar,Paccar,138
 winnebago,Winnebago,130
 mercedes-benz-vans,"Mercedes-Benz Vans",123
 autocar,Autocar,118
