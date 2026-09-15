@@ -3,8 +3,8 @@
     "title": "Recalls that were never completed",
     "what": "By manufacturer: how many recalled vehicles are still recorded as unrepaired, and what share of the total that is.",
     "rows": 37,
-    "last_built": "2026-09-13T15:45:12+00:00",
-    "downloaded": "2026-09-14T03:48:43+00:00",
+    "last_built": "2026-09-14T15:47:13+00:00",
+    "downloaded": "2026-09-15T03:49:15+00:00",
     "source": "Netherlands national vehicle-register open data, recall completion figures",
     "page": "https://carsmultiverse.com/recalls-never-completed/",
     "licence": "CC BY 4.0",
@@ -27,8 +27,8 @@
         {
             "maker": "Mercedes-Benz Nederland B.V. (Vans)",
             "campaigns": 154,
-            "total": 240553,
-            "open": 101002,
+            "total": 240523,
+            "open": 100988,
             "share": 0.4199
         },
         {
@@ -41,15 +41,15 @@
         {
             "maker": "BMW Nederland B.V.",
             "campaigns": 251,
-            "total": 430735,
-            "open": 160178,
-            "share": 0.3719
+            "total": 430682,
+            "open": 160148,
+            "share": 0.3718
         },
         {
             "maker": "Jaguar Land Rover Nederland B.V.",
             "campaigns": 143,
-            "total": 49125,
-            "open": 16644,
+            "total": 49118,
+            "open": 16641,
             "share": 0.3388
         },
         {
@@ -62,23 +62,23 @@
         {
             "maker": "Renault Trucks Nederland - terugroepacties",
             "campaigns": 7,
-            "total": 6441,
-            "open": 2081,
-            "share": 0.3231
+            "total": 6439,
+            "open": 2079,
+            "share": 0.3229
         },
         {
             "maker": "Mercedes-Benz Nederland B.V. (Cars)",
             "campaigns": 341,
-            "total": 274736,
-            "open": 79925,
+            "total": 274695,
+            "open": 79921,
             "share": 0.2909
         },
         {
             "maker": "Daimler Trucks Nederland B.V.",
             "campaigns": 133,
-            "total": 15362,
+            "total": 15355,
             "open": 4292,
-            "share": 0.2794
+            "share": 0.2795
         },
         {
             "maker": "Scania Nederland B.V.",
@@ -104,8 +104,8 @@
         {
             "maker": "Ford Nederland B.V.",
             "campaigns": 212,
-            "total": 373600,
-            "open": 87384,
+            "total": 373576,
+            "open": 87379,
             "share": 0.2339
         },
         {
@@ -139,35 +139,35 @@
         {
             "maker": "Stellantis Nederland B.V.",
             "campaigns": 872,
-            "total": 1100745,
-            "open": 217295,
+            "total": 1100650,
+            "open": 217258,
             "share": 0.1974
         },
         {
             "maker": "Hyundai Motor Netherlands b.v.",
             "campaigns": 86,
-            "total": 165906,
-            "open": 31523,
+            "total": 165826,
+            "open": 31507,
             "share": 0.19
         },
         {
             "maker": "Pon's Automobielhandel B.V.",
             "campaigns": 375,
-            "total": 574704,
-            "open": 91268,
+            "total": 574547,
+            "open": 91238,
             "share": 0.1588
         },
         {
             "maker": "Kia Nederland B.V.",
             "campaigns": 60,
-            "total": 153014,
-            "open": 24294,
-            "share": 0.1588
+            "total": 153007,
+            "open": 24289,
+            "share": 0.1587
         },
         {
             "maker": "KTM Sportmotorcycle Nederland B.V.",
             "campaigns": 39,
-            "total": 8041,
+            "total": 8042,
             "open": 1229,
             "share": 0.1528
         },
@@ -188,8 +188,8 @@
         {
             "maker": "Mitsubishi Motor Sales Nederland B.V.",
             "campaigns": 58,
-            "total": 189189,
-            "open": 21262,
+            "total": 189177,
+            "open": 21261,
             "share": 0.1124
         },
         {
@@ -202,22 +202,22 @@
         {
             "maker": "Honda Motor Europe Benelux Branche",
             "campaigns": 102,
-            "total": 103991,
-            "open": 7365,
+            "total": 103979,
+            "open": 7363,
             "share": 0.0708
         },
         {
             "maker": "Pon's Automobielhandel B.V. (Luxury Cars)",
             "campaigns": 106,
-            "total": 28591,
+            "total": 28583,
             "open": 1854,
-            "share": 0.0648
+            "share": 0.0649
         },
         {
             "maker": "Louwman & Parqui B.V.",
             "campaigns": 215,
-            "total": 767061,
-            "open": 49254,
+            "total": 766955,
+            "open": 49246,
             "share": 0.0642
         },
         {
@@ -230,44 +230,44 @@
         {
             "maker": "Volvo Cars Nederland B.V.",
             "campaigns": 91,
-            "total": 309461,
-            "open": 19575,
-            "share": 0.0633
+            "total": 309392,
+            "open": 19568,
+            "share": 0.0632
         },
         {
             "maker": "B.V. Nimag",
             "campaigns": 74,
-            "total": 141237,
+            "total": 141235,
             "open": 8835,
             "share": 0.0626
         },
         {
             "maker": "Mazda Motor Nederland",
             "campaigns": 74,
-            "total": 140855,
+            "total": 140831,
             "open": 8371,
             "share": 0.0594
         },
         {
             "maker": "Nissan Nederland",
             "campaigns": 96,
-            "total": 221062,
-            "open": 10047,
+            "total": 221019,
+            "open": 10044,
             "share": 0.0454
         },
         {
             "maker": "Renault Nederland N.V.",
             "campaigns": 153,
-            "total": 214449,
+            "total": 214426,
             "open": 7419,
             "share": 0.0346
         },
         {
             "maker": "Tesla Motors Netherlands BV",
             "campaigns": 25,
-            "total": 95686,
-            "open": 3115,
-            "share": 0.0326
+            "total": 95606,
+            "open": 3101,
+            "share": 0.0324
         }
     ]
 }
