@@ -3,8 +3,8 @@
     "title": "How long Dutch owners waited to be told",
     "what": "Per reporting party: the median, ninetieth-percentile and worst gap in days between a manufacturer declaring a defect to the Netherlands vehicle register and owners being informed.",
     "rows": 31,
-    "last_built": "2026-09-14T08:05:59+00:00",
-    "downloaded": "2026-09-15T03:49:08+00:00",
+    "last_built": "2026-09-15T08:05:58+00:00",
+    "downloaded": "2026-09-16T03:48:04+00:00",
     "source": "Netherlands national vehicle-register open data, recall actions (j9yg-7rg9)",
     "page": "https://carsmultiverse.com/recall-notification-delay/",
     "licence": "CC BY 4.0",
@@ -28,9 +28,9 @@
         },
         {
             "producer": "Klintberg and Way Parts AB",
-            "recalls": 24,
-            "median_days": 70,
-            "p90_days": 192,
+            "recalls": 25,
+            "median_days": 75,
+            "p90_days": 195,
             "worst_days": 402,
             "same_day": 0
         },

@@ -2,9 +2,9 @@
     "dataset": "same-recall-two-countries",
     "title": "The same recall, filed in two countries",
     "what": "Campaign pairs we believe describe one defect in both the American and Dutch registers, with both countries&rsquo; own words for the consequence, and the years each was filed.",
-    "rows": 88,
-    "last_built": "2026-09-14T23:59:07+00:00",
-    "downloaded": "2026-09-15T03:49:09+00:00",
+    "rows": 89,
+    "last_built": "2026-09-15T23:59:05+00:00",
+    "downloaded": "2026-09-16T03:48:05+00:00",
     "source": "NHTSA and the Netherlands vehicle register",
     "page": "https://carsmultiverse.com/same-recall-different-country/",
     "licence": "CC BY 4.0",
@@ -1680,6 +1680,25 @@
             "nl_conseq": "Door de schuring kunnen de circuits bloot komen te liggen. Dit kan kortsluiting veroorzaken met mogelijk brand tot gevolg.",
             "us_conseq": "A short circuit in the engine compartment can create heat or spark, increasing the risk of a fire.",
             "us_remedy": "Dealers will install sheathing over the wiring, free of charge. This is a Phased campaign. Phase 1 will include 2026 Bronco Raptor notified owners on 7/31/2026. Phase 2 will include 2021-2025 Bronco Raptor vehicle will notify owners on or about 8/14/2026. Phase 3 will include 2021-2026 Bronco will notify owners on or about 9/1/2026. Owner notification letters were mailed August 5, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S55. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 23, 2026.",
+            "us_reported": ""
+        },
+        {
+            "maker_code": "N252536750",
+            "us_year": 2026,
+            "year_gap": 0,
+            "needs_review": false,
+            "review_reason": "",
+            "us_campaign": "26V085",
+            "nl_reference": "MGP260356",
+            "reported_by": "Klintberg and Way Parts AB",
+            "nl_announced": "2026-03-31",
+            "nl_reported": "2026-09-07",
+            "nl_owners": "2026-10-12",
+            "nl_published": "2026-09-14",
+            "nl_defect": "Een regelklep van de automatische versnellingsbak kan overmatig slijten.",
+            "nl_conseq": "De wielen op de achteras kunnen mogelijk blokkeren door abrupte schakelingen. Dit verhoogt het risico op ongelukken.",
+            "us_conseq": "Rear wheels that lock up while driving increase the risk of a crash.",
+            "us_remedy": "Dealers will install new transmission control module (TCM) software, free of charge. Owner notification letters were mailed April 7, 2026. Owners may contact GM customer service at 1-888-988-7267, Cadillac customer service at 1-800-458-8006, GMC customer service at GMC 1-800-462-8782 or Chevrolet customer service at 1-800-222-1020. GM's number for this recall is N252536750. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on February 12, 2026.",
             "us_reported": ""
         }
     ]

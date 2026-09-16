@@ -1,7 +1,10 @@
 reference,launched,make,models,concern,vehicles,rewrites_caught,page
 R/2026/030,2027-02-03,Ford,Kuga,"25C79 Kuga - Powertrain Control Module Software Update",19,0,https://carsmultiverse.com/uk-recall/r-2026-030/
+R/2026/326,2026-09-14,Mercedes-Benz,GLE,"Installation of the Heat Shield",98,0,https://carsmultiverse.com/uk-recall/r-2026-326/
+R/2026/322,2026-09-14,Hyundai,"Santa FE MX5 and Ioniq 6 CE EV","The vehicle may have incorrectly secured front seat belt anchor points",12875,0,https://carsmultiverse.com/uk-recall/r-2026-322/
 R/2026/319,2026-09-07,Hyundai,"Ioniq 5","Some vehicles may have a potential issue with one module within the high voltage battery which may have been manufactured with misaligned electrodes.",3,0,https://carsmultiverse.com/uk-recall/r-2026-319/
 R/2026/345,2026-09-04,Ford,Mustang,"26C32 Mustang - Windshield Wipers and Washer System Potentially Inoperative During Freezing Temperatures",1126,0,https://carsmultiverse.com/uk-recall/r-2026-345/
+R/2026/344,2026-09-04,"Volvo Bus","B0E(3), B13R3, B13RH397 and 2 more","Identification plate wrong value",57,0,https://carsmultiverse.com/uk-recall/r-2026-344/
 R/2026/342,2026-09-02,Skoda,"Superb, Octavia, Rapid and 1 more","Replacing TAKATA driver airbag",9,0,https://carsmultiverse.com/uk-recall/r-2026-342/
 R/2026/310,2026-09-01,"Bmw Motorrad",S1000RR,"Ignition lock may fail",4122,0,https://carsmultiverse.com/uk-recall/r-2026-310/
 R/2026/236,2026-09-01,"Adria Concessionaires","Twin 640 SPX, Compact SC, Compact SP and 20 more",165-ISOFIX,2628,0,https://carsmultiverse.com/uk-recall/r-2026-236/
@@ -37,6 +40,7 @@ R/2026/312,2026-07-31,Ford,Transit,"26C36 - Transit – Vehicle Identification N
 R/2026/276,2026-07-31,"Smart Automotive",#5,"Vehicle Total upgrade via sVDS 2.0",14,0,https://carsmultiverse.com/uk-recall/r-2026-276/
 R/2025/369,2026-07-31,Ford,Mustang,"25S75 Cross Carline - Low Pressure Fuel Pump Potential Failure",774,0,https://carsmultiverse.com/uk-recall/r-2025-369/
 R/2026/306,2026-07-30,Ford,"Transit, Transit Custom and Tourneo Custom","26S49 – Transit and Transit/Tourneo Custom – Automatic Transmission Snap Ring",111,0,https://carsmultiverse.com/uk-recall/r-2026-306/
+R/2026/260,2026-07-30,"Honda Motorcycles",SH125,"Meter Control Program Defect",162,0,https://carsmultiverse.com/uk-recall/r-2026-260/
 R/2026/296,2026-07-29,"Nissan (Gb)","Interstar (XDD) and Interstar (XDE)","INTERSTAR XDD/XDE Emissions Label",134,0,https://carsmultiverse.com/uk-recall/r-2026-296/
 R/2026/311,2026-07-28,Cupra,Tavascan,"Reprogramming matrix beam headlights",3939,0,https://carsmultiverse.com/uk-recall/r-2026-311/
 R/2026/278,2026-07-28,"Daimler Truck","Actros 963 and Arocs 964","SRL260624 – LESCHUSTA – Check drag link",1473,0,https://carsmultiverse.com/uk-recall/r-2026-278/
@@ -127,6 +131,7 @@ R/2026/119,2026-05-06,"Aston Martin","DBX, DBX707 and DBX S","DBX Rear Lower Arm
 R/2026/181,2026-05-05,Ford,"Focus, Galaxy, Kuga and 3 more","Multi Vehicle Line (MVL): Telecommunications Control Module (TCU) loss of Function Software Update",12956,0,https://carsmultiverse.com/uk-recall/r-2026-181/
 R/2026/192,2026-05-04,Audi,Q5,"Replacing seat belt with tensioner",2119,0,https://carsmultiverse.com/uk-recall/r-2026-192/
 R/2026/128,2026-05-04,Hyundai,"Kona OS EV","Some vehicles fitted with a high voltage battery may have internal cell voltage deviation",25056,0,https://carsmultiverse.com/uk-recall/r-2026-128/
+R/2026/307,2026-05-01,"Vega Auto Accessories","JET 'J' Motorcycle Helmet Batch 1-6, JET 'J' Motorcycle Helmet Batch 7 and JET 'J' Motorcycle Helmet Batch 8-9","Two wheeler motorcycle helmets Type: JET ‘J’ Approval No.: E11*22R05/03*0527*02",28004,0,https://carsmultiverse.com/uk-recall/r-2026-307/
 R/2026/194,2026-05-01,"Volvo Bus",B8R,"Urea Pump Replace",7,0,https://carsmultiverse.com/uk-recall/r-2026-194/
 R/2026/195,2026-04-30,"Harley Davidson","Fltrt, Flhlt, Fxbr and 6 more","2024-2026 MILWAUKEE-EIGHT AIRBOX BASEPLATE",568,0,https://carsmultiverse.com/uk-recall/r-2026-195/
 R/2026/180,2026-04-29,Ford,"Tourneo Connect and Transit Connect","25C74 Transit Connect Tourneo Connect - Position Lights Not Operating Correctly",19,0,https://carsmultiverse.com/uk-recall/r-2026-180/
@@ -4614,7 +4619,7 @@ R/2016/154,2016-08-18,Jaguar,F-Pace,"RISK OF FIRE",143,0,https://carsmultiverse.
 R/2016/177,2016-08-12,Honda,Civic,"POSSIBLE WHEEL LOCK WHEN ABS ACTIVATED",769,0,https://carsmultiverse.com/uk-recall/r-2016-177/
 R/2016/121,2016-08-12,Chrysler,"Jeep Cherokee","CENTRE REAR SEAT BELT RETRACTOR MAY NOT COMPLY WITH REQUIREMENTS",15,0,https://carsmultiverse.com/uk-recall/r-2016-121/
 RM/2016/029,2016-08-08,"Honda Motorcycles",GL1800,"AIRBAG MAY NOT DEPLOY CORRECTLY",970,0,https://carsmultiverse.com/uk-recall/rm-2016-029/
-R/2016/196,2016-08-08,"Temsa Global",MD9,"VEHICLE MAY CATCH FIRE",15,0,https://carsmultiverse.com/uk-recall/r-2016-196/
+R/2016/196,2016-08-08,Temsa,MD9,"VEHICLE MAY CATCH FIRE",15,0,https://carsmultiverse.com/uk-recall/r-2016-196/
 R/2016/127,2016-08-08,Honda,"Civic and CR-V","PASSENGER SIDE AIRBAG MAY FAIL TO DEPLOY CORRECTLY",92888,0,https://carsmultiverse.com/uk-recall/r-2016-127/
 RSPV/2020/020,2016-08-05,"Hymer Gmbh & Kg","Eriba Nova","GAS LOCKER FLAP IS DETACHED",17,0,https://carsmultiverse.com/uk-recall/rspv-2020-020/
 R/2016/180,2016-08-05,Seat,"Leon, Ibiza, Toledo and 1 more","MANUAL CHILD LOCK MAY DISENGAGE WITHOUT WARNING",5336,0,https://carsmultiverse.com/uk-recall/r-2016-180/
@@ -4629,7 +4634,7 @@ R/2016/142,2016-08-01,Subaru,Tribeca,"BONNET CATCH MAY OPEN",744,0,https://carsm
 R/2016/126,2016-08-01,Honda,Legend,"PASSENGER SIDE AIRBAG MAY FAIL TO DEPLOY CORRECTLY",581,0,https://carsmultiverse.com/uk-recall/r-2016-126/
 RM/2016/037,2016-07-29,"Harley Davidson","Touring, CVO and Softail","LOSS OF CONTROL",1539,0,https://carsmultiverse.com/uk-recall/rm-2016-037/
 RCOMP/2016/011,2016-07-28,"Mann And Hummel",841/6,"FUEL MAY LEAK",3400,0,https://carsmultiverse.com/uk-recall/rcomp-2016-011/
-R/2016/178,2016-07-28,"Temsa Global",MD9,"HANDBRAKE MAY RELEASE UNINTENTIONALLY",27,0,https://carsmultiverse.com/uk-recall/r-2016-178/
+R/2016/178,2016-07-28,Temsa,MD9,"HANDBRAKE MAY RELEASE UNINTENTIONALLY",27,0,https://carsmultiverse.com/uk-recall/r-2016-178/
 R/2016/155,2016-07-28,Mitsubishi,"I-Miev, L200, Lancer Evolution and 1 more","INDICATORS AND/OR OTHER VEHICLE LIGHTS MAY SWITCH OFF OR BLINK WITHOUT WARNING",7204,0,https://carsmultiverse.com/uk-recall/r-2016-155/
 RSPV/2016/011,2016-07-26,Polaris,RZR,"FIRE MAY OCCUR - STOP RIDE STOP SALE",21,0,https://carsmultiverse.com/uk-recall/rspv-2016-011/
 R/2016/175,2016-07-26,Chevrolet,Cruze,"ENGINE MAY STALL",781,0,https://carsmultiverse.com/uk-recall/r-2016-175/
@@ -5374,7 +5379,7 @@ R/2014/034,2014-03-25,"Volvo Car",V40,"CEM SOFTWARE MAY MALFUNCTION",1492,0,http
 RM/2014/011,2014-03-24,Piaggio,Caponord,"MACHINE MAY CUT OUT",8,0,https://carsmultiverse.com/uk-recall/rm-2014-011/
 R/2014/027,2014-03-17,Honda,CR-V,"WRONG SIZE BRAKE DISCS COULD REDUCE BRAKE PERFORMANCE",2363,0,https://carsmultiverse.com/uk-recall/r-2014-027/
 RM/2014/006,2014-03-14,"Honda Motorcycles","CBR500 and CB500","ENGINE MAY STALL",3464,0,https://carsmultiverse.com/uk-recall/rm-2014-006/
-R/2014/032,2014-03-14,"Temsa Global",Safari,"STEERING MAY FAIL",10,0,https://carsmultiverse.com/uk-recall/r-2014-032/
+R/2014/032,2014-03-14,Temsa,Safari,"STEERING MAY FAIL",10,0,https://carsmultiverse.com/uk-recall/r-2014-032/
 R/2014/024,2014-03-10,"Toyota (Gb)",Prius,"LOSS OF POWER MAY OCCUR",30788,0,https://carsmultiverse.com/uk-recall/r-2014-024/
 RCOMP/2014/002,2014-03-07,Honeywell,"Jurid Honeywell 562188JC, Bendix Honeywell 562188BC, Jurid Honeywell 562188J and 1 more","BRAKE DISC MAY FAIL",480,0,https://carsmultiverse.com/uk-recall/rcomp-2014-002/
 R/2013/151,2014-03-07,Jeep,"Grand Cherokee","INSTRUMENT CLUSTER MAY FAIL",349,0,https://carsmultiverse.com/uk-recall/r-2013-151/

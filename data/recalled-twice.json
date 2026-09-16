@@ -2,9 +2,9 @@
     "dataset": "recalled-twice",
     "title": "The same part, recalled again and again",
     "what": "Every model-and-part combination with more than one separate recall campaign against it in the United States. One row per combination.",
-    "rows": 472,
-    "last_built": "2026-09-15T02:50:54+00:00",
-    "downloaded": "2026-09-15T03:49:01+00:00",
+    "rows": 474,
+    "last_built": "2026-09-16T02:50:42+00:00",
+    "downloaded": "2026-09-16T03:47:57+00:00",
     "source": "NHTSA, FLAT_RCL_POST_2010 bulk file, read in full",
     "page": "https://carsmultiverse.com/recalled-twice/",
     "licence": "CC BY 4.0",
@@ -449,6 +449,20 @@
         },
         {
             "make": "JEEP",
+            "model": "CHEROKEE",
+            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+            "times": 4,
+            "first_seen": "18V492000",
+            "last_seen": "23V302000",
+            "campaigns": [
+                "18V492000",
+                "18V739000",
+                "20V343000",
+                "23V302000"
+            ]
+        },
+        {
+            "make": "JEEP",
             "model": "WRANGLER",
             "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
             "times": 4,
@@ -556,6 +570,19 @@
         },
         {
             "make": "BMW",
+            "model": "X1",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+            "times": 3,
+            "first_seen": "24V104000",
+            "last_seen": "26V422000",
+            "campaigns": [
+                "24V104000",
+                "24V739000",
+                "26V422000"
+            ]
+        },
+        {
+            "make": "BMW",
             "model": "X3",
             "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
             "times": 3,
@@ -569,15 +596,54 @@
         },
         {
             "make": "BMW",
-            "model": "X3",
-            "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
+            "model": "X5",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
             "times": 3,
-            "first_seen": "25V202000",
-            "last_seen": "26V438000",
+            "first_seen": "24V104000",
+            "last_seen": "26V422000",
             "campaigns": [
-                "25V202000",
-                "26V056000",
-                "26V438000"
+                "24V104000",
+                "24V739000",
+                "26V422000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "X6",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+            "times": 3,
+            "first_seen": "24V104000",
+            "last_seen": "26V422000",
+            "campaigns": [
+                "24V104000",
+                "24V739000",
+                "26V422000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "X7",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+            "times": 3,
+            "first_seen": "24V104000",
+            "last_seen": "26V422000",
+            "campaigns": [
+                "24V104000",
+                "24V739000",
+                "26V422000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "XM",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+            "times": 3,
+            "first_seen": "24V104000",
+            "last_seen": "26V422000",
+            "campaigns": [
+                "24V104000",
+                "24V739000",
+                "26V422000"
             ]
         },
         {
@@ -661,19 +727,6 @@
         {
             "make": "FORD",
             "model": "EXPLORER",
-            "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
-            "times": 3,
-            "first_seen": "20V693000",
-            "last_seen": "25V166000",
-            "campaigns": [
-                "20V693000",
-                "23V675000",
-                "25V166000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "EXPLORER",
             "component": "ENGINE",
             "times": 3,
             "first_seen": "20V788000",
@@ -682,6 +735,19 @@
                 "20V788000",
                 "22V454000",
                 "24V598000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "EXPLORER",
+            "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+            "times": 3,
+            "first_seen": "20V693000",
+            "last_seen": "25V166000",
+            "campaigns": [
+                "20V693000",
+                "23V675000",
+                "25V166000"
             ]
         },
         {
@@ -739,6 +805,19 @@
         {
             "make": "FORD",
             "model": "F-150",
+            "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+            "times": 3,
+            "first_seen": "20V332000",
+            "last_seen": "25V236000",
+            "campaigns": [
+                "20V332000",
+                "22V150000",
+                "25V236000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "F-150",
             "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
             "times": 3,
             "first_seen": "22V188000",
@@ -752,19 +831,6 @@
         {
             "make": "FORD",
             "model": "FOCUS",
-            "component": "POWER TRAIN:MANUAL TRANSMISSION",
-            "times": 3,
-            "first_seen": "18V169000",
-            "last_seen": "26V376000",
-            "campaigns": [
-                "18V169000",
-                "18V845000",
-                "26V376000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "FOCUS",
             "component": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
             "times": 3,
             "first_seen": "18V735000",
@@ -773,6 +839,19 @@
                 "18V735000",
                 "19V515000",
                 "26V369000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "FOCUS",
+            "component": "POWER TRAIN:MANUAL TRANSMISSION",
+            "times": 3,
+            "first_seen": "18V169000",
+            "last_seen": "26V376000",
+            "campaigns": [
+                "18V169000",
+                "18V845000",
+                "26V376000"
             ]
         },
         {
@@ -890,19 +969,6 @@
                 "16V284000",
                 "16V287000",
                 "18V494000"
-            ]
-        },
-        {
-            "make": "JEEP",
-            "model": "CHEROKEE",
-            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
-            "times": 3,
-            "first_seen": "18V492000",
-            "last_seen": "23V302000",
-            "campaigns": [
-                "18V492000",
-                "18V739000",
-                "23V302000"
             ]
         },
         {
@@ -1194,19 +1260,6 @@
         {
             "make": "TOYOTA",
             "model": "CAMRY",
-            "component": "EQUIPMENT:OTHER:LABELS",
-            "times": 3,
-            "first_seen": "16V420000",
-            "last_seen": "19V503000",
-            "campaigns": [
-                "16V420000",
-                "19V244000",
-                "19V503000"
-            ]
-        },
-        {
-            "make": "TOYOTA",
-            "model": "CAMRY",
             "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
             "times": 3,
             "first_seen": "16V215000",
@@ -1215,6 +1268,19 @@
                 "16V215000",
                 "19V567000",
                 "23V865000"
+            ]
+        },
+        {
+            "make": "TOYOTA",
+            "model": "CAMRY",
+            "component": "EQUIPMENT:OTHER:LABELS",
+            "times": 3,
+            "first_seen": "16V420000",
+            "last_seen": "19V503000",
+            "campaigns": [
+                "16V420000",
+                "19V244000",
+                "19V503000"
             ]
         },
         {
@@ -1625,6 +1691,18 @@
         },
         {
             "make": "BMW",
+            "model": "I7",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+            "times": 2,
+            "first_seen": "24V104000",
+            "last_seen": "26V422000",
+            "campaigns": [
+                "24V104000",
+                "26V422000"
+            ]
+        },
+        {
+            "make": "BMW",
             "model": "M3",
             "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
             "times": 2,
@@ -1662,18 +1740,6 @@
         {
             "make": "BMW",
             "model": "M5",
-            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
-            "times": 2,
-            "first_seen": "19V684000",
-            "last_seen": "20V598000",
-            "campaigns": [
-                "19V684000",
-                "20V598000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "M5",
             "component": "ELECTRICAL SYSTEM:WIRING",
             "times": 2,
             "first_seen": "19V883000",
@@ -1681,6 +1747,18 @@
             "campaigns": [
                 "19V883000",
                 "26V096000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "M5",
+            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+            "times": 2,
+            "first_seen": "19V684000",
+            "last_seen": "20V598000",
+            "campaigns": [
+                "19V684000",
+                "20V598000"
             ]
         },
         {
@@ -1721,14 +1799,14 @@
         },
         {
             "make": "BMW",
-            "model": "X1",
+            "model": "X2",
             "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
             "times": 2,
             "first_seen": "24V104000",
-            "last_seen": "24V739000",
+            "last_seen": "26V422000",
             "campaigns": [
                 "24V104000",
-                "24V739000"
+                "26V422000"
             ]
         },
         {
@@ -1781,6 +1859,42 @@
         },
         {
             "make": "BMW",
+            "model": "X3",
+            "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
+            "times": 2,
+            "first_seen": "25V202000",
+            "last_seen": "26V056000",
+            "campaigns": [
+                "25V202000",
+                "26V056000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "X4",
+            "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+            "times": 2,
+            "first_seen": "19V291000",
+            "last_seen": "20V152000",
+            "campaigns": [
+                "19V291000",
+                "20V152000"
+            ]
+        },
+        {
+            "make": "BMW",
+            "model": "X4",
+            "component": "SEATS",
+            "times": 2,
+            "first_seen": "19V563000",
+            "last_seen": "23V211000",
+            "campaigns": [
+                "19V563000",
+                "23V211000"
+            ]
+        },
+        {
+            "make": "BMW",
             "model": "X4",
             "component": "STEERING",
             "times": 2,
@@ -1801,42 +1915,6 @@
             "campaigns": [
                 "19V684000",
                 "20V598000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "X4",
-            "component": "SEATS",
-            "times": 2,
-            "first_seen": "19V563000",
-            "last_seen": "23V211000",
-            "campaigns": [
-                "19V563000",
-                "23V211000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "X4",
-            "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
-            "times": 2,
-            "first_seen": "19V291000",
-            "last_seen": "20V152000",
-            "campaigns": [
-                "19V291000",
-                "20V152000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "X4",
-            "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
-            "times": 2,
-            "first_seen": "26V056000",
-            "last_seen": "26V438000",
-            "campaigns": [
-                "26V056000",
-                "26V438000"
             ]
         },
         {
@@ -1878,18 +1956,6 @@
         {
             "make": "BMW",
             "model": "X5",
-            "component": "STEERING:COLUMN",
-            "times": 2,
-            "first_seen": "20V434000",
-            "last_seen": "21V031000",
-            "campaigns": [
-                "20V434000",
-                "21V031000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "X5",
             "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
             "times": 2,
             "first_seen": "20V465000",
@@ -1913,18 +1979,6 @@
         },
         {
             "make": "BMW",
-            "model": "X5",
-            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
-            "times": 2,
-            "first_seen": "24V104000",
-            "last_seen": "24V739000",
-            "campaigns": [
-                "24V104000",
-                "24V739000"
-            ]
-        },
-        {
-            "make": "BMW",
             "model": "X6",
             "component": "STRUCTURE:BODY",
             "times": 2,
@@ -1937,14 +1991,14 @@
         },
         {
             "make": "BMW",
-            "model": "X6",
-            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+            "model": "X7",
+            "component": "AIR BAGS",
             "times": 2,
-            "first_seen": "24V104000",
-            "last_seen": "24V739000",
+            "first_seen": "19V386000",
+            "last_seen": "23V622000",
             "campaigns": [
-                "24V104000",
-                "24V739000"
+                "19V386000",
+                "23V622000"
             ]
         },
         {
@@ -1957,18 +2011,6 @@
             "campaigns": [
                 "19V135000",
                 "22V670000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "X7",
-            "component": "AIR BAGS",
-            "times": 2,
-            "first_seen": "19V386000",
-            "last_seen": "23V622000",
-            "campaigns": [
-                "19V386000",
-                "23V622000"
             ]
         },
         {
@@ -1997,42 +2039,6 @@
         },
         {
             "make": "BMW",
-            "model": "X7",
-            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
-            "times": 2,
-            "first_seen": "24V104000",
-            "last_seen": "24V739000",
-            "campaigns": [
-                "24V104000",
-                "24V739000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "XM",
-            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
-            "times": 2,
-            "first_seen": "24V104000",
-            "last_seen": "24V739000",
-            "campaigns": [
-                "24V104000",
-                "24V739000"
-            ]
-        },
-        {
-            "make": "BMW",
-            "model": "Z4",
-            "component": "ENGINE",
-            "times": 2,
-            "first_seen": "19V732000",
-            "last_seen": "21V598000",
-            "campaigns": [
-                "19V732000",
-                "21V598000"
-            ]
-        },
-        {
-            "make": "BMW",
             "model": "Z4",
             "component": "EXTERIOR LIGHTING:HEADLIGHTS",
             "times": 2,
@@ -2046,13 +2052,13 @@
         {
             "make": "BMW",
             "model": "Z4",
-            "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
+            "component": "ENGINE",
             "times": 2,
-            "first_seen": "26V056000",
-            "last_seen": "26V438000",
+            "first_seen": "19V732000",
+            "last_seen": "21V598000",
             "campaigns": [
-                "26V056000",
-                "26V438000"
+                "19V732000",
+                "21V598000"
             ]
         },
         {
@@ -2125,6 +2131,18 @@
             "campaigns": [
                 "22V827000",
                 "22V903000"
+            ]
+        },
+        {
+            "make": "CAN-AM",
+            "model": "RYKER",
+            "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+            "times": 2,
+            "first_seen": "19V683000",
+            "last_seen": "20V632000",
+            "campaigns": [
+                "19V683000",
+                "20V632000"
             ]
         },
         {
@@ -2298,18 +2316,6 @@
         {
             "make": "CHEVROLET",
             "model": "TRAX",
-            "component": "ELECTRICAL SYSTEM:SOFTWARE",
-            "times": 2,
-            "first_seen": "16V257000",
-            "last_seen": "16V422000",
-            "campaigns": [
-                "16V257000",
-                "16V422000"
-            ]
-        },
-        {
-            "make": "CHEVROLET",
-            "model": "TRAX",
             "component": "SEAT BELTS:PRETENSIONER",
             "times": 2,
             "first_seen": "16V651000",
@@ -2317,6 +2323,18 @@
             "campaigns": [
                 "16V651000",
                 "17V437000"
+            ]
+        },
+        {
+            "make": "CHEVROLET",
+            "model": "TRAX",
+            "component": "ELECTRICAL SYSTEM:SOFTWARE",
+            "times": 2,
+            "first_seen": "16V257000",
+            "last_seen": "16V422000",
+            "campaigns": [
+                "16V257000",
+                "16V422000"
             ]
         },
         {
@@ -2490,18 +2508,6 @@
         {
             "make": "DUCATI",
             "model": "PANIGALE V4",
-            "component": "ENGINE AND ENGINE COOLING:ENGINE",
-            "times": 2,
-            "first_seen": "18V834000",
-            "last_seen": "18V854000",
-            "campaigns": [
-                "18V834000",
-                "18V854000"
-            ]
-        },
-        {
-            "make": "DUCATI",
-            "model": "PANIGALE V4",
             "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:FILLER PIPE AND CAP",
             "times": 2,
             "first_seen": "18V238000",
@@ -2509,6 +2515,18 @@
             "campaigns": [
                 "18V238000",
                 "19V382000"
+            ]
+        },
+        {
+            "make": "DUCATI",
+            "model": "PANIGALE V4",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE",
+            "times": 2,
+            "first_seen": "18V834000",
+            "last_seen": "18V854000",
+            "campaigns": [
+                "18V834000",
+                "18V854000"
             ]
         },
         {
@@ -2754,18 +2772,6 @@
         {
             "make": "FORD",
             "model": "F-150",
-            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
-            "times": 2,
-            "first_seen": "18V214000",
-            "last_seen": "20V197000",
-            "campaigns": [
-                "18V214000",
-                "20V197000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "F-150",
             "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
             "times": 2,
             "first_seen": "18V392000",
@@ -2773,6 +2779,18 @@
             "campaigns": [
                 "18V392000",
                 "25V455000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "F-150",
+            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+            "times": 2,
+            "first_seen": "18V214000",
+            "last_seen": "20V197000",
+            "campaigns": [
+                "18V214000",
+                "20V197000"
             ]
         },
         {
@@ -2802,18 +2820,6 @@
         {
             "make": "FORD",
             "model": "F-150",
-            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST",
-            "times": 2,
-            "first_seen": "20V332000",
-            "last_seen": "22V150000",
-            "campaigns": [
-                "20V332000",
-                "22V150000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "F-150",
             "component": "STRUCTURE:FRAME AND MEMBERS:UNDERBODY SHIELDS",
             "times": 2,
             "first_seen": "21V986000",
@@ -2838,18 +2844,6 @@
         {
             "make": "FORD",
             "model": "F-150",
-            "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
-            "times": 2,
-            "first_seen": "22V142000",
-            "last_seen": "22V842000",
-            "campaigns": [
-                "22V142000",
-                "22V842000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "F-150",
             "component": "STEERING:COLUMN",
             "times": 2,
             "first_seen": "22V253000",
@@ -2857,6 +2851,18 @@
             "campaigns": [
                 "22V253000",
                 "24V329000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "F-150",
+            "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+            "times": 2,
+            "first_seen": "22V142000",
+            "last_seen": "22V842000",
+            "campaigns": [
+                "22V142000",
+                "22V842000"
             ]
         },
         {
@@ -2982,6 +2988,18 @@
         {
             "make": "FORD",
             "model": "MUSTANG",
+            "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+            "times": 2,
+            "first_seen": "20V573000",
+            "last_seen": "23V800000",
+            "campaigns": [
+                "20V573000",
+                "23V800000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "MUSTANG",
             "component": "FORWARD COLLISION AVOIDANCE: SENSING SYSTEM: CAMERA",
             "times": 2,
             "first_seen": "20V306000",
@@ -3030,18 +3048,6 @@
         {
             "make": "FORD",
             "model": "RANGER",
-            "component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM:FAN/MOTOR",
-            "times": 2,
-            "first_seen": "19V726000",
-            "last_seen": "20V137000",
-            "campaigns": [
-                "19V726000",
-                "20V137000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "RANGER",
             "component": "EXTERIOR LIGHTING:TAIL LIGHTS",
             "times": 2,
             "first_seen": "19V839000",
@@ -3049,6 +3055,18 @@
             "campaigns": [
                 "19V839000",
                 "26V104000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "RANGER",
+            "component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM:FAN/MOTOR",
+            "times": 2,
+            "first_seen": "19V726000",
+            "last_seen": "20V137000",
+            "campaigns": [
+                "19V726000",
+                "20V137000"
             ]
         },
         {
@@ -3066,18 +3084,6 @@
         {
             "make": "FORD",
             "model": "RANGER",
-            "component": "VISIBILITY:WINDSHIELD",
-            "times": 2,
-            "first_seen": "22V451000",
-            "last_seen": "25V683000",
-            "campaigns": [
-                "22V451000",
-                "25V683000"
-            ]
-        },
-        {
-            "make": "FORD",
-            "model": "RANGER",
             "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
             "times": 2,
             "first_seen": "22V685000",
@@ -3090,13 +3096,13 @@
         {
             "make": "FORD",
             "model": "RANGER",
-            "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+            "component": "VISIBILITY:WINDSHIELD",
             "times": 2,
-            "first_seen": "24V597000",
-            "last_seen": "25V237000",
+            "first_seen": "22V451000",
+            "last_seen": "25V683000",
             "campaigns": [
-                "24V597000",
-                "25V237000"
+                "22V451000",
+                "25V683000"
             ]
         },
         {
@@ -3114,13 +3120,13 @@
         {
             "make": "FORD",
             "model": "RANGER",
-            "component": "SEATS:CRITICAL FASTENERS",
+            "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
             "times": 2,
-            "first_seen": "25V311000",
-            "last_seen": "26V268000",
+            "first_seen": "24V597000",
+            "last_seen": "25V237000",
             "campaigns": [
-                "25V311000",
-                "26V268000"
+                "24V597000",
+                "25V237000"
             ]
         },
         {
@@ -3133,6 +3139,18 @@
             "campaigns": [
                 "25V315000",
                 "25V442000"
+            ]
+        },
+        {
+            "make": "FORD",
+            "model": "RANGER",
+            "component": "SEATS:CRITICAL FASTENERS",
+            "times": 2,
+            "first_seen": "25V311000",
+            "last_seen": "26V268000",
+            "campaigns": [
+                "25V311000",
+                "26V268000"
             ]
         },
         {
@@ -3462,18 +3480,6 @@
         {
             "make": "HONDA",
             "model": "FIT",
-            "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
-            "times": 2,
-            "first_seen": "23V046000",
-            "last_seen": "24V384000",
-            "campaigns": [
-                "23V046000",
-                "24V384000"
-            ]
-        },
-        {
-            "make": "HONDA",
-            "model": "FIT",
             "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
             "times": 2,
             "first_seen": "24V064000",
@@ -3553,18 +3559,6 @@
             "campaigns": [
                 "24V064000",
                 "26V332000"
-            ]
-        },
-        {
-            "make": "HONDA",
-            "model": "PASSPORT",
-            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
-            "times": 2,
-            "first_seen": "20V439000",
-            "last_seen": "20V440000",
-            "campaigns": [
-                "20V439000",
-                "20V440000"
             ]
         },
         {
@@ -3930,18 +3924,6 @@
         {
             "make": "JEEP",
             "model": "GRAND CHEROKEE",
-            "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE:SOFTWARE",
-            "times": 2,
-            "first_seen": "21V873000",
-            "last_seen": "26V328000",
-            "campaigns": [
-                "21V873000",
-                "26V328000"
-            ]
-        },
-        {
-            "make": "JEEP",
-            "model": "GRAND CHEROKEE",
             "component": "EXTERIOR LIGHTING:HEADLIGHTS",
             "times": 2,
             "first_seen": "21V797000",
@@ -3954,6 +3936,18 @@
         {
             "make": "JEEP",
             "model": "GRAND CHEROKEE",
+            "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE:SOFTWARE",
+            "times": 2,
+            "first_seen": "21V873000",
+            "last_seen": "26V328000",
+            "campaigns": [
+                "21V873000",
+                "26V328000"
+            ]
+        },
+        {
+            "make": "JEEP",
+            "model": "GRAND CHEROKEE",
             "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
             "times": 2,
             "first_seen": "22V426000",
@@ -3961,6 +3955,18 @@
             "campaigns": [
                 "22V426000",
                 "24V838000"
+            ]
+        },
+        {
+            "make": "JEEP",
+            "model": "GRAND CHEROKEE",
+            "component": "CHILD SEAT:VEHICLE TETHER ANCHOR",
+            "times": 2,
+            "first_seen": "22V180000",
+            "last_seen": "24V586000",
+            "campaigns": [
+                "22V180000",
+                "24V586000"
             ]
         },
         {
@@ -4074,18 +4080,6 @@
         {
             "make": "JEEP",
             "model": "WRANGLER",
-            "component": "EXTERIOR LIGHTING:TAIL LIGHTS",
-            "times": 2,
-            "first_seen": "24V414000",
-            "last_seen": "24V585000",
-            "campaigns": [
-                "24V414000",
-                "24V585000"
-            ]
-        },
-        {
-            "make": "JEEP",
-            "model": "WRANGLER",
             "component": "AIR BAGS:FRONTAL:DRIVER CLOCKSPRING/SPIRAL CASSETTE",
             "times": 2,
             "first_seen": "24V196000",
@@ -4093,6 +4087,18 @@
             "campaigns": [
                 "24V196000",
                 "24V199000"
+            ]
+        },
+        {
+            "make": "JEEP",
+            "model": "WRANGLER",
+            "component": "EXTERIOR LIGHTING:TAIL LIGHTS",
+            "times": 2,
+            "first_seen": "24V414000",
+            "last_seen": "24V585000",
+            "campaigns": [
+                "24V414000",
+                "24V585000"
             ]
         },
         {
@@ -4433,6 +4439,18 @@
         },
         {
             "make": "MINI",
+            "model": "COOPER S",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+            "times": 2,
+            "first_seen": "24V104000",
+            "last_seen": "26V422000",
+            "campaigns": [
+                "24V104000",
+                "26V422000"
+            ]
+        },
+        {
+            "make": "MINI",
             "model": "COUNTRYMAN",
             "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
             "times": 2,
@@ -4482,18 +4500,6 @@
         {
             "make": "MITSUBISHI",
             "model": "OUTLANDER",
-            "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE:SUPPORT DEVICE/STRUT",
-            "times": 2,
-            "first_seen": "25V507000",
-            "last_seen": "26V252000",
-            "campaigns": [
-                "25V507000",
-                "26V252000"
-            ]
-        },
-        {
-            "make": "MITSUBISHI",
-            "model": "OUTLANDER",
             "component": "BACK OVER PREVENTION:SOFTWARE",
             "times": 2,
             "first_seen": "25V369000",
@@ -4501,6 +4507,18 @@
             "campaigns": [
                 "25V369000",
                 "26V549000"
+            ]
+        },
+        {
+            "make": "MITSUBISHI",
+            "model": "OUTLANDER",
+            "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE:SUPPORT DEVICE/STRUT",
+            "times": 2,
+            "first_seen": "25V507000",
+            "last_seen": "26V252000",
+            "campaigns": [
+                "25V507000",
+                "26V252000"
             ]
         },
         {
@@ -4625,14 +4643,14 @@
         },
         {
             "make": "PORSCHE",
-            "model": "CAYENNE",
-            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+            "model": "911",
+            "component": "VISIBILITY:WINDSHIELD",
             "times": 2,
-            "first_seen": "19V111000",
-            "last_seen": "25V896000",
+            "first_seen": "17V135000",
+            "last_seen": "24V155000",
             "campaigns": [
-                "19V111000",
-                "25V896000"
+                "17V135000",
+                "24V155000"
             ]
         },
         {
@@ -4645,6 +4663,18 @@
             "campaigns": [
                 "19V115000",
                 "19V735000"
+            ]
+        },
+        {
+            "make": "PORSCHE",
+            "model": "CAYENNE",
+            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+            "times": 2,
+            "first_seen": "19V111000",
+            "last_seen": "25V896000",
+            "campaigns": [
+                "19V111000",
+                "25V896000"
             ]
         },
         {
@@ -4722,18 +4752,6 @@
         {
             "make": "SUBARU",
             "model": "IMPREZA",
-            "component": "ELECTRICAL SYSTEM:SOFTWARE",
-            "times": 2,
-            "first_seen": "19V743000",
-            "last_seen": "21V264000",
-            "campaigns": [
-                "19V743000",
-                "21V264000"
-            ]
-        },
-        {
-            "make": "SUBARU",
-            "model": "IMPREZA",
             "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
             "times": 2,
             "first_seen": "19V149000",
@@ -4741,6 +4759,18 @@
             "campaigns": [
                 "19V149000",
                 "23V292000"
+            ]
+        },
+        {
+            "make": "SUBARU",
+            "model": "IMPREZA",
+            "component": "ELECTRICAL SYSTEM:SOFTWARE",
+            "times": 2,
+            "first_seen": "19V743000",
+            "last_seen": "21V264000",
+            "campaigns": [
+                "19V743000",
+                "21V264000"
             ]
         },
         {
@@ -4830,18 +4860,6 @@
         {
             "make": "TESLA",
             "model": "MODEL 3",
-            "component": "SUSPENSION:FRONT",
-            "times": 2,
-            "first_seen": "21V835000",
-            "last_seen": "23V235000",
-            "campaigns": [
-                "21V835000",
-                "23V235000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL 3",
             "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
             "times": 2,
             "first_seen": "22V263000",
@@ -4854,18 +4872,6 @@
         {
             "make": "TESLA",
             "model": "MODEL 3",
-            "component": "ELECTRICAL SYSTEM:SOFTWARE",
-            "times": 2,
-            "first_seen": "22V050000",
-            "last_seen": "24V554000",
-            "campaigns": [
-                "22V050000",
-                "24V554000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL 3",
             "component": "STEERING:AUTOMATED/ADAPTIVE STEERING",
             "times": 2,
             "first_seen": "22V037000",
@@ -4873,6 +4879,18 @@
             "campaigns": [
                 "22V037000",
                 "23V085000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL 3",
+            "component": "ELECTRICAL SYSTEM:SOFTWARE",
+            "times": 2,
+            "first_seen": "22V050000",
+            "last_seen": "24V554000",
+            "campaigns": [
+                "22V050000",
+                "24V554000"
             ]
         },
         {
@@ -4962,18 +4980,6 @@
         {
             "make": "TESLA",
             "model": "MODEL X",
-            "component": "STRUCTURE:BODY",
-            "times": 2,
-            "first_seen": "20V710000",
-            "last_seen": "24V615000",
-            "campaigns": [
-                "20V710000",
-                "24V615000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL X",
             "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
             "times": 2,
             "first_seen": "20V062000",
@@ -4981,6 +4987,18 @@
             "campaigns": [
                 "20V062000",
                 "22V818000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL X",
+            "component": "STRUCTURE:BODY",
+            "times": 2,
+            "first_seen": "20V710000",
+            "last_seen": "24V615000",
+            "campaigns": [
+                "20V710000",
+                "24V615000"
             ]
         },
         {
@@ -5046,6 +5064,18 @@
         {
             "make": "TESLA",
             "model": "MODEL Y",
+            "component": "SUSPENSION:CRITICAL FASTENERS",
+            "times": 2,
+            "first_seen": "21V835000",
+            "last_seen": "22V895000",
+            "campaigns": [
+                "21V835000",
+                "22V895000"
+            ]
+        },
+        {
+            "make": "TESLA",
+            "model": "MODEL Y",
             "component": "SEAT BELTS:CRITICAL FASTENERS",
             "times": 2,
             "first_seen": "21V388000",
@@ -5070,13 +5100,13 @@
         {
             "make": "TESLA",
             "model": "MODEL Y",
-            "component": "SUSPENSION:CRITICAL FASTENERS",
+            "component": "STEERING:AUTOMATED/ADAPTIVE STEERING",
             "times": 2,
-            "first_seen": "21V835000",
-            "last_seen": "22V895000",
+            "first_seen": "22V037000",
+            "last_seen": "23V085000",
             "campaigns": [
-                "21V835000",
-                "22V895000"
+                "22V037000",
+                "23V085000"
             ]
         },
         {
@@ -5089,18 +5119,6 @@
             "campaigns": [
                 "22V050000",
                 "24V554000"
-            ]
-        },
-        {
-            "make": "TESLA",
-            "model": "MODEL Y",
-            "component": "STEERING:AUTOMATED/ADAPTIVE STEERING",
-            "times": 2,
-            "first_seen": "22V037000",
-            "last_seen": "23V085000",
-            "campaigns": [
-                "22V037000",
-                "23V085000"
             ]
         },
         {
@@ -5154,18 +5172,6 @@
         {
             "make": "TOYOTA",
             "model": "COROLLA CROSS",
-            "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
-            "times": 2,
-            "first_seen": "23V384000",
-            "last_seen": "23V864000",
-            "campaigns": [
-                "23V384000",
-                "23V864000"
-            ]
-        },
-        {
-            "make": "TOYOTA",
-            "model": "COROLLA CROSS",
             "component": "AIR BAGS:FRONTAL:DRIVER CLOCKSPRING/SPIRAL CASSETTE",
             "times": 2,
             "first_seen": "23V480000",
@@ -5173,6 +5179,18 @@
             "campaigns": [
                 "23V480000",
                 "25V040000"
+            ]
+        },
+        {
+            "make": "TOYOTA",
+            "model": "COROLLA CROSS",
+            "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+            "times": 2,
+            "first_seen": "23V384000",
+            "last_seen": "23V864000",
+            "campaigns": [
+                "23V384000",
+                "23V864000"
             ]
         },
         {
@@ -5394,6 +5412,18 @@
         {
             "make": "VOLKSWAGEN",
             "model": "ATLAS",
+            "component": "TIRES:SIDEWALL",
+            "times": 2,
+            "first_seen": "20V702000",
+            "last_seen": "21V142000",
+            "campaigns": [
+                "20V702000",
+                "21V142000"
+            ]
+        },
+        {
+            "make": "VOLKSWAGEN",
+            "model": "ATLAS",
             "component": "STEERING",
             "times": 2,
             "first_seen": "20V712000",
@@ -5413,18 +5443,6 @@
             "campaigns": [
                 "20V716000",
                 "25V334000"
-            ]
-        },
-        {
-            "make": "VOLKSWAGEN",
-            "model": "ATLAS",
-            "component": "TIRES:SIDEWALL",
-            "times": 2,
-            "first_seen": "20V702000",
-            "last_seen": "21V142000",
-            "campaigns": [
-                "20V702000",
-                "21V142000"
             ]
         },
         {
@@ -5821,6 +5839,18 @@
             "campaigns": [
                 "18V800000",
                 "21V273000"
+            ]
+        },
+        {
+            "make": "VOLVO",
+            "model": "XC90",
+            "component": "SERVICE BRAKES, HYDRAULIC",
+            "times": 2,
+            "first_seen": "21V716000",
+            "last_seen": "23V012000",
+            "campaigns": [
+                "21V716000",
+                "23V012000"
             ]
         },
         {

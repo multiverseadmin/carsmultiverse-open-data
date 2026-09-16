@@ -2,14 +2,59 @@
     "dataset": "recall-wording-changes",
     "title": "Notices that were rewritten after they were published",
     "what": "Every American recall notice caught changing after publication, with the full text as we read it before and the full text after, and the hour of each reading.",
-    "rows": 94,
-    "last_built": "2026-09-15T03:49:10+00:00",
-    "downloaded": "2026-09-15T03:49:10+00:00",
+    "rows": 99,
+    "last_built": "2026-09-16T03:48:07+00:00",
+    "downloaded": "2026-09-16T03:48:07+00:00",
     "source": "NHTSA recalls API, re-read on a six-hour cycle",
     "page": "https://carsmultiverse.com/vehicle-recall-change-register/",
     "licence": "CC BY 4.0",
     "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
     "data": [
+        {
+            "id": "a2de128601b900e5",
+            "campaign": "23V440",
+            "field": "consequence",
+            "before": "A damaged BECM can result in a loss of drive power or fire, increasing the risk of a crash or injury.",
+            "after": "A damaged BECM can result in a loss of drive power or fire, increasing the risk of a crash.",
+            "before_read": "2026-09-14T19:03:26+00:00",
+            "after_read": "2026-09-15T21:16:12+00:00"
+        },
+        {
+            "id": "fc0e01151ac79092",
+            "campaign": "26V394",
+            "field": "remedy",
+            "before": "Dealers will disable the third-row folding feature until parts are available. Once available, the seat module will be replaced. Repairs will be performed free of charge. Owner notification letters were mailed August 6, 2026. Owners may contact Cadillac customer service at 1-800-333-4223. The manufacturer's number for this recall is N262555780. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on June 18, 2026.",
+            "after": "Dealers will reprogram the software for the folding seat module, free of charge. Owner notification letters were mailed August 6, 2026. Owners may contact Cadillac customer service at 1-800-333-4223. The manufacturer's number for this recall is N262555780. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on June 18, 2026.",
+            "before_read": "2026-09-15T07:04:18+00:00",
+            "after_read": "2026-09-15T13:19:40+00:00"
+        },
+        {
+            "id": "e1f3fc84757facd2",
+            "campaign": "26V128",
+            "field": "summary",
+            "before": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2021-2024 Highlander and Highlander Hybrid vehicles. The second-row seat backs may fail to lock into position during seat back adjustment.",
+            "after": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2021-2025 Highlander and Highlander Hybrid vehicles. The second-row seat backs may fail to lock into position during seat back adjustment.",
+            "before_read": "2026-09-15T06:04:53+00:00",
+            "after_read": "2026-09-15T12:19:12+00:00"
+        },
+        {
+            "id": "c010deb509306548",
+            "campaign": "26V494",
+            "field": "summary",
+            "before": "General Motors, LLC is recalling certain 2026 Cadillac Escalade IQ, Escalade IQL, GMC Sierra EV, and Chevrolet Silverado EV vehicles. The high voltage battery may have an improperly secured internal module component.",
+            "after": "General Motors, LLC is recalling certain 2026 Cadillac Escalade IQ, Escalade IQL, GMC Sierra EV, Chevrolet Silverado EV, and 2022 GMC Hummer EV Pickup vehicles. The high voltage battery may have an improperly secured internal module component.",
+            "before_read": "2026-09-15T01:04:05+00:00",
+            "after_read": "2026-09-15T07:34:54+00:00"
+        },
+        {
+            "id": "5d639c64bc53db0c",
+            "campaign": "26V436",
+            "field": "remedy",
+            "before": "Subaru will mail a new certification label to owners, free of charge. Owners may also choose to have a dealer install the new label, free of charge. Letters informing owners of the safety risk were mailed August 24, 2026. Additional letters will be mailed once the remedy is available. Owners may contact Subaru customer service at 1-844-373-6614. Subaru's number for this recall is WRH-26.",
+            "after": "Subaru will mail a new certification label to owners, free of charge. Owners may also choose to have a dealer install the new label, free of charge. Letters informing owners of the safety risk were mailed August 27, 2026. Additional letters will be mailed once the remedy is available. Owners may contact Subaru customer service at 1-844-373-6614. Subaru's number for this recall is WRH-26.",
+            "before_read": "2026-09-15T00:50:28+00:00",
+            "after_read": "2026-09-15T07:19:31+00:00"
+        },
         {
             "id": "b9abc778126d937f",
             "campaign": "26V461",

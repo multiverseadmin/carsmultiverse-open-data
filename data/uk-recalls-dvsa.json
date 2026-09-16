@@ -2,9 +2,9 @@
     "dataset": "uk-recalls-dvsa",
     "title": "Every UK recall since 1992, from the DVSA file",
     "what": "One row per DVSA recall reference: launch date, make, models, concern, vehicles listed, how many times this site has caught the wording being rewritten, and the page that keeps every version. Contains public sector information licensed under the Open Government Licence v3.0.",
-    "rows": 8958,
-    "last_built": "2026-09-14T04:20:45+00:00",
-    "downloaded": "2026-09-15T03:48:57+00:00",
+    "rows": 8963,
+    "last_built": "2026-09-15T04:21:34+00:00",
+    "downloaded": "2026-09-16T03:47:53+00:00",
     "source": "DVSA, Check vehicle recalls, RecallsFile.csv, read daily",
     "page": "https://carsmultiverse.com/uk-recalls/",
     "licence": "CC BY 4.0",
@@ -19,6 +19,26 @@
             "vehicles": 19,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-030/"
+        },
+        {
+            "reference": "R/2026/326",
+            "launched": "2026-09-14",
+            "make": "Mercedes-Benz",
+            "models": "GLE",
+            "concern": "Installation of the Heat Shield",
+            "vehicles": 98,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-326/"
+        },
+        {
+            "reference": "R/2026/322",
+            "launched": "2026-09-14",
+            "make": "Hyundai",
+            "models": "Santa FE MX5 and Ioniq 6 CE EV",
+            "concern": "The vehicle may have incorrectly secured front seat belt anchor points",
+            "vehicles": 12875,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-322/"
         },
         {
             "reference": "R/2026/319",
@@ -39,6 +59,16 @@
             "vehicles": 1126,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-345/"
+        },
+        {
+            "reference": "R/2026/344",
+            "launched": "2026-09-04",
+            "make": "Volvo Bus",
+            "models": "B0E(3), B13R3, B13RH397 and 2 more",
+            "concern": "Identification plate wrong value",
+            "vehicles": 57,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-344/"
         },
         {
             "reference": "R/2026/342",
@@ -389,6 +419,16 @@
             "vehicles": 111,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-306/"
+        },
+        {
+            "reference": "R/2026/260",
+            "launched": "2026-07-30",
+            "make": "Honda Motorcycles",
+            "models": "SH125",
+            "concern": "Meter Control Program Defect",
+            "vehicles": 162,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-260/"
         },
         {
             "reference": "R/2026/296",
@@ -1289,6 +1329,16 @@
             "vehicles": 25056,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-128/"
+        },
+        {
+            "reference": "R/2026/307",
+            "launched": "2026-05-01",
+            "make": "Vega Auto Accessories",
+            "models": "JET 'J' Motorcycle Helmet Batch 1-6, JET 'J' Motorcycle Helmet Batch 7 and JET 'J' Motorcycle Helmet Batch 8-9",
+            "concern": "Two wheeler motorcycle helmets Type: JET ‘J’  Approval No.: E11*22R05/03*0527*02",
+            "vehicles": 28004,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-307/"
         },
         {
             "reference": "R/2026/194",
@@ -46163,7 +46213,7 @@
         {
             "reference": "R/2016/196",
             "launched": "2016-08-08",
-            "make": "Temsa Global",
+            "make": "Temsa",
             "models": "MD9",
             "concern": "VEHICLE MAY CATCH FIRE",
             "vehicles": 15,
@@ -46313,7 +46363,7 @@
         {
             "reference": "R/2016/178",
             "launched": "2016-07-28",
-            "make": "Temsa Global",
+            "make": "Temsa",
             "models": "MD9",
             "concern": "HANDBRAKE MAY RELEASE UNINTENTIONALLY",
             "vehicles": 27,
@@ -53763,7 +53813,7 @@
         {
             "reference": "R/2014/032",
             "launched": "2014-03-14",
-            "make": "Temsa Global",
+            "make": "Temsa",
             "models": "Safari",
             "concern": "STEERING MAY FAIL",
             "vehicles": 10,
