@@ -2,14 +2,41 @@
     "dataset": "recall-wording-changes",
     "title": "Notices that were rewritten after they were published",
     "what": "Every American recall notice caught changing after publication, with the full text as we read it before and the full text after, and the hour of each reading.",
-    "rows": 99,
-    "last_built": "2026-09-16T03:48:07+00:00",
-    "downloaded": "2026-09-16T03:48:07+00:00",
+    "rows": 102,
+    "last_built": "2026-09-17T03:48:03+00:00",
+    "downloaded": "2026-09-17T03:48:03+00:00",
     "source": "NHTSA recalls API, re-read on a six-hour cycle",
     "page": "https://carsmultiverse.com/vehicle-recall-change-register/",
     "licence": "CC BY 4.0",
     "attribution": "CarsMultiverse - https://carsmultiverse.com/data/",
     "data": [
+        {
+            "id": "70d33ba2283e4e4f",
+            "campaign": "26E050",
+            "field": "remedy",
+            "before": "Dealers will inspect and replace the CSA assemblies, as necessary, free of charge. Owner notification letters are expected to be mailed September 13, 2026. Owners may contact Toyota's customer service at 1-800-331-4331. Toyota's numbers for this recall are 26TK02 and 26TH02.",
+            "after": "Dealers will inspect and replace the CSA assemblies, as necessary, free of charge. Interim letters notifying owners of the safety risk are expected to be mailed September 25, 2026. Additional letters will be sent once the final remedy is available, anticipated by Quarter 4 of 2026. Owners may contact Toyota's customer service at 1-800-331-4331. Toyota's numbers for this recall are 26TK02 and 26TH02.",
+            "before_read": "2026-09-16T00:12:28+00:00",
+            "after_read": "2026-09-17T02:41:38+00:00"
+        },
+        {
+            "id": "7e2abd7a4ccb793d",
+            "campaign": "26V475",
+            "field": "remedy",
+            "before": "The remedy is currently under development. Owner notification letters are expected to be mailed September 20, 2026. Owners may contact DTNA customer service at 1-800-547-0712. DTNA's number for this recall is F1036.",
+            "after": "Dealers will update the headlight software, free of charge. Owner notification letters are expected to be mailed September 20, 2026. Owners may contact DTNA customer service at 1-800-547-0712. DTNA's number for this recall is F1036.",
+            "before_read": "2026-09-16T02:19:27+00:00",
+            "after_read": "2026-09-16T08:34:01+00:00"
+        },
+        {
+            "id": "399dda9eba52871a",
+            "campaign": "26V290",
+            "field": "remedy",
+            "before": "Dealers will update the Drivetrain Control Drivetrain Control Module, PTU, and Electronic Park Brake software, and replace the PTU, as necessary, free of charge. Interim owner notification letters explaining the safety risk are expected to be mailed June 25, 2026. Additional letters will be sent once the final remedy becomes available. Owners may contact FCA customer service at 1-800-853-1403. FCA's number for this recall is 40D. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov beginning May 14, 2026.",
+            "after": "Dealers will update the Drivetrain Control Drivetrain Control Module, PTU, and Electronic Park Brake software, and replace the PTU, as necessary, free of charge. Interim owner notification letters explaining the safety risk were mailed June 25, 2026. Additional letters will be sent once the final remedy becomes available. Owners may contact FCA customer service at 1-800-853-1403. FCA's number for this recall is 40D. Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov beginning May 14, 2026.",
+            "before_read": "2026-09-16T01:18:48+00:00",
+            "after_read": "2026-09-16T07:33:41+00:00"
+        },
         {
             "id": "a2de128601b900e5",
             "campaign": "23V440",

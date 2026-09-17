@@ -3,8 +3,8 @@
     "title": "The record, counted by manufacturer",
     "what": "One row per manufacturer whose recall notices we hold, with how many of its campaigns have a dated copy here. This is an index of our own holdings, not of the register.",
     "rows": 1479,
-    "last_built": "2026-09-16T03:45:07+00:00",
-    "downloaded": "2026-09-16T03:48:12+00:00",
+    "last_built": "2026-09-17T03:45:18+00:00",
+    "downloaded": "2026-09-17T03:48:08+00:00",
     "source": "Our own archive of NHTSA notices, grouped by the manufacturer named in each notice",
     "page": "https://carsmultiverse.com/recall/",
     "licence": "CC BY 4.0",
@@ -23,7 +23,7 @@
         {
             "make": "forest-river",
             "label": "Forest River",
-            "campaigns": 547
+            "campaigns": 549
         },
         {
             "make": "general-motors",

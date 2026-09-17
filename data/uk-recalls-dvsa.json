@@ -2,9 +2,9 @@
     "dataset": "uk-recalls-dvsa",
     "title": "Every UK recall since 1992, from the DVSA file",
     "what": "One row per DVSA recall reference: launch date, make, models, concern, vehicles listed, how many times this site has caught the wording being rewritten, and the page that keeps every version. Contains public sector information licensed under the Open Government Licence v3.0.",
-    "rows": 8963,
-    "last_built": "2026-09-15T04:21:34+00:00",
-    "downloaded": "2026-09-16T03:47:53+00:00",
+    "rows": 8965,
+    "last_built": "2026-09-16T04:22:29+00:00",
+    "downloaded": "2026-09-17T03:47:48+00:00",
     "source": "DVSA, Check vehicle recalls, RecallsFile.csv, read daily",
     "page": "https://carsmultiverse.com/uk-recalls/",
     "licence": "CC BY 4.0",
@@ -109,6 +109,16 @@
             "vehicles": 269,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-169/"
+        },
+        {
+            "reference": "R/2026/321",
+            "launched": "2026-08-31",
+            "make": "Toyota (Gb)",
+            "models": "Urban Cruiser",
+            "concern": "Title of Recall\tRear Door Outside Handle replacement on Urban Cruiser",
+            "vehicles": 521,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-321/"
         },
         {
             "reference": "R/2026/289",
@@ -559,6 +569,16 @@
             "vehicles": 6,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2026-282/"
+        },
+        {
+            "reference": "R/2026/274",
+            "launched": "2026-07-15",
+            "make": "Toyota (Gb)",
+            "models": "Proace MAX BEV",
+            "concern": "Vehicle configuration (Proxi) update on certain Toyota Proace Max BEV",
+            "vehicles": 1514,
+            "rewrites_caught": 0,
+            "page": "https://carsmultiverse.com/uk-recall/r-2026-274/"
         },
         {
             "reference": "R/2026/220",
@@ -12623,7 +12643,7 @@
         {
             "reference": "RM/2023/034",
             "launched": "2024-01-02",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Ryker",
             "concern": "The fuel pump impeller could swell and cause the fuel pump to stop working.",
             "vehicles": 136,
@@ -12673,7 +12693,7 @@
         {
             "reference": "RM/2024/002",
             "launched": "2023-12-21",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Can-Am Spyder F3 and Can-Am Spyder F3-S",
             "concern": "Rearview mirror lenses may dislodge – decreased visibility",
             "vehicles": 20,
@@ -13223,7 +13243,7 @@
         {
             "reference": "RSPV/2023/011",
             "launched": "2023-11-06",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Traxter and Maverick Trail",
             "concern": "The Operator s Guide  Maintenance Schedule  section contains incorrect information regarding driven clutch pulley maintenance intervals which may lead to clutch failure.",
             "vehicles": 375,
@@ -14903,7 +14923,7 @@
         {
             "reference": "RSPV/2023/004",
             "launched": "2023-06-02",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Traxter",
             "concern": "Some vehicles were assembled with a fuel hose assembly that may have internal damage which could lead to a fuel leak",
             "vehicles": 9,
@@ -15943,7 +15963,7 @@
         {
             "reference": "RSPV/2023/003",
             "launched": "2023-03-17",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder RT LTD 1330, Spyder RT 1330, Ryker Sport and 3 more",
             "concern": "Potential contamination or component friction in the brake light switch may cause the brake lights to stay illuminated even when the brake pedal is not pressed.",
             "vehicles": 2366,
@@ -16283,7 +16303,7 @@
         {
             "reference": "RSPV/2023/002",
             "launched": "2023-02-09",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder F3-S, Can-Am Spyder F3 and Spyder F3",
             "concern": "The rearview mirror lenses may dislodge from the mirror housing",
             "vehicles": 175,
@@ -16344,10 +16364,10 @@
             "reference": "R/2023/052",
             "launched": "2023-02-06",
             "make": "Audi",
-            "models": "A5 Cabrio, A5 and Q5",
-            "concern": "If a front airbag is deployed it is possible that the gas generator housing in which the propellant is generated may burst on vehicles manufactured within a limited period.",
-            "vehicles": 74,
-            "rewrites_caught": 0,
+            "models": "Q5, A5 Cabrio and A5",
+            "concern": "Replacing TAKATA passenger airbag gas generator",
+            "vehicles": 38603,
+            "rewrites_caught": 1,
             "page": "https://carsmultiverse.com/uk-recall/r-2023-052/"
         },
         {
@@ -16424,9 +16444,9 @@
             "reference": "R/2023/053",
             "launched": "2023-02-01",
             "make": "Audi",
-            "models": "A4 Cabrio, A4 and A6",
+            "models": "A6, A4 Cabrio and A4",
             "concern": "If a front airbag is deployed it is possible that the gas generator housing in which the propellant is generated may burst on vehicles manufactured within a limited period.",
-            "vehicles": 117,
+            "vehicles": 39,
             "rewrites_caught": 0,
             "page": "https://carsmultiverse.com/uk-recall/r-2023-053/"
         },
@@ -17443,7 +17463,7 @@
         {
             "reference": "RSPV/2022/014",
             "launched": "2022-10-31",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Ryker 900, Ryker Rally 900 ACE, Ryker 900 ACE and 4 more",
             "concern": "LIGHT AND FLASHER ELECTRICAL HARNESS IN FRONT FENDERS MAY BE LOOSE AND RUB ON THE TYRE",
             "vehicles": 3122,
@@ -18773,7 +18793,7 @@
         {
             "reference": "RSPV/2022/011",
             "launched": "2022-07-14",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Ryker",
             "concern": "THE HANDLEBAR STEM BOLT MAY BREAK SUDDENLY",
             "vehicles": 78,
@@ -19383,7 +19403,7 @@
         {
             "reference": "RM/2022/016",
             "launched": "2022-05-26",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder RT and Spyder F3",
             "concern": "THE FRONT SPROCKET MAY BE DEFECTIVE AND MAY BE SUBJECT TO PREMATURE WEAR",
             "vehicles": 826,
@@ -23753,7 +23773,7 @@
         {
             "reference": "RSPV/2021/009",
             "launched": "2021-06-17",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Traxter HD10 (82 HP Engine)",
             "concern": "THE STOCK CVT AIR INTAKE MAY BECOME COMPLETELY OBSTRUCTED WHEN VEHICLES ARE EQUIPPED WITH A TRACK KIT AND USED IN SNOW",
             "vehicles": 39,
@@ -24373,7 +24393,7 @@
         {
             "reference": "RSPV/2021/008",
             "launched": "2021-05-05",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Renegade and Outlander",
             "concern": "THE FRONT LOWER BALL JOINT MAY NOT HAVE BEEN PROPERLY INSTALLED INTO THE STEERING KNUCKLE",
             "vehicles": 106,
@@ -25183,7 +25203,7 @@
         {
             "reference": "RSPV/2021/007",
             "launched": "2021-03-18",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Ryker",
             "concern": "A HIGH HEAT COULD DEVELOP IN THE MUFFLER CAUSING THE UPPER RIGHT HAND VENT GRILL TO MELT",
             "vehicles": 1,
@@ -27243,7 +27263,7 @@
         {
             "reference": "RSPV/2020/021",
             "launched": "2020-10-16",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Ryker",
             "concern": "THE FRONT WHEELS ASSEMBLY MAY NOT HAVE BEEN TIGHTENED CORRECTLY",
             "vehicles": 50,
@@ -28673,7 +28693,7 @@
         {
             "reference": "RCOMP/2020/002",
             "launched": "2020-07-16",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Immi 4 Point Harness",
             "concern": "SOME 4-POINT HARNESSES SOLD AS AN ACCESORY COULD HAVE BEEN MANUFACTURED WITH MISSING STITCHING AT ATTACHMENT POINTS",
             "vehicles": 39,
@@ -29683,7 +29703,7 @@
         {
             "reference": "RSPV/2020/008",
             "launched": "2020-04-01",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder RT",
             "concern": "THE BRAKE MECHANISM SUPPORT COULD BREAK AND CAUSE TOTAL LOSS OF BRAKING CAPACITY",
             "vehicles": 9,
@@ -32423,7 +32443,7 @@
         {
             "reference": "RSPV/2019/006",
             "launched": "2019-10-03",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Ryker",
             "concern": "THE WHEEL NUTS MAY CRACK",
             "vehicles": 166,
@@ -38663,7 +38683,7 @@
         {
             "reference": "RSPV/2018/006",
             "launched": "2018-06-19",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Renegade and Can-Am Outlander",
             "concern": "BLOCKED FUEL TANK VENT",
             "vehicles": 796,
@@ -40713,7 +40733,7 @@
         {
             "reference": "RSPV/2017/018",
             "launched": "2017-12-19",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Outlander MAX and Outlander",
             "concern": "DPS SHAFT MAY BREAK CAUSING A LOSS OF STEERING CONTROL",
             "vehicles": 786,
@@ -42723,7 +42743,7 @@
         {
             "reference": "RSPV/2017/007",
             "launched": "2017-06-08",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "RT Roadsters",
             "concern": "HEADLIGHTS MAY PRODUCE EXCESSIVE GLARE",
             "vehicles": 1,
@@ -44883,7 +44903,7 @@
         {
             "reference": "RSPV/2016/018",
             "launched": "2016-12-20",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Defender",
             "concern": "GEARBOX  POSITION DISPLAY MAY BE INCORRECT AND MAY LEAD TO ROLL AWAY",
             "vehicles": 9,
@@ -44913,7 +44933,7 @@
         {
             "reference": "RSPV/2016/017",
             "launched": "2016-12-16",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Maverick X3",
             "concern": "STEERING MAY LOCK",
             "vehicles": 7,
@@ -47323,7 +47343,7 @@
         {
             "reference": "RSPV/2016/009",
             "launched": "2016-04-29",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Commander",
             "concern": "STEERING MAY FAIL",
             "vehicles": 2,
@@ -51363,7 +51383,7 @@
         {
             "reference": "RSPV/2015/002",
             "launched": "2015-02-17",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder",
             "concern": "FIRE MAY OCCUR",
             "vehicles": 7,
@@ -54803,7 +54823,7 @@
         {
             "reference": "RSPV/2013/002",
             "launched": "2013-10-03",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder",
             "concern": "FIRE MAY OCCUR",
             "vehicles": 30,
@@ -56203,7 +56223,7 @@
         {
             "reference": "RSPV/2012/016",
             "launched": "2012-12-21",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Commander",
             "concern": "STEERING COLUMN SPLINES MAY FAIL",
             "vehicles": 20,
@@ -56213,7 +56233,7 @@
         {
             "reference": "RSPV/2012/015",
             "launched": "2012-12-21",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder",
             "concern": "FIRE MAY OCCUR",
             "vehicles": 745,
@@ -56223,7 +56243,7 @@
         {
             "reference": "RSPV/2012/014",
             "launched": "2012-12-21",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder",
             "concern": "FIRE MAY OCCUR",
             "vehicles": 1077,
@@ -56753,7 +56773,7 @@
         {
             "reference": "RSPV/2012/009",
             "launched": "2012-10-24",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Commander",
             "concern": "FIRE MAY OCCUR",
             "vehicles": 57,
@@ -57673,7 +57693,7 @@
         {
             "reference": "RSPV/2012/002",
             "launched": "2012-04-23",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder",
             "concern": "LOSS OF BRAKING",
             "vehicles": 104,
@@ -58663,7 +58683,7 @@
         {
             "reference": "RSPV/2011/013",
             "launched": "2011-11-18",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Renegade and Outlander",
             "concern": "STEERING MAY BE AFFECTED",
             "vehicles": 52,
@@ -61013,7 +61033,7 @@
         {
             "reference": "RSPV/2010/005",
             "launched": "2010-11-17",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "DS450",
             "concern": "SPEEDOMETER READING IS INCORRECT",
             "vehicles": 110,
@@ -61263,7 +61283,7 @@
         {
             "reference": "RSPV/2011/001",
             "launched": "2010-10-14",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Ski-Doo Expedition",
             "concern": "FIRE MAY OCCUR",
             "vehicles": 3,
@@ -61563,7 +61583,7 @@
         {
             "reference": "RM/2010/021",
             "launched": "2010-09-20",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder GS",
             "concern": "STEERING MAY NOT OPERATE CORRECTLY",
             "vehicles": 390,
@@ -62473,7 +62493,7 @@
         {
             "reference": "RSPV/2010/003",
             "launched": "2010-06-07",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder",
             "concern": "CLUTCH MAY REMAIN ENGAGED STALLING THE ENGINE.",
             "vehicles": 24,
@@ -63463,7 +63483,7 @@
         {
             "reference": "RSPV/2009/010",
             "launched": "2009-12-04",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Outlander and Renegade",
             "concern": "LOSS OF DIRECTIONAL CONTROL",
             "vehicles": 52,
@@ -64273,7 +64293,7 @@
         {
             "reference": "RM/2009/026",
             "launched": "2009-07-29",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "Spyder GS",
             "concern": "STEERING MAY NOT OPERATE CORRECTLY",
             "vehicles": 256,
@@ -64573,7 +64593,7 @@
         {
             "reference": "RM/2009/020",
             "launched": "2009-06-12",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "DS450",
             "concern": "REAR BRAKES MAY BECOME INOPERATIVE",
             "vehicles": 15,
@@ -65423,7 +65443,7 @@
         {
             "reference": "RSPV/2008/027",
             "launched": "2009-02-05",
-            "make": "Brp-Can Am",
+            "make": "Brp Can-Am",
             "models": "DS90 X",
             "concern": "ENGINE MAY NOT SHUT OFF",
             "vehicles": 15,
